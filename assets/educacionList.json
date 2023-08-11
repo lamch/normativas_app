@@ -1,0 +1,125 @@
+[{ "id" : 0, "cabecera" :  "TÍTULO I", "descripcion" : "MARCO FILOSÓFICO Y POLÍTICO DE LA EDUCACIÓN BOLIVIANA", "idlibro" : 10, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "CAPÍTULO I", "descripcion" : "LA EDUCACIÓN COMO DERECHO FUNDAMENTAL", "idlibro" : 10, "TreeList" : [ 
+    { "id" : 18000, "cabecera" :  "Artículo 1. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18001, "cabecera" :  "Artículo 2. ", "descripcion" : "", "idlibro" : 10 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO II", "descripcion" : "BASES, FINES Y OBJETIVOS DE LA EDUCACIÓN", "idlibro" : 10, "TreeList" : [ 
+    { "id" : 18002, "cabecera" :  "Artículo 3. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18003, "cabecera" :  "Artículo 4. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18004, "cabecera" :  "Artículo 5. ", "descripcion" : "", "idlibro" : 10 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO III", "descripcion" : "DIVERSIDAD SOCIOCULTURAL Y LINGÜÍSTICA", "idlibro" : 10, "TreeList" : [ 
+    { "id" : 18005, "cabecera" :  "Artículo 6. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18006, "cabecera" :  "Artículo 7. ", "descripcion" : "", "idlibro" : 10 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "TÍTULO II", "descripcion" : "SISTEMA EDUCATIVO PLURINACIONAL", "idlibro" : 10, "TreeList" : [ 
+    { "id" : 18007, "cabecera" :  "Artículo 8. ", "descripcion" : "", "idlibro" : 10 },
+    { "id" : 0, "cabecera" :  "CAPÍTULO I", "descripcion" : "SUBSISTEMA DE EDUCACIÓN REGULAR", "idlibro" : 10, "TreeList" : [ 
+    { "id" : 18008, "cabecera" :  "Artículo 9. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18009, "cabecera" :  "Artículo 10. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18010, "cabecera" :  "Artículo 11. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18011, "cabecera" :  "Artículo 12. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18012, "cabecera" :  "Artículo 13. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18013, "cabecera" :  "Artículo 14. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18014, "cabecera" :  "Artículo 15. ", "descripcion" : "", "idlibro" : 10 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO II", "descripcion" : "SUBSISTEMA DE EDUCACIÓN ALTERNATIVA Y ESPECIAL", "idlibro" : 10, "TreeList" : [ 
+    { "id" : 18015, "cabecera" :  "Artículo 16. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18016, "cabecera" :  "Artículo 17. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18017, "cabecera" :  "Artículo 18. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18018, "cabecera" :  "Artículo 19. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 0, "cabecera" :  "SECCIÓN I", "descripcion" : "EDUCACIÓN ALTERNATIVA", "idlibro" : 10, "TreeList" : [ 
+    { "id" : 18019, "cabecera" :  "Artículo 21. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18020, "cabecera" :  "Artículo 22. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18021, "cabecera" :  "Artículo 23. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18022, "cabecera" :  "Artículo 24. ", "descripcion" : "", "idlibro" : 10 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN II", "descripcion" : "EDUCACIÓN ESPECIAL", "idlibro" : 10, "TreeList" : [ 
+    { "id" : 18023, "cabecera" :  "Artículo 25. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18024, "cabecera" :  "Artículo 26. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18025, "cabecera" :  "Artículo 27. ", "descripcion" : "", "idlibro" : 10 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO III", "descripcion" : "SUBSISTEMA DE ECUCACIÓN SUPERIOR DE FORMACIÓN PROFESIONAL", "idlibro" : 10, "TreeList" : [ 
+    { "id" : 18026, "cabecera" :  "Artículo 28. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18027, "cabecera" :  "Artículo 29. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18028, "cabecera" :  "Artículo 30. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 0, "cabecera" :  "SECCIÓN I", "descripcion" : "FORMACIÓN SUPERIOR DE MAESTRAS Y MAESTROS", "idlibro" : 10, "TreeList" : [ 
+    { "id" : 18029, "cabecera" :  "Artículo 31. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18030, "cabecera" :  "Artículo 32. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18031, "cabecera" :  "Artículo 33. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18032, "cabecera" :  "Artículo 34. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18033, "cabecera" :  "Artículo 35. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18034, "cabecera" :  "Artículo 36. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18035, "cabecera" :  "Artículo 37. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18036, "cabecera" :  "Artículo 38. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18037, "cabecera" :  "Artículo 39. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18038, "cabecera" :  "Artículo 40. ", "descripcion" : "", "idlibro" : 10 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN II", "descripcion" : "FORMACIÓN SUPERIOR TÉCNICA Y TECNOLÓGICA", "idlibro" : 10, "TreeList" : [ 
+    { "id" : 18039, "cabecera" :  "Artículo 41. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18040, "cabecera" :  "Artículo 42. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18041, "cabecera" :  "Artículo 43. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18042, "cabecera" :  "Artículo 44. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18043, "cabecera" :  "Artículo 45. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18044, "cabecera" :  "Artículo 46. ", "descripcion" : "", "idlibro" : 10 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN III", "descripcion" : "FORMACIÓN SUPERIOR ARTÍSTICA", "idlibro" : 10, "TreeList" : [ 
+    { "id" : 18045, "cabecera" :  "Artículo 47. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18046, "cabecera" :  "Artículo 48. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18047, "cabecera" :  "Artículo 49. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18048, "cabecera" :  "Artículo 50. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18049, "cabecera" :  "Artículo 51. ", "descripcion" : "", "idlibro" : 10 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN IV", "descripcion" : "FORMACIÓN SUPERIOR UNIVERSITARIA", "idlibro" : 10, "TreeList" : [ 
+    { "id" : 18050, "cabecera" :  "Artículo 52. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18051, "cabecera" :  "Artículo 53. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18052, "cabecera" :  "Artículo 54. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18053, "cabecera" :  "Artículo 55. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18054, "cabecera" :  "Artículo 56. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18055, "cabecera" :  "Artículo 57. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18056, "cabecera" :  "Artículo 58. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18057, "cabecera" :  "Artículo 59. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18058, "cabecera" :  "Artículo 60. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18059, "cabecera" :  "Artículo 61. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18060, "cabecera" :  "Artículo 62. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18061, "cabecera" :  "Artículo 63. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18062, "cabecera" :  "Artículo 64. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18063, "cabecera" :  "Artículo 65. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18064, "cabecera" :  "Artículo 66. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18065, "cabecera" :  "Artículo 67. ", "descripcion" : "", "idlibro" : 10 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN V", "descripcion" : "EVALUACIÓN Y ACREDITACIÓN UNIVERSITARIA", "idlibro" : 10, "TreeList" : [ 
+    { "id" : 18066, "cabecera" :  "Artículo 68. ", "descripcion" : "", "idlibro" : 10 }]}
+    ]}
+    ]},
+    { "id" : 0, "cabecera" :  "TÍTULO III", "descripcion" : "ORGANIZACIÓN CURRICULAR, ADMINISTRACIÓN Y GESTIÓN DEL SISTEMA EDUCATIVO PLURINACIONAL", "idlibro" : 10, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "CAPÍTULO I", "descripcion" : "ORGANIZACIÓN CURRICULAR", "idlibro" : 10, "TreeList" : [ 
+    { "id" : 18067, "cabecera" :  "Artículo 69. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18068, "cabecera" :  "Artículo 70. ", "descripcion" : "", "idlibro" : 10 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO II", "descripcion" : "ADMINISTRACIÓN Y GESTIÓN DE LA EDUCACIÓN", "idlibro" : 10, "TreeList" : [ 
+    { "id" : 18069, "cabecera" :  "Artículo 71. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18070, "cabecera" :  "Artículo 72. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18071, "cabecera" :  "Artículo 73. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18072, "cabecera" :  "Artículo 74. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18073, "cabecera" :  "Artículo 75. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18074, "cabecera" :  "Artículo 76. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18075, "cabecera" :  "Artículo 77. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18076, "cabecera" :  "Artículo 78. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18077, "cabecera" :  "Artículo 79. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18078, "cabecera" :  "Artículo 80. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18079, "cabecera" :  "Artículo 81. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18080, "cabecera" :  "Artículo 82. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18081, "cabecera" :  "Artículo 83. ", "descripcion" : "", "idlibro" : 10 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO III", "descripcion" : "APOYO TÉCNICO DE RECURSOS Y SERVICIOS", "idlibro" : 10, "TreeList" : [ 
+    { "id" : 18082, "cabecera" :  "Artículo 84. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18083, "cabecera" :  "Artículo 85. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18084, "cabecera" :  "Artículo 86. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18085, "cabecera" :  "Artículo 87. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18086, "cabecera" :  "Artículo 88. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18087, "cabecera" :  "Artículo 89. ", "descripcion" : "", "idlibro" : 10 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO IV", "descripcion" : "PARTICIPACIÓN SOCIAL COMUNITARIA", "idlibro" : 10, "TreeList" : [ 
+    { "id" : 18088, "cabecera" :  "Artículo 90. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18089, "cabecera" :  "Artículo 91. ", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18090, "cabecera" :  "Artículo 92. ", "descripcion" : "", "idlibro" : 10 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "TÍTULO IV", "descripcion" : "DISPOSICIONES TRANSITORIAS, ABROGATORIAS Y FINALES", "idlibro" : 10, "TreeList" : [ 
+    { "id" : 18091, "cabecera" :  "DISPOSICIONES TRANSITORIAS", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18092, "cabecera" :  "DISPOSICIÓN ABROGATORIA", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 18093, "cabecera" :  "DISPOSICIONES FINALES", "descripcion" : "", "idlibro" : 10 }]}
+    ,
+    { "id" : 0, "cabecera" :  "", "descripcion" : "", "idlibro" : 10 }, 
+    { "id" : 0, "cabecera" :  "", "descripcion" : "", "idlibro" : 10 }
+    ]
+    

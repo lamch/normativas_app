@@ -1,0 +1,38 @@
+[{ "id" : 0, "cabecera" :  "CAPÍTULO I", "descripcion" : "DISPOSICIONES GENERALES", "idlibro" : 14, "TreeList" : [ 
+    { "id" : 26000, "cabecera" :  "Artículo 1. ", "descripcion" : "", "idlibro" : 14 }, 
+    { "id" : 26001, "cabecera" :  "Artículo 2. ", "descripcion" : "", "idlibro" : 14 }, 
+    { "id" : 26002, "cabecera" :  "Artículo 3. ", "descripcion" : "", "idlibro" : 14 }, 
+    { "id" : 26003, "cabecera" :  "Artículo 4. ", "descripcion" : "", "idlibro" : 14 }, 
+    { "id" : 26004, "cabecera" :  "Artículo 5. ", "descripcion" : "", "idlibro" : 14 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO II", "descripcion" : "DE LAS MEDIDAS DE PREVENCIÓN Y EDUCACIÓN, DESTINADAS A ERRADICAR EL RACISMO Y TODA FORMA DE DISCRIMINACIÓN", "idlibro" : 14, "TreeList" : [ 
+    { "id" : 26005, "cabecera" :  "Artículo 6. ", "descripcion" : "", "idlibro" : 14 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO III", "descripcion" : "DEL COMITÉ NACIONAL CONTRA EL RACISMO Y TODA FORMA DE DISCRIMINACIÓN", "idlibro" : 14, "TreeList" : [ 
+    { "id" : 26006, "cabecera" :  "Artículo 7. ", "descripcion" : "", "idlibro" : 14 }, 
+    { "id" : 26007, "cabecera" :  "Artículo 8. ", "descripcion" : "", "idlibro" : 14 }, 
+    { "id" : 26008, "cabecera" :  "Artículo 9. ", "descripcion" : "", "idlibro" : 14 }, 
+    { "id" : 26009, "cabecera" :  "Artículo 10. ", "descripcion" : "", "idlibro" : 14 }, 
+    { "id" : 26010, "cabecera" :  "Artículo 11. ", "descripcion" : "", "idlibro" : 14 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO IV", "descripcion" : "INSTANCIAS COMPETENTES DE PROTECCIÓN A LAS VÍCTIMAS DE RACISMO Y TODA FORMA DE DISCRIMINACIÓN", "idlibro" : 14, "TreeList" : [ 
+    { "id" : 26011, "cabecera" :  "Artículo 12. ", "descripcion" : "", "idlibro" : 14 }, 
+    { "id" : 26012, "cabecera" :  "Artículo 13. ", "descripcion" : "", "idlibro" : 14 }, 
+    { "id" : 26013, "cabecera" :  "Artículo 14. ", "descripcion" : "", "idlibro" : 14 }, 
+    { "id" : 26014, "cabecera" :  "Artículo 15. ", "descripcion" : "", "idlibro" : 14 }, 
+    { "id" : 26015, "cabecera" :  "Artículo 16. ", "descripcion" : "", "idlibro" : 14 }, 
+    { "id" : 26016, "cabecera" :  "Artículo 17. ", "descripcion" : "", "idlibro" : 14 }, 
+    { "id" : 26017, "cabecera" :  "Artículo 18. ", "descripcion" : "", "idlibro" : 14 }, 
+    { "id" : 26018, "cabecera" :  "Artículo 19. ", "descripcion" : "", "idlibro" : 14 }, 
+    { "id" : 26019, "cabecera" :  "Artículo 20. ", "descripcion" : "", "idlibro" : 14 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO V", "descripcion" : "DELITOS CONTRA LA DIGNIDAD DEL SER HUMANO", "idlibro" : 14, "TreeList" : [ 
+    { "id" : 26020, "cabecera" :  "Artículo 21. ", "descripcion" : "", "idlibro" : 14 }, 
+    { "id" : 26021, "cabecera" :  "Artículo 22.", "descripcion" : "", "idlibro" : 14 }, 
+    { "id" : 26022, "cabecera" :  "Artículo 23.", "descripcion" : "", "idlibro" : 14 }, 
+    { "id" : 26023, "cabecera" :  "Artículo 24. ", "descripcion" : "", "idlibro" : 14 }, 
+    { "id" : 26024, "cabecera" :  "Artículo 26º.- ", "descripcion" : "", "idlibro" : 14 }, 
+    { "id" : 26025, "cabecera" :  "DISPOSICIÓN FINAL", "descripcion" : "", "idlibro" : 14 }, 
+    { "id" : 26026, "cabecera" :  "DISPOSICIÓN TRANSITORIA", "descripcion" : "", "idlibro" : 14 }, 
+    { "id" : 26027, "cabecera" :  "DISPOSICION ABROGATORIA", "descripcion" : "", "idlibro" : 14 }]}
+    ,
+    { "id" : 0, "cabecera" :  "", "descripcion" : "", "idlibro" : 14 }, 
+    { "id" : 0, "cabecera" :  "", "descripcion" : "", "idlibro" : 14 }
+    ]
+    

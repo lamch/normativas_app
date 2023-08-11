@@ -1,0 +1,240 @@
+[{ "id" : 0, "cabecera" :  "TÍTULO I", "descripcion" : "DISPOSICIONES GENERALES", "idlibro" : 15, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "CAPÍTULO I", "descripcion" : "MARCO CONSTITUCIONAL, OBJETO, ALCANCE Y ÁMBITO DE APLICACIÓN", "idlibro" : 15, "TreeList" : [ 
+    { "id" : 28000, "cabecera" :  "Artículo 1. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28001, "cabecera" :  "Artículo 2. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28002, "cabecera" :  "Artículo 3. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28003, "cabecera" :  "Artículo 4. ", "descripcion" : "", "idlibro" : 15 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO II", "descripcion" : "PRINCIPIOS Y DEFINICIONES", "idlibro" : 15, "TreeList" : [ 
+    { "id" : 28004, "cabecera" :  "Artículo 5. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28005, "cabecera" :  "Artículo 6. ", "descripcion" : "", "idlibro" : 15 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO III", "descripcion" : "BASES DEL RÉGIMEN DE AUTONOMÍAS", "idlibro" : 15, "TreeList" : [ 
+    { "id" : 28006, "cabecera" :  "Artículo 7. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28007, "cabecera" :  "Artículo 8. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28008, "cabecera" :  "Artículo 9. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28009, "cabecera" :  "Artículo 10. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28010, "cabecera" :  "Artículo 11. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28011, "cabecera" :  "Artículo 12. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28012, "cabecera" :  "Artículo 13. ", "descripcion" : "", "idlibro" : 15 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "TÍTULO II", "descripcion" : "BASES DE LA ORGANIZACIÓN TERRITORIAL", "idlibro" : 15, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "CAPÍTULO I", "descripcion" : "BASES DE LA ORGANIZACIÓN TERRITORIAL", "idlibro" : 15, "TreeList" : [ 
+    { "id" : 28013, "cabecera" :  "Artículo 14. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28014, "cabecera" :  "Artículo 15. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28015, "cabecera" :  "Artículo 16. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28016, "cabecera" :  "Artículo 17. ", "descripcion" : "", "idlibro" : 15 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO II", "descripcion" : "ESPACIOS DE PLANIFICACIÓN Y GESTIÓN", "idlibro" : 15, "TreeList" : [ 
+    { "id" : 28017, "cabecera" :  "Artículo 18. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 0, "cabecera" :  "SECCIÓN I", "descripcion" : "REGIÓN", "idlibro" : 15, "TreeList" : [ 
+    { "id" : 28018, "cabecera" :  "Artículo 19. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28019, "cabecera" :  "Artículo 20. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28020, "cabecera" :  "Artículo 21. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28021, "cabecera" :  "Artículo 22. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28022, "cabecera" :  "Artículo 23. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28023, "cabecera" :  "Artículo 24. ", "descripcion" : "", "idlibro" : 15 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN II", "descripcion" : "REGIÓN METROPOLITANA", "idlibro" : 15, "TreeList" : [ 
+    { "id" : 28024, "cabecera" :  "Artículo 25. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28025, "cabecera" :  "Artículo 26. ", "descripcion" : "", "idlibro" : 15 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN III", "descripcion" : "DISTRITOS MUNICIPALES", "idlibro" : 15, "TreeList" : [ 
+    { "id" : 28026, "cabecera" :  "Artículo 27. ", "descripcion" : "", "idlibro" : 15 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN IV", "descripcion" : "DISTRITOS MUNICIPALES INDÍGENA ORIGINARIO CAMPESINOS", "idlibro" : 15, "TreeList" : [ 
+    { "id" : 28027, "cabecera" :  "Artículo 28. ", "descripcion" : "", "idlibro" : 15 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO III", "descripcion" : "MANCOMUNIDADES", "idlibro" : 15, "TreeList" : [ 
+    { "id" : 28028, "cabecera" :  "Artículo 29. ", "descripcion" : "", "idlibro" : 15 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "TÍTULO III", "descripcion" : "TIPOS DE AUTONOMÍAS", "idlibro" : 15, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "CAPÍTULO I", "descripcion" : "AUTONOMÍA DEPARTAMENTAL", "idlibro" : 15, "TreeList" : [ 
+    { "id" : 28029, "cabecera" :  "Artículo 30. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28030, "cabecera" :  "Artículo 31. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28031, "cabecera" :  "Artículo 32. ", "descripcion" : "", "idlibro" : 15 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO II", "descripcion" : "AUTONOMÍA MUNICIPAL", "idlibro" : 15, "TreeList" : [ 
+    { "id" : 28032, "cabecera" :  "Artículo 33. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28033, "cabecera" :  "Artículo 34. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28034, "cabecera" :  "Artículo 35. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28035, "cabecera" :  "Artículo 36. ", "descripcion" : "", "idlibro" : 15 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO III", "descripcion" : "AUTONOMÍA REGIONAL", "idlibro" : 15, "TreeList" : [ 
+    { "id" : 28036, "cabecera" :  "Artículo 37. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28037, "cabecera" :  "Artículo 38. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28038, "cabecera" :  "Artículo 39. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28039, "cabecera" :  "Artículo 40. ", "descripcion" : "", "idlibro" : 15 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO IV", "descripcion" : "AUTONOMÍA INDIGENA ORIGINARIO CAMPESINA", "idlibro" : 15, "TreeList" : [ 
+    { "id" : 28041, "cabecera" :  "Artículo 42. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28042, "cabecera" :  "Artículo 43 ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28043, "cabecera" :  "Artículo 44. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28044, "cabecera" :  "Artículo 45. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28045, "cabecera" :  "Artículo 46. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28046, "cabecera" :  "Artículo 47. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28047, "cabecera" :  "Artículo 48. ", "descripcion" : "", "idlibro" : 15 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "TÍTULO IV", "descripcion" : "PROCEDIMIENTO DE ACCESO A LA AUTONOMÍA Y ELABORACIÓN DE ESTATUTOS Y CARTAS ORGÁNICAS", "idlibro" : 15, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "CAPÍTULO I", "descripcion" : "ACCESO A LA AUTONOMÍA", "idlibro" : 15, "TreeList" : [ 
+    { "id" : 28048, "cabecera" :  "Artículo 49. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28049, "cabecera" :  "Artículo 50. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28050, "cabecera" :  "Artículo 51. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28051, "cabecera" :  "Artículo 52. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28052, "cabecera" :  "Artículo 53. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28053, "cabecera" :  "Artículo 54. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28054, "cabecera" :  "Artículo 55. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28055, "cabecera" :  "Artículo 56. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28056, "cabecera" :  "Artículo 57. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28057, "cabecera" :  "Artículo 58. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28058, "cabecera" :  "Artículo 59. ", "descripcion" : "", "idlibro" : 15 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO II", "descripcion" : "ESTATUTOS Y CARTAS ORGÁNICAS", "idlibro" : 15, "TreeList" : [ 
+    { "id" : 28059, "cabecera" :  "Artículo 60. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28060, "cabecera" :  "Artículo 61. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28061, "cabecera" :  "Artículo 62. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28062, "cabecera" :  "Artículo 63. ", "descripcion" : "", "idlibro" : 15 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "TÍTULO V", "descripcion" : "RÉGIMEN COMPETENCIAL", "idlibro" : 15, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "CAPÍTULO I", "descripcion" : "COMPETENCIAS", "idlibro" : 15, "TreeList" : [ 
+    { "id" : 28063, "cabecera" :  "Artículo 64. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28064, "cabecera" :  "Artículo 65. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28065, "cabecera" :  "Artículo 66. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28066, "cabecera" :  "Artículo 67. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28067, "cabecera" :  "Artículo 68. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28068, "cabecera" :  "Artículo 69. ", "descripcion" : "", "idlibro" : 15 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO II", "descripcion" : "RESERVA DE LEY, TRANSFERENCIA, DELEGACIÓN, COMPETENCIAS NO PREVISTAS", "idlibro" : 15, "TreeList" : [ 
+    { "id" : 28069, "cabecera" :  "Artículo 70. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28070, "cabecera" :  "Artículo 71. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28071, "cabecera" :  "Artículo 72. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28072, "cabecera" :  "Artículo 73. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28073, "cabecera" :  "Artículo 74. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28074, "cabecera" :  "Artículo 75. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28075, "cabecera" :  "Artículo 76 ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28076, "cabecera" :  "Artículo 77. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28077, "cabecera" :  "Artículo 78. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28078, "cabecera" :  "Artículo 79. ", "descripcion" : "", "idlibro" : 15 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO III", "descripcion" : "ALCANCE DE LAS COMPETENCIAS", "idlibro" : 15, "TreeList" : [ 
+    { "id" : 28079, "cabecera" :  "Artículo 80. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28080, "cabecera" :  "Artículo 81. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28081, "cabecera" :  "Artículo 82. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28082, "cabecera" :  "Artículo 83. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28083, "cabecera" :  "Artículo 84. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28084, "cabecera" :  "Artículo 85. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28085, "cabecera" :  "Artículo 86. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28086, "cabecera" :  "Artículo 87. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28087, "cabecera" :  "Artículo 88. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28088, "cabecera" :  "Artículo 89. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28089, "cabecera" :  "Artículo 90. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28090, "cabecera" :  "Artículo 91. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28091, "cabecera" :  "Artículo 92. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28092, "cabecera" :  "Artículo 93. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28093, "cabecera" :  "Artículo 94. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28094, "cabecera" :  "Artículo 95. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28095, "cabecera" :  "Artículo 96. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28096, "cabecera" :  "Artículo 97. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28097, "cabecera" :  "Artículo 98. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28098, "cabecera" :  "Artículo 99 ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28099, "cabecera" :  "Artículo 100. ", "descripcion" : "", "idlibro" : 15 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "TÍTULO VI", "descripcion" : "RÉGIMEN ECONÓMICO FINANCIERO", "idlibro" : 15, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "CAPÍTULO I", "descripcion" : "OBJETO Y LINEAMIENTOS", "idlibro" : 15, "TreeList" : [ 
+    { "id" : 28100, "cabecera" :  "Artículo 101. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28101, "cabecera" :  "Artículo 102. ", "descripcion" : "", "idlibro" : 15 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO II", "descripcion" : "RECURSOS DE LA ENTIDADES TERRITORIALES AUTÓNOMAS", "idlibro" : 15, "TreeList" : [ 
+    { "id" : 28102, "cabecera" :  "Artículo 103. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28103, "cabecera" :  "Artículo 104. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28104, "cabecera" :  "Artículo 105. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28105, "cabecera" :  "Artículo 106. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28106, "cabecera" :  "Artículo 107. ", "descripcion" : "", "idlibro" : 15 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO III", "descripcion" : "ADMINISTRACIÓN DE RECURSOS DE LAS ENTIDADES TERRITORIALES AUTÓNOMAS", "idlibro" : 15, "TreeList" : [ 
+    { "id" : 28107, "cabecera" :  "Artículo 108. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28108, "cabecera" :  "Artículo 109. ", "descripcion" : "", "idlibro" : 15 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO IV", "descripcion" : "TRANSFERENCIAS", "idlibro" : 15, "TreeList" : [ 
+    { "id" : 28109, "cabecera" :  "Artículo 110. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28110, "cabecera" :  "Artículo 111. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28111, "cabecera" :  "Artículo 112. ", "descripcion" : "", "idlibro" : 15 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO V", "descripcion" : "GESTIÓN PRESUPUESTARIA Y RESPONSABILIDAD FISCAL", "idlibro" : 15, "TreeList" : [ 
+    { "id" : 28112, "cabecera" :  "Artículo 113. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28113, "cabecera" :  "Artículo 114. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28114, "cabecera" :  "Artículo 115. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28115, "cabecera" :  "Artículo 116. ", "descripcion" : "", "idlibro" : 15 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO VI", "descripcion" : "FONDO DE DESARROLLO PRODUCTIVO SOLIDARIO", "idlibro" : 15, "TreeList" : [ 
+    { "id" : 28116, "cabecera" :  "Artículo 117. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28117, "cabecera" :  "Artículo 118. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28118, "cabecera" :  "Artículo 119. ", "descripcion" : "", "idlibro" : 15 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "TÍTULO VII", "descripcion" : "COORDINACIÓN ENTRE EL NIVEL CENTRAL DEL ESTADO Y LAS ENTIDADES TERRITORIALES AUTÓNOMAS", "idlibro" : 15, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "CAPÍTULO I", "descripcion" : "COODINACIÓN", "idlibro" : 15, "TreeList" : [ 
+    { "id" : 28119, "cabecera" :  "Artículo 120. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28120, "cabecera" :  "Artículo 121. ", "descripcion" : "", "idlibro" : 15 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO II", "descripcion" : "CONSEJO NACIONAL DE AUTONOMÍAS", "idlibro" : 15, "TreeList" : [ 
+    { "id" : 28121, "cabecera" :  "Artículo 122. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28122, "cabecera" :  "Artículo 123. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28123, "cabecera" :  "Artículo 124 ", "descripcion" : "", "idlibro" : 15 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO III", "descripcion" : "SERVICIO ESTATAL DE AUTONOMÍAS", "idlibro" : 15, "TreeList" : [ 
+    { "id" : 28124, "cabecera" :  "Artículo 125 ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28125, "cabecera" :  "Artículo 126 ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28126, "cabecera" :  "Artículo 127 ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28127, "cabecera" :  "Artículo 128. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28128, "cabecera" :  "Artículo 129. ", "descripcion" : "", "idlibro" : 15 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO IV", "descripcion" : "PLANIFICACIÓN", "idlibro" : 15, "TreeList" : [ 
+    { "id" : 28129, "cabecera" :  "Artículo 130. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28130, "cabecera" :  "Artículo 131. ", "descripcion" : "", "idlibro" : 15 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO V", "descripcion" : "CONSEJOS DE COORDINACIÓN SECTORIAL", "idlibro" : 15, "TreeList" : [ 
+    { "id" : 28131, "cabecera" :  "Artículo 132. ", "descripcion" : "", "idlibro" : 15 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO VI", "descripcion" : "ACUERDOS Y OBLIGACIONES", "idlibro" : 15, "TreeList" : [ 
+    { "id" : 28132, "cabecera" :  "Artículo 133. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28133, "cabecera" :  "Artículo 134. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28134, "cabecera" :  "Artículo 135. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28135, "cabecera" :  "Artículo 136 ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28136, "cabecera" :  "Artículo 137. ", "descripcion" : "", "idlibro" : 15 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "TÍTULO VIII", "descripcion" : "MARCO GENERAL DE LA PARTICIPACIÓN Y CONTROL SOCIAL EN LAS ENTIDADES TERRITORIALES AUTÓNOMAS", "idlibro" : 15, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "CAPÍTULO I", "descripcion" : "PARTICIPACIÓN SOCIAL", "idlibro" : 15, "TreeList" : [ 
+    { "id" : 28137, "cabecera" :  "Artículo 138. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28138, "cabecera" :  "Artículo 139. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28139, "cabecera" :  "Artículo 140. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28140, "cabecera" :  "Artículo 141. ", "descripcion" : "", "idlibro" : 15 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO II", "descripcion" : "CONTROL SOCIAL", "idlibro" : 15, "TreeList" : [ 
+    { "id" : 28141, "cabecera" :  "Artículo 142. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28142, "cabecera" :  "Artículo 143. ", "descripcion" : "", "idlibro" : 15 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "TÍTULO IX", "descripcion" : "SUSPENSIÓN TEMPORAL Y DESTITUCIÓN DE AUTORIDADES ELECTAS DEPARTAMENTALES, REGIONALES Y MUNICIPALES", "idlibro" : 15, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "CAPÍTULO I", "descripcion" : "SUSPENSIÓN TEMPORAL", "idlibro" : 15, "TreeList" : [ 
+    { "id" : 28143, "cabecera" :  "Artículo 144. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28144, "cabecera" :  "Artículo 145. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28145, "cabecera" :  "Artículo 146. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28146, "cabecera" :  "Artículo 147. ", "descripcion" : "", "idlibro" : 15 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO II", "descripcion" : "DESTITUCIÓN", "idlibro" : 15, "TreeList" : [ 
+    { "id" : 28147, "cabecera" :  "Artículo 148. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28148, "cabecera" :  "Artículo 149. ", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28149, "cabecera" :  "DISPOSICIONES ADICIONALES", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28150, "cabecera" :  "DISPOSICIÓN ADICIONAL PRIMERA.", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28151, "cabecera" :  "DISPOSICIÓN ADICIONAL SEGUNDA.", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28152, "cabecera" :  "DISPOSICIÓN ADICIONAL TERCERA.", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28153, "cabecera" :  "DISPOSICIÓN ADICIONAL CUARTA.", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28154, "cabecera" :  "DISPOSICIÓN ADICIONAL QUINTA.", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28155, "cabecera" :  "DISPOSICIÓN ADICIONAL SEXTA.", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28156, "cabecera" :  "DISPOSICION ADICIONAL SÉPTIMA.", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28157, "cabecera" :  "DISPOSICIONES TRANSITORIAS", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28158, "cabecera" :  "DISPOSICIÓN TRANSITORIA PRIMERA.", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28159, "cabecera" :  "DISPOSICIÓN TRANSITORIA SEGUNDA.", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28160, "cabecera" :  "DISPOSICIÓN TRANSITORIA TERCERA.", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28161, "cabecera" :  "DISPOSICIÓN TRANSITORIA CUARTA.", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28162, "cabecera" :  "DISPOSICIÓN TRANSITORIA QUINTA.", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28163, "cabecera" :  "DISPOSICIÓN TRANSITORIA SEXTA", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28164, "cabecera" :  "DISPOSICIÓN TRANSITORIA SEPTIMA.", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28165, "cabecera" :  "DISPOSICIÓN TRANSITORIA OCTAVA.", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28166, "cabecera" :  "DISPOSICIÓN TRANSITORIA NOVENA.", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28167, "cabecera" :  "DISPOSICIÓN TRANSITORIA DÉCIMA.", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28168, "cabecera" :  "DISPOSICIÓN TRANSITORIA DÉCIMA PRIMERA.", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28169, "cabecera" :  "DISPOSICIÓN TRANSITORIA DÉCIMA SEGUNDA.", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28170, "cabecera" :  "DISPOSICIÓN TRANSITORIA DÉCIMA TERCERA", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28171, "cabecera" :  "DISPOSICIÓN TRANSITORIA DÉCIMA CUARTA", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28172, "cabecera" :  "DISPOSICIÓN TRANSITORIA DÉCIMA QUINTA.", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28173, "cabecera" :  "DISPOSICIÓN TRANSITORIA DÉCIMA SEXTA.", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28174, "cabecera" :  "DISPOSICIÓN TRANSITORIA DÉCIMA SÉPTIMA.", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28175, "cabecera" :  "DISPOSICIONES ABROGATORIAS Y DEROGATORIAS", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28176, "cabecera" :  "DISPOSICIONES ABROGATORIAS.-", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28177, "cabecera" :  "DISPOSICIONES DEROGATORIAS.-", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28178, "cabecera" :  "DISPOSICIONES FINALES", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28179, "cabecera" :  "DISPOSICIÓN FINAL PRIMERA.-", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28180, "cabecera" :  "DISPOSICIÓN FINAL SEGUNDA.-", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 28181, "cabecera" :  "DISPOSICIÓN FINAL TERCERA.-", "descripcion" : "", "idlibro" : 15 }]}
+    ]}
+    ,
+    { "id" : 0, "cabecera" :  "", "descripcion" : "", "idlibro" : 15 }, 
+    { "id" : 0, "cabecera" :  "", "descripcion" : "", "idlibro" : 15 }
+    ]
+    

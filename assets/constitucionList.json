@@ -1,0 +1,564 @@
+[{ "id" : 1, "cabecera" :  "PREÁMBULO", "descripcion" : "", "idlibro" : 1 },
+    { "id" : 0, "cabecera" :  "PRIMERA PARTE", "descripcion" : "BASES FUNDAMENTALES DEL ESTADO\nDERECHOS, DEBERES Y GARANTÍAS", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "TÍTULO I", "descripcion" : "BASES FUNDAMENTALES DEL ESTADO", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "CAPÍTULO PRIMERO", "descripcion" : "MODELO DE ESTADO", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 2, "cabecera" :  "Artículo 1. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 3, "cabecera" :  "Artículo 2. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 4, "cabecera" :  "Artículo 3. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 5, "cabecera" :  "Artículo 4. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 6, "cabecera" :  "Artículo 5.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 7, "cabecera" :  "Artículo 6.", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO SEGUNDO", "descripcion" : "PRINCIPIOS, VALORES Y FINES DEL ESTADO", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 8, "cabecera" :  "Artículo 7. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 9, "cabecera" :  "Artículo 8.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 10, "cabecera" :  "Artículo 9. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 11, "cabecera" :  "Artículo 10.", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO TERCERO", "descripcion" : "SISTEMA DE GOBIERNO", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 12, "cabecera" :  "Artículo 11.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 13, "cabecera" :  "Artículo 12.", "descripcion" : "", "idlibro" : 1 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "TÍTULO II", "descripcion" : "DERECHOS FUNDAMENTALES Y GARANTÍAS", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "CAPÍTULO PRIMERO", "descripcion" : "DISPOSICIONES GENERALES", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 14, "cabecera" :  "Artículo 13.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 15, "cabecera" :  "Artículo 14.", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO SEGUNDO", "descripcion" : "DERECHOS FUNDAMENTALES", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 16, "cabecera" :  "Artículo 15.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 17, "cabecera" :  "Artículo 16.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 18, "cabecera" :  "Artículo 17. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 19, "cabecera" :  "Artículo 18.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 20, "cabecera" :  "Artículo 19.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 21, "cabecera" :  "Artículo 20.", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO TERCERO", "descripcion" : "DERECHOS CIVILES Y POLÍTICOS", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "SECCIÓN I", "descripcion" : "DERECHOS CIVILES", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 22, "cabecera" :  "Artículo 21. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 23, "cabecera" :  "Artículo 22. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 24, "cabecera" :  "Artículo 23.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 25, "cabecera" :  "Artículo 24. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 26, "cabecera" :  "Artículo 25.", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN II", "descripcion" : "DERECHOS POLÍTICOS", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 27, "cabecera" :  "Artículo 26.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 28, "cabecera" :  "Artículo 27.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 29, "cabecera" :  "Artículo 28. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 30, "cabecera" :  "Artículo 29.", "descripcion" : "", "idlibro" : 1 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO CUARTO", "descripcion" : "DERECHOS DE LAS NACIONES\nY PUEBLOS INDÍGENA ORIGINARIO CAMPESINOS", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 31, "cabecera" :  "Artículo 30.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 32, "cabecera" :  "Artículo 31.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 33, "cabecera" :  "Artículo 32. ", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO QUINTO", "descripcion" : "DERECHOS SOCIALES Y ECONÓMICOS", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "SECCIÓN I", "descripcion" : "DERECHO AL MEDIO AMBIENTE", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 34, "cabecera" :  "Artículo 33. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 35, "cabecera" :  "Artículo 34. ", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN II", "descripcion" : "DERECHO A LA SALUD Y A LA SEGURIDAD SOCIAL", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 36, "cabecera" :  "Artículo 35.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 37, "cabecera" :  "Artículo 36.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 38, "cabecera" :  "Artículo 37. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 39, "cabecera" :  "Artículo 38.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 40, "cabecera" :  "Artículo 39.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 41, "cabecera" :  "Artículo 40. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 42, "cabecera" :  "Artículo 41.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 43, "cabecera" :  "Artículo 42.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 44, "cabecera" :  "Artículo 43. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 45, "cabecera" :  "Artículo 44.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 46, "cabecera" :  "Artículo 45.", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN III", "descripcion" : "DERECHO AL TRABAJO Y AL EMPLEO", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 47, "cabecera" :  "Artículo 46.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 48, "cabecera" :  "Artículo 47.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 49, "cabecera" :  "Artículo 48.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 50, "cabecera" :  "Artículo 49.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 51, "cabecera" :  "Artículo 50. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 52, "cabecera" :  "Artículo 51.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 53, "cabecera" :  "Artículo 52.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 54, "cabecera" :  "Artículo 53. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 55, "cabecera" :  "Artículo 54.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 56, "cabecera" :  "Artículo 55. ", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN IV", "descripcion" : "DERECHO A LA PROPIEDAD", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 57, "cabecera" :  "Artículo 56.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 58, "cabecera" :  "Artículo 57. ", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN V", "descripcion" : "DERECHOS DE LA NIÑEZ, ADOLESCENCIA Y JUVENTUD", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 59, "cabecera" :  "Artículo 58. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 60, "cabecera" :  "Artículo 59.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 61, "cabecera" :  "Artículo 60. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 62, "cabecera" :  "Artículo 61.", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN VI", "descripcion" : "DERECHOS DE LAS FAMILIAS", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 63, "cabecera" :  "Artículo 62. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 64, "cabecera" :  "Artículo 63.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 65, "cabecera" :  "Artículo 64.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 66, "cabecera" :  "Artículo 65. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 67, "cabecera" :  "Artículo 66. ", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN VII", "descripcion" : "DERECHOS DE LAS PERSONAS ADULTAS MAYORES", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 68, "cabecera" :  "Artículo 67.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 69, "cabecera" :  "Artículo 68.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 70, "cabecera" :  "Artículo 69. ", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN VIII", "descripcion" : "DERECHOS DE LAS PERSONAS CON DISCAPACIDAD", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 71, "cabecera" :  "Artículo 70. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 72, "cabecera" :  "Artículo 71.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 73, "cabecera" :  "Artículo 72. ", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN IX", "descripcion" : "DERECHOS DE LAS PERSONAS PRIVADAS DE LIBERTAD", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 74, "cabecera" :  "Artículo 73.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 75, "cabecera" :  "Artículo 74.", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN X", "descripcion" : "DERECHOS DE LAS USUARIAS Y LOS USUARIOS\nY DE LAS CONSUMIDORAS Y LOS CONSUMIDORES", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 76, "cabecera" :  "Artículo 75. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 77, "cabecera" :  "Artículo 76.", "descripcion" : "", "idlibro" : 1 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO SEXTO", "descripcion" : "EDUCACIÓN, INTERCULTURALIDAD Y DERECHOS CULTURALES", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "SECCIÓN I", "descripcion" : "EDUCACIÓN", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 78, "cabecera" :  "Artículo 77.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 79, "cabecera" :  "Artículo 78.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 80, "cabecera" :  "Artículo 79. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 81, "cabecera" :  "Artículo 80.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 82, "cabecera" :  "Artículo 81.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 83, "cabecera" :  "Artículo 82.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 84, "cabecera" :  "Artículo 83. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 85, "cabecera" :  "Artículo 84. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 86, "cabecera" :  "Artículo 85. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 87, "cabecera" :  "Artículo 86. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 88, "cabecera" :  "Artículo 87. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 89, "cabecera" :  "Artículo 88.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 90, "cabecera" :  "Artículo 89. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 91, "cabecera" :  "Artículo 90.", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN II", "descripcion" : "EDUCACIÓN SUPERIOR", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 92, "cabecera" :  "Artículo 91.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 93, "cabecera" :  "Artículo 92.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 94, "cabecera" :  "Artículo 93.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 95, "cabecera" :  "Artículo 94.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 96, "cabecera" :  "Artículo 95.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 97, "cabecera" :  "Artículo 96.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 98, "cabecera" :  "Artículo 97. ", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN III", "descripcion" : "CULTURAS", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 99, "cabecera" :  "Artículo 98.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 100, "cabecera" :  "Artículo 99.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 101, "cabecera" :  "Artículo 100.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 102, "cabecera" :  "Artículo 101. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 103, "cabecera" :  "Artículo 102. ", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN IV", "descripcion" : "CIENCIA, TECNOLOGÍA E INVESTIGACIÓN", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 104, "cabecera" :  "Artículo 103.", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN V", "descripcion" : "DEPORTE Y RECREACIÓN", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 105, "cabecera" :  "Artículo 104. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 106, "cabecera" :  "Artículo 105. ", "descripcion" : "", "idlibro" : 1 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO SÉPTIMO", "descripcion" : "COMUNICACIÓN SOCIAL", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 107, "cabecera" :  "Artículo 106.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 108, "cabecera" :  "Artículo 107.", "descripcion" : "", "idlibro" : 1 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "TÍTULO III", "descripcion" : "DEBERES", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 109, "cabecera" :  "Artículo 108. ", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "TÍTULO IV", "descripcion" : "GARANTÍAS JURISDICCIONALES Y ACCIONES DE DEFENSA", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "CAPÍTULO PRIMERO", "descripcion" : "GARANTÍAS JURISDICCIONALES", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 110, "cabecera" :  "Artículo 109.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 111, "cabecera" :  "Artículo 110.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 112, "cabecera" :  "Artículo 111. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 113, "cabecera" :  "Artículo 112. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 114, "cabecera" :  "Artículo 113.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 115, "cabecera" :  "Artículo 114.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 116, "cabecera" :  "Artículo 115.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 117, "cabecera" :  "Artículo 116.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 118, "cabecera" :  "Artículo 117.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 119, "cabecera" :  "Artículo 118.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 120, "cabecera" :  "Artículo 119.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 121, "cabecera" :  "Artículo 120.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 122, "cabecera" :  "Artículo 121.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 123, "cabecera" :  "Artículo 122. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 124, "cabecera" :  "Artículo 123. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 125, "cabecera" :  "Artículo 124.", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO SEGUNDO", "descripcion" : "ACCIONES DE DEFENSA", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "SECCIÓN I", "descripcion" : "ACCIÓN DE LIBERTAD", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 126, "cabecera" :  "Artículo 125. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 127, "cabecera" :  "Artículo 126.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 128, "cabecera" :  "Artículo 127.", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN II", "descripcion" : "ACCIÓN DE AMPARO CONSTITUCIONAL", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 129, "cabecera" :  "Artículo 128. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 130, "cabecera" :  "Artículo 129.", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN III", "descripcion" : "ACCIÓN DE PROTECCIÓN DE PRIVACIDAD", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 131, "cabecera" :  "Artículo 130.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 132, "cabecera" :  "Artículo 131.", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN IV", "descripcion" : "ACCIÓN DE INCONSTITUCIONALIDAD", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 133, "cabecera" :  "Artículo 132. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 134, "cabecera" :  "Artículo 133. ", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN V", "descripcion" : "ACCIÓN DE CUMPLIMIENTO", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 135, "cabecera" :  "Artículo 134.", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN VI", "descripcion" : "ACCIÓN POPULAR", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 136, "cabecera" :  "Artículo 135. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 137, "cabecera" :  "Artículo 136.", "descripcion" : "", "idlibro" : 1 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO TERCERO", "descripcion" : "ESTADOS DE EXCEPCIÓN", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 138, "cabecera" :  "Artículo 137. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 139, "cabecera" :  "Artículo 138.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 140, "cabecera" :  "Artículo 139.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 141, "cabecera" :  "Artículo 140.", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "CAPITULO I", "descripcion" : "NACIONALIDAD", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 142, "cabecera" :  "Artículo 141.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 143, "cabecera" :  "Artículo 142.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 144, "cabecera" :  "Artículo 143.", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "CAPITULO II", "descripcion" : "CIUDADANÍA", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 145, "cabecera" :  "Artículo 144.", "descripcion" : "", "idlibro" : 1 }]}
+    ]}
+    ]},
+    { "id" : 0, "cabecera" :  "SEGUNDA PARTE", "descripcion" : "ESTRUCTURA Y ORGANIZACIÓN FUNCIONAL DEL ESTADO", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "TÍTULO I", "descripcion" : "ÓRGANO LEGISLATIVO", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "CAPÍTULO PRIMERO", "descripcion" : "COMPOSICIÓN Y ATRIBUCIONES\nDE LA ASAMBLEA LEGISLATIVA PLURINACIONAL", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 146, "cabecera" :  "Artículo 145. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 147, "cabecera" :  "Artículo 146.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 148, "cabecera" :  "Artículo 147.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 149, "cabecera" :  "Artículo 148.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 150, "cabecera" :  "Artículo 149. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 151, "cabecera" :  "Artículo 150.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 152, "cabecera" :  "Artículo 151.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 153, "cabecera" :  "Artículo 152. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 154, "cabecera" :  "Artículo 153.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 155, "cabecera" :  "Artículo 154. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 156, "cabecera" :  "Artículo 155. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 157, "cabecera" :  "Artículo 156. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 158, "cabecera" :  "Artículo 157. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 159, "cabecera" :  "Artículo 158.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 160, "cabecera" :  "Artículo 159. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 161, "cabecera" :  "Artículo 160. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 162, "cabecera" :  "Artículo 161. ", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO SEGUNDO", "descripcion" : "PROCEDIMIENTO LEGISLATIVO", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 163, "cabecera" :  "Artículo 162.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 164, "cabecera" :  "Artículo 163. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 165, "cabecera" :  "Artículo 164.", "descripcion" : "", "idlibro" : 1 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "TÍTULO II", "descripcion" : "ÓRGANO EJECUTIVO", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "CAPÍTULO PRIMERO", "descripcion" : "COMPOSICIÓN Y ATRIBUCIONES DEL ÓRGANO EJECUTIVO", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "SECCIÓN I", "descripcion" : "DISPOSICIÓN GENERAL", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 166, "cabecera" :  "Artículo 165.", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN II", "descripcion" : "PRESIDENCIA Y VICEPRESIDENCIA DEL ESTADO", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 167, "cabecera" :  "Artículo 166.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 168, "cabecera" :  "Artículo 167. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 169, "cabecera" :  "Artículo 168. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 170, "cabecera" :  "Artículo 169.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 171, "cabecera" :  "Artículo 170. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 172, "cabecera" :  "Artículo 171. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 173, "cabecera" :  "Artículo 172. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 174, "cabecera" :  "Artículo 173. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 175, "cabecera" :  "Artículo 174. ", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN III", "descripcion" : "MINISTERIOS DE ESTADO", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 176, "cabecera" :  "Artículo 175.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 177, "cabecera" :  "Artículo 176. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 178, "cabecera" :  "Artículo 177. ", "descripcion" : "", "idlibro" : 1 }]}
+    ]}
+    ]},
+    { "id" : 0, "cabecera" :  "TÍTULO III", "descripcion" : "ÓRGANO JUDICIAL Y TRIBUNAL CONSTITUCIONAL PLURINACIONAL", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "CAPÍTULO PRIMERO", "descripcion" : "DISPOSICIONES GENERALES", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 179, "cabecera" :  "Artículo 178.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 180, "cabecera" :  "Artículo 179.", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO SEGUNDO", "descripcion" : "JURISDICCIÓN ORDINARIA", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 181, "cabecera" :  "Artículo 180.", "descripcion" : "", "idlibro" : 1 },
+    { "id" : 0, "cabecera" :  "SECCIÓN I", "descripcion" : "TRIBUNAL SUPREMO DE JUSTICIA", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 182, "cabecera" :  "Artículo 181. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 183, "cabecera" :  "Artículo 182.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 184, "cabecera" :  "Artículo 183.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 185, "cabecera" :  "Artículo 184. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 186, "cabecera" :  "Artículo 185. ", "descripcion" : "", "idlibro" : 1 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO TERCERO", "descripcion" : "JURISDICCIÓN AGROAMBIENTAL", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 187, "cabecera" :  "Artículo 186. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 188, "cabecera" :  "Artículo 187. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 189, "cabecera" :  "Artículo 188.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 190, "cabecera" :  "Artículo 189. ", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO CUARTO", "descripcion" : "JURISDICCIÓN INDÍGENA ORIGINARIA CAMPESINA", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 191, "cabecera" :  "Artículo 190.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 192, "cabecera" :  "Artículo 191.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 193, "cabecera" :  "Artículo 192.", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO QUINTO", "descripcion" : "CONSEJO DE LA MAGISTRATURA", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 194, "cabecera" :  "Artículo 193.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 195, "cabecera" :  "Artículo 194.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 196, "cabecera" :  "Artículo 195. ", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO SEXTO", "descripcion" : "TRIBUNAL CONSTITUCIONAL PLURINACIONAL", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 197, "cabecera" :  "Artículo 196.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 198, "cabecera" :  "Artículo 197.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 199, "cabecera" :  "Artículo 198. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 200, "cabecera" :  "Artículo 199.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 201, "cabecera" :  "Artículo 200. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 202, "cabecera" :  "Artículo 201. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 203, "cabecera" :  "Artículo 202. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 204, "cabecera" :  "Artículo 203. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 205, "cabecera" :  "Artículo 204. ", "descripcion" : "", "idlibro" : 1 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "TÍTULO IV", "descripcion" : "ÓRGANO ELECTORAL", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "CAPÍTULO PRIMERO", "descripcion" : "ÓRGANO ELECTORAL PLURINACIONAL", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 206, "cabecera" :  "Artículo 205.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 207, "cabecera" :  "Artículo 206.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 208, "cabecera" :  "Artículo 207. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 209, "cabecera" :  "Artículo 208.", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO SEGUNDO", "descripcion" : "REPRESENTACIÓN POLÍTICA", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 210, "cabecera" :  "Artículo 209. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 211, "cabecera" :  "Artículo 210.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 212, "cabecera" :  "Artículo 211.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 213, "cabecera" :  "Artículo 212. ", "descripcion" : "", "idlibro" : 1 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "TITULO V", "descripcion" : "FUNCIONES DE CONTROL, DE DEFENSA DE LA SOCIEDAD\nY DE DEFENSA DEL ESTADO", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "CAPÍTULO PRIMERO", "descripcion" : "FUNCIÓN DE CONTROL", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "SECCIÓN I", "descripcion" : "CONTRALORÍA GENERAL DEL ESTADO", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 214, "cabecera" :  "Artículo 213.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 215, "cabecera" :  "Artículo 214. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 216, "cabecera" :  "Artículo 215. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 217, "cabecera" :  "Artículo 216. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 218, "cabecera" :  "Artículo 217.", "descripcion" : "", "idlibro" : 1 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO SEGUNDO", "descripcion" : "FUNCIÓN DE DEFENSA DE LA SOCIEDAD", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "SECCIÓN I", "descripcion" : "DEFENSORÍA DEL PUEBLO", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 219, "cabecera" :  "Artículo 218.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 220, "cabecera" :  "Artículo 219.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 221, "cabecera" :  "Artículo 220. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 222, "cabecera" :  "Artículo 221. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 223, "cabecera" :  "Artículo 222. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 224, "cabecera" :  "Artículo 223. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 225, "cabecera" :  "Artículo 224. ", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN II", "descripcion" : "MINISTERIO PÚBLICO", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 226, "cabecera" :  "Artículo 225.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 227, "cabecera" :  "Artículo 226.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 228, "cabecera" :  "Artículo 227.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 229, "cabecera" :  "Artículo 228. ", "descripcion" : "", "idlibro" : 1 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO TERCERO", "descripcion" : "FUNCIÓN DE DEFENSA DEL ESTADO", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "SECCIÓN I", "descripcion" : "PROCURADURÍA GENERAL DEL ESTADO", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 230, "cabecera" :  "Artículo 229. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 231, "cabecera" :  "Artículo 230.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 232, "cabecera" :  "Artículo 231. ", "descripcion" : "", "idlibro" : 1 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO CUARTO", "descripcion" : "SERVIDORAS PÚBLICAS Y SERVIDORES PÚBLICOS", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 233, "cabecera" :  "Artículo 232. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 234, "cabecera" :  "Artículo 233. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 235, "cabecera" :  "Artículo 234. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 236, "cabecera" :  "Artículo 235. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 237, "cabecera" :  "Artículo 236. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 238, "cabecera" :  "Artículo 237.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 239, "cabecera" :  "Artículo 238. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 240, "cabecera" :  "Artículo 239. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 241, "cabecera" :  "Artículo 240.", "descripcion" : "", "idlibro" : 1 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "TÍTULO VI", "descripcion" : "PARTICIPACIÓN Y CONTROL SOCIAL", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 242, "cabecera" :  "Artículo 241.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 243, "cabecera" :  "Artículo 242. ", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "TÍTULO VII", "descripcion" : "FUERZAS ARMADAS Y POLICÍA BOLIVIANA", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "CAPÍTULO PRIMERO", "descripcion" : "FUERZAS ARMADAS", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 244, "cabecera" :  "Artículo 243. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 245, "cabecera" :  "Artículo 244. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 246, "cabecera" :  "Artículo 245. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 247, "cabecera" :  "Artículo 246.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 248, "cabecera" :  "Artículo 247.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 249, "cabecera" :  "Artículo 248. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 250, "cabecera" :  "Artículo 249. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 251, "cabecera" :  "Artículo 250. ", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO SEGUNDO", "descripcion" : "POLICÍA BOLIVIANA", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 252, "cabecera" :  "Artículo 251.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 253, "cabecera" :  "Artículo 252. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 254, "cabecera" :  "Artículo 253. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 255, "cabecera" :  "Artículo 254. ", "descripcion" : "", "idlibro" : 1 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "TÍTULO VIII", "descripcion" : "RELACIONES INTERNACIONALES, FRONTERAS,\nINTEGRACIÓN Y REIVINDICACIÓN MARÍTIMA", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "CAPÍTULO PRIMERO", "descripcion" : "RELACIONES INTERNACIONALES", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 256, "cabecera" :  "Artículo 255.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 257, "cabecera" :  "Artículo 256.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 258, "cabecera" :  "Artículo 257.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 259, "cabecera" :  "Artículo 258. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 260, "cabecera" :  "Artículo 259.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 261, "cabecera" :  "Artículo 260.", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO SEGUNDO", "descripcion" : "FRONTERAS DEL ESTADO", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 262, "cabecera" :  "Artículo 261. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 263, "cabecera" :  "Artículo 262.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 264, "cabecera" :  "Artículo 263. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 265, "cabecera" :  "Artículo 264.", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO TERCERO", "descripcion" : "INTEGRACIÓN", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 266, "cabecera" :  "Artículo 265.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 267, "cabecera" :  "Artículo 266. ", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO CUARTO", "descripcion" : "REIVINDICACIÓN MARÍTIMA", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 268, "cabecera" :  "Artículo 267.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 269, "cabecera" :  "Artículo 268. ", "descripcion" : "", "idlibro" : 1 }]}
+    ]}
+    ]},
+    { "id" : 0, "cabecera" :  "TERCERA PARTE", "descripcion" : "ESTRUCTURA Y ORGANIZACIÓN TERRITORIAL DEL ESTADO", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "CAPITULO PRIMERO", "descripcion" : "DISPOSICIONES GENERALES", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 270, "cabecera" :  "Artículo 269.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 271, "cabecera" :  "Artículo 270. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 272, "cabecera" :  "Artículo 271.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 273, "cabecera" :  "Artículo 272. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 274, "cabecera" :  "Artículo 273. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 275, "cabecera" :  "Artículo 274. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 276, "cabecera" :  "Artículo 275. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 277, "cabecera" :  "Artículo 276. ", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO SEGUNDO", "descripcion" : "AUTONOMÍA DEPARTAMENTAL", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 278, "cabecera" :  "Artículo 277. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 279, "cabecera" :  "Artículo 278.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 280, "cabecera" :  "Artículo 279. ", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO TERCERO", "descripcion" : "AUTONOMÍA REGIONAL", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 281, "cabecera" :  "Artículo 280.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 282, "cabecera" :  "Artículo 281. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 283, "cabecera" :  "Artículo 282.", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO CUARTO", "descripcion" : "AUTONOMÍA MUNICIPAL", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 284, "cabecera" :  "Artículo 283. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 285, "cabecera" :  "Artículo 284.", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO QUINTO", "descripcion" : "ÓRGANOS EJECUTIVOS DE LOS GOBIERNOS AUTÓNOMOS", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 286, "cabecera" :  "Artículo 285.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 287, "cabecera" :  "Artículo 286.", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO SEXTO", "descripcion" : "ÓRGANOS LEGISLATIVOS, DELIBERATIVOS\nY FISCALIZADORES DE LOS GOBIERNOS AUTÓNOMOS", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 288, "cabecera" :  "Artículo 287.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 289, "cabecera" :  "Artículo 288. ", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO SÉPTIMO", "descripcion" : "AUTONOMÍA INDÍGENA ORIGINARIA CAMPESINA", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 290, "cabecera" :  "Artículo 289. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 291, "cabecera" :  "Artículo 290.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 292, "cabecera" :  "Artículo 291.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 293, "cabecera" :  "Artículo 292. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 294, "cabecera" :  "Artículo 293.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 295, "cabecera" :  "Artículo 294.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 296, "cabecera" :  "Artículo 295.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 297, "cabecera" :  "Artículo 296. ", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO OCTAVO", "descripcion" : "DISTRIBUCIÓN DE COMPETENCIAS", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 298, "cabecera" :  "Artículo 297.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 299, "cabecera" :  "Artículo 298.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 300, "cabecera" :  "Artículo 299.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 301, "cabecera" :  "Artículo 300.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 302, "cabecera" :  "Artículo 301. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 303, "cabecera" :  "Artículo 302.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 304, "cabecera" :  "Artículo 303.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 305, "cabecera" :  "Artículo 304.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 306, "cabecera" :  "Artículo 305. ", "descripcion" : "", "idlibro" : 1 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "CUARTA PARTE", "descripcion" : "ESTRUCTURA Y ORGANIZACIÓN ECONÓMICA DEL ESTADO", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "TÍTULO I", "descripcion" : "ORGANIZACIÓN ECONÓMICA DEL ESTADO", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "CAPÍTULO PRIMERO", "descripcion" : "DISPOSICIONES GENERALES", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 307, "cabecera" :  "Artículo 306.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 308, "cabecera" :  "Artículo 307. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 309, "cabecera" :  "Artículo 308.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 310, "cabecera" :  "Artículo 309. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 311, "cabecera" :  "Artículo 310. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 312, "cabecera" :  "Artículo 311.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 313, "cabecera" :  "Artículo 312.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 314, "cabecera" :  "Artículo 313. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 315, "cabecera" :  "Artículo 314. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 316, "cabecera" :  "Artículo 315.", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO SEGUNDO", "descripcion" : "FUNCIÓN DEL ESTADO EN LA ECONOMÍA", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 317, "cabecera" :  "Artículo 316. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 318, "cabecera" :  "Artículo 317. ", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO TERCERO", "descripcion" : "POLÍTICAS ECONÓMICAS", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 319, "cabecera" :  "Artículo 318.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 320, "cabecera" :  "Artículo 319.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 321, "cabecera" :  "Artículo 320.", "descripcion" : "", "idlibro" : 1 },
+    { "id" : 0, "cabecera" :  "SECCIÓN I", "descripcion" : "POLÍTICA FISCAL", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 322, "cabecera" :  "Artículo 321.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 323, "cabecera" :  "Artículo 322.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 324, "cabecera" :  "Artículo 323.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 325, "cabecera" :  "Artículo 324. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 326, "cabecera" :  "Artículo 325. ", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN II", "descripcion" : "POLÍTICA MONETARIA", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 327, "cabecera" :  "Artículo 326.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 328, "cabecera" :  "Artículo 327. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 329, "cabecera" :  "Artículo 328.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 330, "cabecera" :  "Artículo 329.", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN III", "descripcion" : "POLÍTICA FINANCIERA", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 331, "cabecera" :  "Artículo 330.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 332, "cabecera" :  "Artículo 331. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 333, "cabecera" :  "Artículo 332.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 334, "cabecera" :  "Artículo 333. ", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN IV", "descripcion" : "POLÍTICAS SECTORIALES", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 335, "cabecera" :  "Artículo 334. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 336, "cabecera" :  "Artículo 335. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 337, "cabecera" :  "Artículo 336. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 338, "cabecera" :  "Artículo 337.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 339, "cabecera" :  "Artículo 338. ", "descripcion" : "", "idlibro" : 1 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO CUARTO", "descripcion" : "BIENES Y RECURSOS DEL ESTADO Y SU DISTRIBUCIÓN", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 340, "cabecera" :  "Artículo 339.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 341, "cabecera" :  "Artículo 340.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 342, "cabecera" :  "Artículo 341. ", "descripcion" : "", "idlibro" : 1 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "TÍTULO II", "descripcion" : "MEDIO AMBIENTE, RECURSOS NATURALES, TIERRA\nY TERRITORIO", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "CAPÍTULO PRIMERO", "descripcion" : "MEDIO AMBIENTE", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 343, "cabecera" :  "Artículo 342. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 344, "cabecera" :  "Artículo 343. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 345, "cabecera" :  "Artículo 344.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 346, "cabecera" :  "Artículo 345. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 347, "cabecera" :  "Artículo 346. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 348, "cabecera" :  "Artículo 347.", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO SEGUNDO", "descripcion" : "RECURSOS NATURALES", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 349, "cabecera" :  "Artículo 348.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 350, "cabecera" :  "Artículo 349.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 351, "cabecera" :  "Artículo 350. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 352, "cabecera" :  "Artículo 351.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 353, "cabecera" :  "Artículo 352. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 354, "cabecera" :  "Artículo 353. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 355, "cabecera" :  "Artículo 354. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 356, "cabecera" :  "Artículo 355.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 357, "cabecera" :  "Artículo 356. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 358, "cabecera" :  "Artículo 357. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 359, "cabecera" :  "Artículo 358. ", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO TERCERO", "descripcion" : "HIDROCARBUROS", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 360, "cabecera" :  "Artículo 359.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 361, "cabecera" :  "Artículo 360. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 362, "cabecera" :  "Artículo 361.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 363, "cabecera" :  "Artículo 362.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 364, "cabecera" :  "Artículo 363.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 365, "cabecera" :  "Artículo 364. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 366, "cabecera" :  "Artículo 365. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 367, "cabecera" :  "Artículo 366. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 368, "cabecera" :  "Artículo 367. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 369, "cabecera" :  "Artículo 368. ", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO CUARTO", "descripcion" : "MINERÍA Y METALURGIA", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 370, "cabecera" :  "Artículo 369.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 371, "cabecera" :  "Artículo 370.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 372, "cabecera" :  "Artículo 371.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 373, "cabecera" :  "Artículo 372.", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO QUINTO", "descripcion" : "RECURSOS HÍDRICOS", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 374, "cabecera" :  "Artículo 373.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 375, "cabecera" :  "Artículo 374.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 376, "cabecera" :  "Artículo 375.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 377, "cabecera" :  "Artículo 376. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 378, "cabecera" :  "Artículo 377.", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO SEXTO", "descripcion" : "ENERGÍA", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 379, "cabecera" :  "Artículo 378.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 380, "cabecera" :  "Artículo 379.", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO SÉPTIMO", "descripcion" : "BIODIVERSIDAD, COCA, ÁREAS PROTEGIDAS\nY RECURSOS FORESTALES", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "SECCIÓN I", "descripcion" : "BIODIVERSIDAD", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 381, "cabecera" :  "Artículo 380.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 382, "cabecera" :  "Artículo 381.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 383, "cabecera" :  "Artículo 382. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 384, "cabecera" :  "Artículo 383. ", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN II", "descripcion" : "COCA", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 385, "cabecera" :  "Artículo 384. ", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN III", "descripcion" : "ÁREAS PROTEGIDAS", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 386, "cabecera" :  "Artículo 385.", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN IV", "descripcion" : "RECURSOS FORESTALES", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 387, "cabecera" :  "Artículo 386. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 388, "cabecera" :  "Artículo 387.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 389, "cabecera" :  "Artículo 388. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 390, "cabecera" :  "Artículo 389.", "descripcion" : "", "idlibro" : 1 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO OCTAVO", "descripcion" : "AMAZONIA", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 391, "cabecera" :  "Artículo 390.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 392, "cabecera" :  "Artículo 391.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 393, "cabecera" :  "Artículo 392.", "descripcion" : "", "idlibro" : 1 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO NOVENO", "descripcion" : "TIERRA Y TERRITORIO", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 394, "cabecera" :  "Artículo 393. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 395, "cabecera" :  "Artículo 394.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 396, "cabecera" :  "Artículo 395.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 397, "cabecera" :  "Artículo 396.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 398, "cabecera" :  "Artículo 397.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 399, "cabecera" :  "Artículo 398. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 400, "cabecera" :  "Artículo 399.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 401, "cabecera" :  "Artículo 400. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 402, "cabecera" :  "Artículo 401.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 403, "cabecera" :  "Artículo 402. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 404, "cabecera" :  "Artículo 403.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 405, "cabecera" :  "Artículo 404. ", "descripcion" : "", "idlibro" : 1 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "TÍTULO III", "descripcion" : "DESARROLLO RURAL INTEGRAL SUSTENTABLE", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 406, "cabecera" :  "Artículo 405. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 407, "cabecera" :  "Artículo 406.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 408, "cabecera" :  "Artículo 407. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 409, "cabecera" :  "Artículo 408. ", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 410, "cabecera" :  "Artículo 409. ", "descripcion" : "", "idlibro" : 1 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "QUINTA PARTE", "descripcion" : "JERARQUÍA NORMATIVA Y REFORMA DE LA CONSTITUCIÓN", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "TÍTULO ÚNICO", "descripcion" : "PRIMACÍA Y REFORMA DE LA CONSTITUCIÓN", "idlibro" : 1, "TreeList" : [ 
+    { "id" : 411, "cabecera" :  "Artículo 410.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 412, "cabecera" :  "Artículo 411.", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 413, "cabecera" :  "DISPOSICIONES TRANSITORIAS", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 414, "cabecera" :  "DISPOSICIÓN ABROGATORIA", "descripcion" : "", "idlibro" : 1 }, 
+    { "id" : 415, "cabecera" :  "DISPOSICIÓN FINAL", "descripcion" : "", "idlibro" : 1 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "", "descripcion" : "", "idlibro" : 1 },
+    { "id" : 0, "cabecera" :  "", "descripcion" : "", "idlibro" : 1 }
+    ]
+    

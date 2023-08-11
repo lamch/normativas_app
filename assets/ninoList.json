@@ -1,0 +1,464 @@
+[{ "id" : 0, "cabecera" :  "CAPÍTULO ÚNICO", "descripcion" : "DISPOSICIONES GENERALES", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16000, "cabecera" :  "ARTÍCULO 1. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16001, "cabecera" :  "ARTÍCULO 2. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16002, "cabecera" :  "ARTÍCULO 3. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16003, "cabecera" :  "ARTÍCULO 4. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16004, "cabecera" :  "ARTÍCULO 5. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16005, "cabecera" :  "ARTÍCULO 6. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16006, "cabecera" :  "ARTÍCULO 7. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16007, "cabecera" :  "ARTÍCULO 8. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16008, "cabecera" :  "ARTÍCULO 9. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16009, "cabecera" :  "ARTÍCULO 10. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16010, "cabecera" :  "ARTÍCULO 11. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16011, "cabecera" :  "ARTÍCULO 12. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16012, "cabecera" :  "ARTÍCULO 13. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16013, "cabecera" :  "ARTÍCULO 14. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16014, "cabecera" :  "ARTÍCULO 15. ", "descripcion" : "", "idlibro" : 9 }]},
+    { "id" : 0, "cabecera" :  "LIBRO I", "descripcion" : "DERECHOS, GARANTÍAS, DEBERES Y PROTECCIÓN DE LAS NIÑAS, NIÑOS Y ADOLESCENTES", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "TÍTULO I", "descripcion" : "DERECHOS Y DEBERES", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "CAPÍTULO I", "descripcion" : "DERECHO A LA VIDA, A LA SALUD Y AL MEDIO AMBIENTE", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16015, "cabecera" :  "ARTÍCULO 16. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16016, "cabecera" :  "ARTÍCULO 17. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16017, "cabecera" :  "ARTÍCULO 18. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16018, "cabecera" :  "ARTÍCULO 19. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16019, "cabecera" :  "ARTÍCULO 20. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16020, "cabecera" :  "ARTÍCULO 21. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16021, "cabecera" :  "ARTÍCULO 22. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16022, "cabecera" :  "ARTÍCULO 23. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16023, "cabecera" :  "ARTÍCULO 24. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16024, "cabecera" :  "ARTÍCULO 25. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16025, "cabecera" :  "ARTÍCULO 26. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16026, "cabecera" :  "ARTÍCULO 27. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16027, "cabecera" :  "ARTÍCULO 28. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16028, "cabecera" :  "ARTÍCULO 29. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16029, "cabecera" :  "ARTÍCULO 30. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16030, "cabecera" :  "ARTÍCULO 31. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16031, "cabecera" :  "ARTÍCULO 32. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16032, "cabecera" :  "ARTÍCULO 33. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16033, "cabecera" :  "ARTÍCULO 34. ", "descripcion" : "", "idlibro" : 9 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO II", "descripcion" : "DERECHO A LA FAMILIA", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "SECCIÓN I", "descripcion" : "DISPOSICIONES GENERALES", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16034, "cabecera" :  "ARTÍCULO 35. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16035, "cabecera" :  "ARTÍCULO 36. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16036, "cabecera" :  "ARTÍCULO 37. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16037, "cabecera" :  "ARTÍCULO 38. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16038, "cabecera" :  "ARTÍCULO 39. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16039, "cabecera" :  "ARTÍCULO 40. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16040, "cabecera" :  "ARTÍCULO 41. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16041, "cabecera" :  "ARTÍCULO 42. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16042, "cabecera" :  "ARTÍCULO 43. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16043, "cabecera" :  "ARTÍCULO 44. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16044, "cabecera" :  "ARTÍCULO 45. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16045, "cabecera" :  "ARTÍCULO 46. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16046, "cabecera" :  "ARTÍCULO 47. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16047, "cabecera" :  "ARTÍCULO 48. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16048, "cabecera" :  "ARTÍCULO 49. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16049, "cabecera" :  "ARTÍCULO 50. ", "descripcion" : "", "idlibro" : 9 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN II", "descripcion" : "FAMILIA SUSTITUTA", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16050, "cabecera" :  "ARTÍCULO 51. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16051, "cabecera" :  "ARTÍCULO 52. ", "descripcion" : "", "idlibro" : 9 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN III", "descripcion" : "ACOGIMIENTO CIRCUNSTANCIAL", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16052, "cabecera" :  "ARTÍCULO 53. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16053, "cabecera" :  "ARTÍCULO 54. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16054, "cabecera" :  "ARTÍCULO 55. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16055, "cabecera" :  "ARTÍCULO 56. ", "descripcion" : "", "idlibro" : 9 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN IV", "descripcion" : "LA GUARDA", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16056, "cabecera" :  "ARTÍCULO 57. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16057, "cabecera" :  "ARTÍCULO 58. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16058, "cabecera" :  "ARTÍCULO 59. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16059, "cabecera" :  "ARTÍCULO 60. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16060, "cabecera" :  "ARTÍCULO 61. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16061, "cabecera" :  "ARTÍCULO 62. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16062, "cabecera" :  "ARTÍCULO 63. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16063, "cabecera" :  "ARTÍCULO 64. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16064, "cabecera" :  "ARTÍCULO 65. ", "descripcion" : "", "idlibro" : 9 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN V", "descripcion" : "LA TUTELA", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16065, "cabecera" :  "ARTÍCULO 66. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16066, "cabecera" :  "ARTÍCULO 67. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16067, "cabecera" :  "ARTÍCULO 68. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16068, "cabecera" :  "ARTÍCULO 69. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16069, "cabecera" :  "ARTÍCULO 70. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16070, "cabecera" :  "ARTÍCULO 71. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16071, "cabecera" :  "ARTÍCULO 72. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16072, "cabecera" :  "ARTÍCULO 73. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16073, "cabecera" :  "ARTÍCULO 74. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16074, "cabecera" :  "ARTÍCULO 75. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16075, "cabecera" :  "ARTÍCULO 76. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16076, "cabecera" :  "ARTÍCULO 77. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16077, "cabecera" :  "ARTÍCULO 78. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16078, "cabecera" :  "ARTÍCULO 79. ", "descripcion" : "", "idlibro" : 9 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN VI", "descripcion" : "ADOPCIÓN", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "SUBSECCIÓN I", "descripcion" : "DISPOSICIONES GENERALES", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16079, "cabecera" :  "ARTÍCULO 80. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16080, "cabecera" :  "ARTÍCULO 81. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16081, "cabecera" :  "ARTÍCULO 82. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16082, "cabecera" :  "ARTÍCULO 83. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16083, "cabecera" :  "ARTÍCULO 84. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16084, "cabecera" :  "ARTÍCULO 85. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16085, "cabecera" :  "ARTÍCULO 86. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16086, "cabecera" :  "ARTÍCULO 87. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16087, "cabecera" :  "ARTÍCULO 88. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16088, "cabecera" :  "ARTÍCULO 89. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16089, "cabecera" :  "ARTÍCULO 90. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16090, "cabecera" :  "ARTÍCULO 91. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16091, "cabecera" :  "ARTÍCULO 92. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16092, "cabecera" :  "ARTÍCULO 93. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16093, "cabecera" :  "ARTÍCULO 94. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16094, "cabecera" :  "ARTÍCULO 95. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16095, "cabecera" :  "ARTÍCULO 96. ", "descripcion" : "", "idlibro" : 9 }]},
+    { "id" : 0, "cabecera" :  "SUBSECCIÓN II", "descripcion" : "ADOPCIÓN NACIONAL E INTERNACIONAL", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16096, "cabecera" :  "ARTÍCULO 97. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16097, "cabecera" :  "ARTÍCULO 98. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16098, "cabecera" :  "ARTÍCULO 99. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16099, "cabecera" :  "ARTÍCULO 100. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16100, "cabecera" :  "ARTÍCULO 101. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16101, "cabecera" :  "ARTÍCULO 102. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16102, "cabecera" :  "ARTÍCULO 103. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16103, "cabecera" :  "ARTÍCULO 104. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16104, "cabecera" :  "ARTÍCULO 105. ", "descripcion" : "", "idlibro" : 9 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "SECCIÓN VII", "descripcion" : "DERECHOS Y GARANTÍAS DE LA NIÑA, NIÑO Y ADOLESCENTE CON MADRE O PADRE PRIVADOS DE LIBERTAD", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16105, "cabecera" :  "ARTÍCULO 106. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16106, "cabecera" :  "ARTÍCULO 107. ", "descripcion" : "", "idlibro" : 9 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO III", "descripcion" : "DERECHO A LA NACIONALIDAD, IDENTIDAD Y FILIACIÓN", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16107, "cabecera" :  "ARTÍCULO 108. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16108, "cabecera" :  "ARTÍCULO 109. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16109, "cabecera" :  "ARTÍCULO 110. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16110, "cabecera" :  "ARTÍCULO 111. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16111, "cabecera" :  "ARTÍCULO 112. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16112, "cabecera" :  "ARTÍCULO 113. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16113, "cabecera" :  "ARTÍCULO 114. ", "descripcion" : "", "idlibro" : 9 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO IV", "descripcion" : "DERECHO A LA EDUCACIÓN, INFORMACIÓN, CULTURA Y RECREACIÓN", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16114, "cabecera" :  "ARTÍCULO 115. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16115, "cabecera" :  "ARTÍCULO 116. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16116, "cabecera" :  "ARTÍCULO 117. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16117, "cabecera" :  "ARTÍCULO 118. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16118, "cabecera" :  "ARTÍCULO 119. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16119, "cabecera" :  "ARTÍCULO 120. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16120, "cabecera" :  "ARTÍCULO 121. ", "descripcion" : "", "idlibro" : 9 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO V", "descripcion" : "DERECHO A OPINAR, PARTICIPAR Y PEDIR", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16121, "cabecera" :  "ARTÍCULO 122. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16122, "cabecera" :  "ARTÍCULO 123. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16123, "cabecera" :  "ARTÍCULO 124. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16124, "cabecera" :  "ARTÍCULO 125. ", "descripcion" : "", "idlibro" : 9 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO VI", "descripcion" : "DERECHO A LA PROTECCIÓN DE LA NIÑA, NIÑO Y ADOLESCENTE EN RELACIÓN AL TRABAJO", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "SECCIÓN I", "descripcion" : "PROTECCIÓN ESPECIAL", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16125, "cabecera" :  "ARTÍCULO 126. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16126, "cabecera" :  "ARTÍCULO 127. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16127, "cabecera" :  "ARTÍCULO 128. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16128, "cabecera" :  "ARTÍCULO 129. ", "descripcion" : "", "idlibro" : 9 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN II", "descripcion" : "PROTECCIÓN EN LA ACTIVIDAD LABORAL Y EL TRABAJO", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16129, "cabecera" :  "ARTÍCULO 130. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16130, "cabecera" :  "ARTÍCULO 131. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16131, "cabecera" :  "ARTÍCULO 132. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16132, "cabecera" :  "ARTÍCULO 133. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16133, "cabecera" :  "ARTÍCULO 134. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16134, "cabecera" :  "ARTÍCULO 135. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16135, "cabecera" :  "ARTICULO 136. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16136, "cabecera" :  "ARTÍCULO 137. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16137, "cabecera" :  "ARTÍCULO 138. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16138, "cabecera" :  "ARTÍCULO 139. ", "descripcion" : "", "idlibro" : 9 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN III", "descripcion" : "INFRACCIONES AL DERECHO DE PROTECCIÓN EN RELACIÓN AL TRABAJO", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16139, "cabecera" :  "ARTÍCULO 140. ", "descripcion" : "", "idlibro" : 9 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO VII", "descripcion" : "DERECHO A LA LIBERTAD, DIGNIDAD E IMAGEN", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16140, "cabecera" :  "ARTÍCULO 141. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16141, "cabecera" :  "ARTÍCULO 142. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16142, "cabecera" :  "ARTÍCULO 143. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16143, "cabecera" :  "ARTÍCULO 144. ", "descripcion" : "", "idlibro" : 9 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO VIII", "descripcion" : "DERECHO A LA INTEGRIDAD PERSONAL Y PROTECCIÓN CONTRA LA VIOLENCIA", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16144, "cabecera" :  "ARTÍCULO 145. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16145, "cabecera" :  "ARTÍCULO 146. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16146, "cabecera" :  "ARTÍCULO 147. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16147, "cabecera" :  "ARTÍCULO 148. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16148, "cabecera" :  "ARTÍCULO 149. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16149, "cabecera" :  "ARTÍCULO 150. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16150, "cabecera" :  "ARTÍCULO 151. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16151, "cabecera" :  "ARTÍCULO 152. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16152, "cabecera" :  "ARTÍCULO 153. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16153, "cabecera" :  "ARTÍCULO 154. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16154, "cabecera" :  "ARTÍCULO 155. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16155, "cabecera" :  "ARTÍCULO 156. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16156, "cabecera" :  "ARTÍCULO 157. ", "descripcion" : "", "idlibro" : 9 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO IX", "descripcion" : "DEBERES DE LA NIÑA, NIÑO Y ADOLESCENTE", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16157, "cabecera" :  "ARTÍCULO 158. ", "descripcion" : "", "idlibro" : 9 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "TÍTULO II", "descripcion" : "SISTEMA PLURINACIONAL DE PROTECCIÓN INTEGRAL DE LA NIÑA, NIÑO Y ADOLESCENTE", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "CAPÍTULO I", "descripcion" : "DISPOSICIONES GENERALES", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16158, "cabecera" :  "ARTÍCULO 159. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16159, "cabecera" :  "ARTÍCULO 160. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16160, "cabecera" :  "ARTÍCULO 161. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16161, "cabecera" :  "ARTÍCULO 162. ", "descripcion" : "", "idlibro" : 9 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO II", "descripcion" : "POLÍTICAS, PROGRAMAS, MEDIDAS, ENTIDADES DE ATENCIÓN Y SANCIONES", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "SECCIÓN I", "descripcion" : "POLÍTICAS", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16162, "cabecera" :  "ARTÍCULO 163. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16163, "cabecera" :  "ARTÍCULO 164. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16164, "cabecera" :  "ARTÍCULO 165. ", "descripcion" : "", "idlibro" : 9 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN II", "descripcion" : "PROGRAMAS DE PROTECCIÓN", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16165, "cabecera" :  "ARTÍCULO 166. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16166, "cabecera" :  "ARTÍCULO 167. ", "descripcion" : "", "idlibro" : 9 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN III", "descripcion" : "MEDIDAS DE PROTECCIÓN", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16167, "cabecera" :  "ARTÍCULO 168. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16168, "cabecera" :  "ARTÍCULO 169. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16169, "cabecera" :  "ARTÍCULO 170. ", "descripcion" : "", "idlibro" : 9 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN IV", "descripcion" : "ENTIDADES DE ATENCIÓN DEL SISTEMA DE PROTECCIÓN", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16170, "cabecera" :  "ARTÍCULO 171. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16171, "cabecera" :  "ARTÍCULO 172. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16172, "cabecera" :  "ARTÍCULO 173. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16173, "cabecera" :  "ARTÍCULO 174. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16174, "cabecera" :  "ARTÍCULO 175. ", "descripcion" : "", "idlibro" : 9 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN V", "descripcion" : "SANCIONES", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16175, "cabecera" :  "ARTÍCULO 176. ", "descripcion" : "", "idlibro" : 9 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN VI", "descripcion" : "ACCIONES DE DEFENSA APLICADAS FRENTE A VULNERACIÓN DE DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16176, "cabecera" :  "ARTÍCULO 177. ", "descripcion" : "", "idlibro" : 9 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO III", "descripcion" : "DISTRIBUCIÓN DE RESPONSABILIDADES PARA LA GESTIÓN DEL SISTEMA DE PROTECCIÓN DE LA NIÑA, NIÑO Y ADOLESCENTE", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "SECCIÓN I", "descripcion" : "NIVEL CENTRAL", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16177, "cabecera" :  "ARTÍCULO 178. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16178, "cabecera" :  "ARTÍCULO 179. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16179, "cabecera" :  "ARTÍCULO 180. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16180, "cabecera" :  "ARTÍCULO 181. ", "descripcion" : "", "idlibro" : 9 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN II", "descripcion" : "NIVEL DEPARTAMENTAL", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16181, "cabecera" :  "ARTÍCULO 182. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16182, "cabecera" :  "ARTÍCULO 183. ", "descripcion" : "", "idlibro" : 9 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN III", "descripcion" : "NIVEL MUNICIPAL", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16183, "cabecera" :  "ARTÍCULO 184. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16184, "cabecera" :  "ARTÍCULO 185. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16185, "cabecera" :  "ARTÍCULO 186. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16186, "cabecera" :  "ARTÍCULO 187. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16187, "cabecera" :  "ARTÍCULO 188. ", "descripcion" : "", "idlibro" : 9 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN IV", "descripcion" : "NIVEL INDÍGENA ORIGINARIO CAMPESINO", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16188, "cabecera" :  "ARTÍCULO 189. ", "descripcion" : "", "idlibro" : 9 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN V", "descripcion" : "COMITÉS DE NIÑAS, NIÑOS Y ADOLESCENTES", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16189, "cabecera" :  "ARTÍCULO 190. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16190, "cabecera" :  "ARTÍCULO 191. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16191, "cabecera" :  "ARTÍCULO 192. ", "descripcion" : "", "idlibro" : 9 }]}
+    ]}
+    ]}
+    ]},
+    { "id" : 0, "cabecera" :  "LIBRO II", "descripcion" : "PROTECCIÓN JURISDICCIONAL", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "TÍTULO I", "descripcion" : "PROTECCIÓN JURÍDICA", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "CAPÍTULO I", "descripcion" : "DISPOSICIONES GENERALES", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16192, "cabecera" :  "ARTÍCULO 193. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16193, "cabecera" :  "ARTÍCULO 194. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16194, "cabecera" :  "ARTÍCULO 195. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16195, "cabecera" :  "ARTÍCULO 196. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16196, "cabecera" :  "ARTÍCULO 197. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 0, "cabecera" :  "SECCIÓN I", "descripcion" : "JURISDICCIÓN Y COMPETENCIA", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16197, "cabecera" :  "ARTÍCULO 198. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16198, "cabecera" :  "ARTÍCULO 199. ", "descripcion" : "", "idlibro" : 9 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN II", "descripcion" : "JUZGADOS PÚBLICOS DE LA NIÑEZ Y ADOLESCENCIA", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16199, "cabecera" :  "ARTÍCULO 200. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16200, "cabecera" :  "ARTÍCULO 201. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16201, "cabecera" :  "ARTÍCULO 202. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16202, "cabecera" :  "ARTÍCULO 203. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16203, "cabecera" :  "ARTÍCULO 204. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16204, "cabecera" :  "ARTÍCULO 205. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16205, "cabecera" :  "ARTÍCULO 206. ", "descripcion" : "", "idlibro" : 9 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO II", "descripcion" : "COMPETENCIA DE JUZGADOS PÚBLICOS EN MATERIA DE NIÑEZ Y ADOLESCENCIA", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16206, "cabecera" :  "ARTÍCULO 207. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16207, "cabecera" :  "ARTÍCULO 208. ", "descripcion" : "", "idlibro" : 9 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO III", "descripcion" : "PROCEDIMIENTO COMÚN", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16208, "cabecera" :  "ARTÍCULO 209. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16209, "cabecera" :  "ARTÍCULO 210. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16210, "cabecera" :  "ARTÍCULO 211. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16211, "cabecera" :  "ARTÍCULO 212. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16212, "cabecera" :  "ARTÍCULO 213. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16213, "cabecera" :  "ARTÍCULO 214. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16214, "cabecera" :  "ARTÍCULO 215. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16215, "cabecera" :  "ARTÍCULO 216. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16216, "cabecera" :  "ARTÍCULO 217. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16217, "cabecera" :  "ARTÍCULO 218. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16218, "cabecera" :  "ARTÍCULO 219. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16219, "cabecera" :  "ARTÍCULO 220. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16220, "cabecera" :  "ARTÍCULO 221. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16221, "cabecera" :  "ARTÍCULO 222. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16222, "cabecera" :  "ARTÍCULO 223. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16223, "cabecera" :  "ARTÍCULO 224. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16224, "cabecera" :  "ARTÍCULO 225. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16225, "cabecera" :  "ARTÍCULO 226. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16226, "cabecera" :  "ARTÍCULO 227. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16227, "cabecera" :  "ARTÍCULO 228. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16228, "cabecera" :  "ARTÍCULO 229. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16229, "cabecera" :  "ARTÍCULO 230. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16230, "cabecera" :  "ARTÍCULO 231. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16231, "cabecera" :  "ARTÍCULO 233 ", "descripcion" : "", "idlibro" : 9 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "TÍTULO II", "descripcion" : "PROCEDIMIENTOS ESPECIALES", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "CAPÍTULO I", "descripcion" : "FILIACIÓN JUDICIAL", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16232, "cabecera" :  "ARTÍCULO 234. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16233, "cabecera" :  "ARTÍCULO 235. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16234, "cabecera" :  "ARTÍCULO 236. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16235, "cabecera" :  "ARTÍCULO 237. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16236, "cabecera" :  "ARTÍCULO 238. ", "descripcion" : "", "idlibro" : 9 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO II", "descripcion" : "CONVERSIÓN DE GUARDA EN ADOPCIÓN", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16237, "cabecera" :  "ARTÍCULO 239. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16238, "cabecera" :  "ARTÍCULO 240. ", "descripcion" : "", "idlibro" : 9 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO III", "descripcion" : "TUTELA ORDINARIA", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16239, "cabecera" :  "ARTÍCULO 241. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16240, "cabecera" :  "ARTÍCULO 242. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16241, "cabecera" :  "ARTÍCULO 243. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16242, "cabecera" :  "ARTÍCULO 244. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16243, "cabecera" :  "ARTÍCULO 245. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16244, "cabecera" :  "ARTÍCULO 246. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16245, "cabecera" :  "ARTÍCULO 247. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16246, "cabecera" :  "ARTÍCULO 248. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16247, "cabecera" :  "ARTÍCULO 249. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16248, "cabecera" :  "ARTÍCULO 249 ", "descripcion" : "", "idlibro" : 9 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO IV", "descripcion" : "ADOPCIÓN", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16249, "cabecera" :  "ARTÍCULO 250. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16250, "cabecera" :  "ARTÍCULO 250 ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16251, "cabecera" :  "ARTÍCULO 251. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16252, "cabecera" :  "ARTÍCULO 252 ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16253, "cabecera" :  "ARTÍCULO 253. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16254, "cabecera" :  "ARTÍCULO 254. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16255, "cabecera" :  "ARTÍCULO 255. ", "descripcion" : "", "idlibro" : 9 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO V", "descripcion" : "DISPOSICIONES ADMINISTRATIVAS Y JUDICIALES PARA LA ADOPCIÓN INTERNACIONAL", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16256, "cabecera" :  "ARTÍCULO 256. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16257, "cabecera" :  "ARTÍCULO 257. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16258, "cabecera" :  "ARTÍCULO 258. ", "descripcion" : "", "idlibro" : 9 }]}
+    ]}
+    ]},
+    { "id" : 0, "cabecera" :  "LIBRO III", "descripcion" : "SISTEMA PENAL PARA ADOLESCENTES", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "TÍTULO I", "descripcion" : "DISPOSICIONES GENERALES", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "CAPÍTULO I", "descripcion" : "SISTEMA PENAL, RESPONSABILIDAD Y GARANTÍAS", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16259, "cabecera" :  "ARTÍCULO 259. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16260, "cabecera" :  "ARTÍCULO 260. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16261, "cabecera" :  "ARTÍCULO 261. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16262, "cabecera" :  "ARTÍCULO 262. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16263, "cabecera" :  "ARTÍCULO 263. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16264, "cabecera" :  "ARTÍCULO 264. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16265, "cabecera" :  "ARTÍCULO 265. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16266, "cabecera" :  "ARTÍCULO 266. ", "descripcion" : "", "idlibro" : 9 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO II", "descripcion" : "ÁMBITO DE APLICACIÓN", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16267, "cabecera" :  "ARTÍCULO 267. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16268, "cabecera" :  "ARTÍCULO 268. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16269, "cabecera" :  "ARTÍCULO 269. ", "descripcion" : "", "idlibro" : 9 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "TÍTULO II", "descripcion" : "COMPETENCIAS, ATRIBUCIONES Y FUNCIONES DE LOS INTEGRANTES DEL SISTEMA PENAL PARA ADOLESCENTES", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "CAPÍTULO I", "descripcion" : "OBLIGACIONES GENERALES", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16270, "cabecera" :  "ARTÍCULO 270. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16271, "cabecera" :  "ARTÍCULO 271. ", "descripcion" : "", "idlibro" : 9 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO II", "descripcion" : "MINISTERIO DE JUSTICIA", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16272, "cabecera" :  "ARTÍCULO 272. ", "descripcion" : "", "idlibro" : 9 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO III", "descripcion" : "JURISDICCIÓN Y COMPETENCIA", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16273, "cabecera" :  "ARTÍCULO 273. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16274, "cabecera" :  "ARTÍCULO 274. ", "descripcion" : "", "idlibro" : 9 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO IV", "descripcion" : "MINISTERIO PÚBLICO Y POLICÍA BOLIVIANA", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16275, "cabecera" :  "ARTÍCULO 275. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16276, "cabecera" :  "ARTÍCULO 276. ", "descripcion" : "", "idlibro" : 9 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO V", "descripcion" : "GOBIERNOS AUTÓNOMOS DEPARTAMENTALES Y ATRIBUCIONES DE LA INSTANCIA TÉCNICA DEPARTAMENTAL DE POLÍTICA SOCIAL SOBRE RESPONSABILIDAD PENAL PARA ADOLESCENTES.", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16277, "cabecera" :  "ARTÍCULO 277. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16278, "cabecera" :  "ARTÍCULO 278. ", "descripcion" : "", "idlibro" : 9 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO VI", "descripcion" : "ENTIDADES DE ATENCIÓN Y PROGRAMAS DEL SISTEMA PENAL", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "SECCIÓN I", "descripcion" : "ENTIDADES DE ATENCIÓN DEL SISTEMA PENAL", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16279, "cabecera" :  "ARTÍCULO 279. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16280, "cabecera" :  "ARTÍCULO 280. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16281, "cabecera" :  "ARTÍCULO 281. ", "descripcion" : "", "idlibro" : 9 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN II", "descripcion" : "PROGRAMAS DEL SISTEMA PENAL", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16282, "cabecera" :  "ARTÍCULO 282. ", "descripcion" : "", "idlibro" : 9 }]}
+    ]}
+    ]},
+    { "id" : 0, "cabecera" :  "TÍTULO III", "descripcion" : "PROCESO PENAL DEL ADOLESCENTE", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "CAPÍTULO I", "descripcion" : "ACCIÓN PENAL Y PARTICIPACIÓN", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16283, "cabecera" :  "ARTÍCULO 283. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16284, "cabecera" :  "ARTÍCULO 284. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16285, "cabecera" :  "ARTÍCULO 285. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16286, "cabecera" :  "ARTÍCULO 286. ", "descripcion" : "", "idlibro" : 9 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO II", "descripcion" : "PREHENSIÓN, MEDIDAS CAUTELARES Y PELIGROS PROCESALES", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16287, "cabecera" :  "ARTÍCULO 287. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16288, "cabecera" :  "ARTÍCULO 288. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16289, "cabecera" :  "ARTÍCULO 289. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16290, "cabecera" :  "ARTÍCULO 290. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16291, "cabecera" :  "ARTÍCULO 291. ", "descripcion" : "", "idlibro" : 9 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO III", "descripcion" : "INVESTIGACIÓN", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16292, "cabecera" :  "ARTÍCULO 292. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16293, "cabecera" :  "ARTÍCULO 293. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16294, "cabecera" :  "ARTÍCULO 294. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16295, "cabecera" :  "ARTÍCULO 295. ", "descripcion" : "", "idlibro" : 9 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO IV", "descripcion" : "FINALIZACIÓN DE LA INVESTIGACIÓN", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "SECCIÓN I", "descripcion" : "REQUERIMIENTO Y RESOLUCIÓN JUDICIAL", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16296, "cabecera" :  "ARTÍCULO 296. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16297, "cabecera" :  "ARTÍCULO 297. ", "descripcion" : "", "idlibro" : 9 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN II", "descripcion" : "REMISIÓN", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16298, "cabecera" :  "ARTÍCULO 298. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16299, "cabecera" :  "ARTÍCULO 299. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16300, "cabecera" :  "ARTÍCULO 300. ", "descripcion" : "", "idlibro" : 9 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN III", "descripcion" : "SALIDAS ALTERNATIVAS", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16301, "cabecera" :  "ARTÍCULO 301. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16302, "cabecera" :  "ARTÍCULO 302. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16303, "cabecera" :  "ARTÍCULO 303. ", "descripcion" : "", "idlibro" : 9 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN IV", "descripcion" : "OTROS REQUERIMIENTOS CONCLUSIVOS", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16304, "cabecera" :  "ARTÍCULO 304. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16305, "cabecera" :  "ARTÍCULO 305. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16306, "cabecera" :  "ARTÍCULO 306. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16307, "cabecera" :  "ARTÍCULO 307. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16308, "cabecera" :  "ARTÍCULO 308. ", "descripcion" : "", "idlibro" : 9 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO V", "descripcion" : "JUICIO", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16309, "cabecera" :  "ARTÍCULO 309. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16310, "cabecera" :  "ARTÍCULO 310. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16311, "cabecera" :  "ARTÍCULO 311. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16312, "cabecera" :  "ARTÍCULO 312. ", "descripcion" : "", "idlibro" : 9 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO VI", "descripcion" : "RECURSOS", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16313, "cabecera" :  "ARTÍCULO 313. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16314, "cabecera" :  "ARTÍCULO 314. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16315, "cabecera" :  "ARTÍCULO 315. ", "descripcion" : "", "idlibro" : 9 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "TÍTULO IV", "descripcion" : "MECANISMOS DE JUSTICIA RESTAURATIVA", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "CAPÍTULO ÚNICO", "descripcion" : "DISPOSICIONES GENERALES", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16316, "cabecera" :  "ARTÍCULO 316. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16317, "cabecera" :  "ARTÍCULO 317. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16318, "cabecera" :  "ARTÍCULO 318. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16319, "cabecera" :  "ARTÍCULO 319. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16320, "cabecera" :  "ARTÍCULO 320. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16321, "cabecera" :  "ARTÍCULO 321. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 0, "cabecera" :  "SECCIÓN I", "descripcion" : "MEDIDAS SOCIO-EDUCATIVAS", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16322, "cabecera" :  "ARTÍCULO 322. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16323, "cabecera" :  "ARTÍCULO 323. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16324, "cabecera" :  "ARTÍCULO 324. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16325, "cabecera" :  "ARTÍCULO 325. ", "descripcion" : "", "idlibro" : 9 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN II", "descripcion" : "DEFINICIÓN DE LAS MEDIDAS", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16326, "cabecera" :  "ARTÍCULO 326. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16327, "cabecera" :  "ARTÍCULO 327. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16328, "cabecera" :  "ARTÍCULO 328. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16329, "cabecera" :  "ARTÍCULO 329. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16330, "cabecera" :  "ARTÍCULO 330. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16331, "cabecera" :  "ARTÍCULO 331. ", "descripcion" : "", "idlibro" : 9 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN III", "descripcion" : "CENTROS ESPECIALIZADOS", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16332, "cabecera" :  "ARTÍCULO 332. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16333, "cabecera" :  "ARTÍCULO 333. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16334, "cabecera" :  "ARTÍCULO 334. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16335, "cabecera" :  "ARTÍCULO 335. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16336, "cabecera" :  "ARTÍCULO 336. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16337, "cabecera" :  "ARTÍCULO 337. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16338, "cabecera" :  "ARTÍCULO 338. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16339, "cabecera" :  "ARTÍCULO 339. ", "descripcion" : "", "idlibro" : 9 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN IV", "descripcion" : "EJECUCIÓN DE LAS MEDIDAS SOCIO-EDUCATIVAS", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16340, "cabecera" :  "ARTÍCULO 340. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16341, "cabecera" :  "ARTÍCULO 341. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16342, "cabecera" :  "ARTÍCULO 342. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16343, "cabecera" :  "ARTÍCULO 343. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16344, "cabecera" :  "ARTÍCULO 344. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16345, "cabecera" :  "ARTÍCULO 345. ", "descripcion" : "", "idlibro" : 9 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN V", "descripcion" : "CONTROL DE LAS MEDIDAS", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16346, "cabecera" :  "ARTÍCULO 346. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16347, "cabecera" :  "ARTÍCULO 347. ", "descripcion" : "", "idlibro" : 9 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN VI", "descripcion" : "CALIFICACIÓN Y REPARACIÓN DE DAÑOS", "idlibro" : 9, "TreeList" : [ 
+    { "id" : 16348, "cabecera" :  "ARTÍCULO 348. ", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16349, "cabecera" :  "DISPOSICIONES ADICIONALES", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16350, "cabecera" :  "DISPOSICIONES TRANSITORIAS", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16351, "cabecera" :  "DISPOSICIONES ABROGATORIA Y DEROGATORIA", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16352, "cabecera" :  "DISPOSICIÓN ABROGATORIA.", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16353, "cabecera" :  "DISPOSICIÓN DEROGATORIA.", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 16354, "cabecera" :  "DISPOSICIONES FINALES", "descripcion" : "", "idlibro" : 9 }]}
+    ]}
+    ]}
+    ]}
+    ,
+    { "id" : 0, "cabecera" :  "", "descripcion" : "", "idlibro" : 9 }, 
+    { "id" : 0, "cabecera" :  "", "descripcion" : "", "idlibro" : 9 }
+    ]
+    

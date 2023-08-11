@@ -1,0 +1,658 @@
+[{ "id" : 0, "cabecera" :  "LIBRO PRIMERO", "descripcion" : "DISPOSICIONES GENERALES", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "TÍTULO I", "descripcion" : "DISPOSICIONES FUNDAMENTALES", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6000, "cabecera" :  "ARTÍCULO 1. ", "descripcion" : "dsfsd sdf sd fwerw er werwer qweqwwe", "idlibro" : 4 }, 
+    { "id" : 6001, "cabecera" :  "ARTÍCULO 2. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6002, "cabecera" :  "ARTÍCULO 3. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6003, "cabecera" :  "ARTÍCULO 4. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6004, "cabecera" :  "ARTÍCULO 5. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6005, "cabecera" :  "ARTÍCULO 6. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "TÍTULO II", "descripcion" : "AUTORIDADES JUDICIALES", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "CAPÍTULO PRIMERO", "descripcion" : "FUNCIÓN JURISDICCIONAL", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6006, "cabecera" :  "ARTÍCULO 7. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6007, "cabecera" :  "ARTÍCULO 8. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6008, "cabecera" :  "ARTÍCULO 9. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO SEGUNDO", "descripcion" : "JURISDICCIÓN Y COMPETENCIA", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6009, "cabecera" :  "ARTÍCULO 10. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6010, "cabecera" :  "ARTÍCULO 11. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6011, "cabecera" :  "ARTÍCULO 12. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6012, "cabecera" :  "ARTÍCULO 13. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6013, "cabecera" :  "ARTÍCULO 14. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6014, "cabecera" :  "ARTÍCULO 15. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6015, "cabecera" :  "ARTÍCULO 16. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO TERCERO", "descripcion" : "CONFLICTOS DE COMPETENCIA", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6016, "cabecera" :  "ARTÍCULO 17. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6017, "cabecera" :  "ARTÍCULO 18. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6018, "cabecera" :  "ARTÍCULO 19. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6019, "cabecera" :  "ARTÍCULO 20. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6020, "cabecera" :  "ARTÍCULO 21. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6021, "cabecera" :  "ARTÍCULO 22. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6022, "cabecera" :  "ARTÍCULO 23. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO CUARTO", "descripcion" : "PODERES, DEBERES Y RESPONSABILIDADES DE LA AUTORIDAD JUDICIAL", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6023, "cabecera" :  "ARTÍCULO 24. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6024, "cabecera" :  "ARTÍCULO 25. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6025, "cabecera" :  "ARTÍCULO 26. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO PRIMERO", "descripcion" : "GENERALIDADES", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6026, "cabecera" :  "ARTÍCULO 27. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6027, "cabecera" :  "ARTÍCULO 28.- ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6028, "cabecera" :  "ARTÍCULO 29. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6029, "cabecera" :  "ARTÍCULO 30. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6030, "cabecera" :  "ARTÍCULO 31. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6031, "cabecera" :  "ARTÍCULO 32. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6032, "cabecera" :  "ARTÍCULO 33. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6033, "cabecera" :  "ARTÍCULO 34. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6034, "cabecera" :  "ARTÍCULO 35. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6035, "cabecera" :  "ARTÍCULO 36. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6036, "cabecera" :  "ARTÍCULO 37. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO SEGUNDO", "descripcion" : "APODERADA O APODERADO JUDICIAL", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6037, "cabecera" :  "ARTÍCULO 38. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6038, "cabecera" :  "ARTÍCULO 39. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6039, "cabecera" :  "ARTÍCULO 40. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6040, "cabecera" :  "ARTÍCULO 41. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6041, "cabecera" :  "ARTÍCULO 42. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6042, "cabecera" :  "ARTÍCULO 43. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6043, "cabecera" :  "ARTÍCULO 44. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6044, "cabecera" :  "ARTÍCULO 45. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6045, "cabecera" :  "ARTÍCULO 46. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO TERCERO", "descripcion" : "LITISCONSORCIO", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6046, "cabecera" :  "ARTÍCULO 47. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6047, "cabecera" :  "ARTÍCULO 48. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6048, "cabecera" :  "ARTÍCULO 49. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO CUARTO", "descripcion" : "INTERVENCIÓN DE TERCEROS", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "SECCIÓN I", "descripcion" : "DISPOSICIONES GENERALES", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6049, "cabecera" :  "ARTÍCULO 50. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6050, "cabecera" :  "ARTÍCULO 51. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN II", "descripcion" : "INTERVENCIÓN VOLUNTARIA PRINCIPAL Y ACCESORIA", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6051, "cabecera" :  "ARTÍCULO 52. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6052, "cabecera" :  "ARTÍCULO 53. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6053, "cabecera" :  "ARTÍCULO 54. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6054, "cabecera" :  "ARTÍCULO 55. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6055, "cabecera" :  "ARTÍCULO 56. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6056, "cabecera" :  "ARTÍCULO 57. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN III", "descripcion" : "INTERVENCIÓN FORZOSA", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6057, "cabecera" :  "ARTÍCULO 58. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6058, "cabecera" :  "ARTÍCULO 59. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6059, "cabecera" :  "ARTÍCULO 60. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6060, "cabecera" :  "ARTÍCULO 61. ", "descripcion" : "", "idlibro" : 4 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO QUINTO", "descripcion" : "DEBERES Y RESPONSABILIDADES", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6061, "cabecera" :  "ARTÍCULO 62. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6062, "cabecera" :  "ARTÍCULO 63. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6063, "cabecera" :  "ARTÍCULO 64. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6064, "cabecera" :  "ARTÍCULO 65. ", "descripcion" : "", "idlibro" : 4 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "TÍTULO IV", "descripcion" : "ACTIVIDAD PROCESAL", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "CAPÍTULO PRIMERO", "descripcion" : "DISPOSICIONES GENERALES", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "SECCIÓN I", "descripcion" : "ACTOS PROCESALES", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6065, "cabecera" :  "ARTÍCULO 66. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6066, "cabecera" :  "ARTÍCULO 67. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6067, "cabecera" :  "ARTÍCULO 68. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN II", "descripcion" : "MEMORIALES", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6068, "cabecera" :  "ARTÍCULO 69. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6069, "cabecera" :  "ARTÍCULO 70. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6070, "cabecera" :  "ARTÍCULO 71. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN III", "descripcion" : "DOMICILIO PROCESAL", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6071, "cabecera" :  "ARTÍCULO 72. ", "descripcion" : "", "idlibro" : 4 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO SEGUNDO", "descripcion" : "RÉGIMEN DE COMUNICACIÓN PROCESAL", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "SECCIÓN I", "descripcion" : "CITACIÓN", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6072, "cabecera" :  "ARTÍCULO 73. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6073, "cabecera" :  "ARTÍCULO 74. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6074, "cabecera" :  "ARTÍCULO 75. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6075, "cabecera" :  "ARTÍCULO 76. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6076, "cabecera" :  "ARTÍCULO 77. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6077, "cabecera" :  "ARTÍCULO 78. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6078, "cabecera" :  "ARTÍCULO 79. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6079, "cabecera" :  "ARTÍCULO 80. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6080, "cabecera" :  "ARTICULO 81. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN II", "descripcion" : "NOTIFICACIÓN", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6081, "cabecera" :  "ARTÍCULO 82. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6082, "cabecera" :  "ARTÍCULO 83. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6083, "cabecera" :  "ARTÍCULO 84. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6084, "cabecera" :  "ARTÍCULO 85. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6085, "cabecera" :  "ARTÍCULO 86. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6086, "cabecera" :  "ARTÍCULO 87. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6087, "cabecera" :  "ARTÍCULO 88. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN III", "descripcion" : "PLAZOS PROCESALES", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6088, "cabecera" :  "ARTÍCULO 89. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6089, "cabecera" :  "ARTÍCULO 90. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6090, "cabecera" :  "ARTÍCULO 91. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6091, "cabecera" :  "ARTÍCULO 92. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6092, "cabecera" :  "ARTÍCULO 93. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6093, "cabecera" :  "ARTÍCULO 94. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6094, "cabecera" :  "ARTÍCULO 95. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN IV", "descripcion" : "AUDIENCIAS", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6095, "cabecera" :  "ARTÍCULO 96. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6096, "cabecera" :  "ARTÍCULO 97. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6097, "cabecera" :  "ARTÍCULO 98. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN V", "descripcion" : "EXPEDIENTES", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6098, "cabecera" :  "ARTÍCULO 99. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6099, "cabecera" :  "ARTÍCULO 100. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6100, "cabecera" :  "ARTÍCULO 101. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6101, "cabecera" :  "ARTÍCULO 102. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6102, "cabecera" :  "ARTÍCULO 103. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6103, "cabecera" :  "ARTÍCULO 104. ", "descripcion" : "", "idlibro" : 4 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO TERCERO", "descripcion" : "NULIDAD DE LOS ACTOS PROCESALES", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6104, "cabecera" :  "ARTÍCULO 105. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6105, "cabecera" :  "ARTÍCULO 106. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6106, "cabecera" :  "ARTÍCULO 107. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6107, "cabecera" :  "ARTÍCULO 108. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6108, "cabecera" :  "ARTÍCULO 109. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO CUARTO", "descripcion" : "ACTOS DE PROPOSICIÓN", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "SECCIÓN I", "descripcion" : "DEMANDA", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6109, "cabecera" :  "ARTÍCULO 110. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6110, "cabecera" :  "ARTÍCULO 111. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6111, "cabecera" :  "ARTÍCULO 112. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6112, "cabecera" :  "ARTÍCULO 113. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6113, "cabecera" :  "ARTÍCULO 114. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6114, "cabecera" :  "ARTÍCULO 115. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6115, "cabecera" :  "ARTÍCULO 116. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN II", "descripcion" : "CITACIÓN Y EMPLAZAMIENTO", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6116, "cabecera" :  "ARTÍCULO 117. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6117, "cabecera" :  "ARTÍCULO 118. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6118, "cabecera" :  "ARTICULO 119. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6119, "cabecera" :  "ARTÍCULO 120. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6120, "cabecera" :  "ARTÍCULO 121. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6121, "cabecera" :  "ARTÍCULO 122. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6122, "cabecera" :  "ARTÍCULO 123. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6123, "cabecera" :  "ARTÍCULO 124. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN III", "descripcion" : "CONTESTACIÓN", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6124, "cabecera" :  "ARTÍCULO 125. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6125, "cabecera" :  "ARTÍCULO 126. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6126, "cabecera" :  "ARTÍCULO 127. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6127, "cabecera" :  "ARTÍCULO 128. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6128, "cabecera" :  "ARTÍCULO 129. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN IV", "descripcion" : "RECONVENCIÓN", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6129, "cabecera" :  "ARTÍCULO 130. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6130, "cabecera" :  "ARTÍCULO 131. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6131, "cabecera" :  "ARTÍCULO 132. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6132, "cabecera" :  "ARTÍCULO 133. ", "descripcion" : "", "idlibro" : 4 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO QUINTO", "descripcion" : "PRUEBA", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "SECCIÓN I", "descripcion" : "PRINCIPIOS GENERALES", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6133, "cabecera" :  "ARTÍCULO 134. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6134, "cabecera" :  "ARTÍCULO 135. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6135, "cabecera" :  "ARTÍCULO 136. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6136, "cabecera" :  "ARTÍCULO 137. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6137, "cabecera" :  "ARTÍCULO 138. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6138, "cabecera" :  "ARTÍCULO 139. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6139, "cabecera" :  "ARTÍCULO 140. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6140, "cabecera" :  "ARTÍCULO 142. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6141, "cabecera" :  "ARTÍCULO 141. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6142, "cabecera" :  "ARTÍCULO 143. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6143, "cabecera" :  "ARTÍCULO 144. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6144, "cabecera" :  "ARTÍCULO 145. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6145, "cabecera" :  "ARTÍCULO 146. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN II", "descripcion" : "PRUEBA DOCUMENTAL", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6146, "cabecera" :  "ARTÍCULO 147. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6147, "cabecera" :  "ARTÍCULO 148. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6148, "cabecera" :  "ARTÍCULO 149. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6149, "cabecera" :  "ARTÍCULO 150. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6150, "cabecera" :  "ARTÍCULO 151. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6151, "cabecera" :  "ARTÍCULO 152. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6152, "cabecera" :  "ARTÍCULO 153. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6153, "cabecera" :  "ARTÍCULO 154. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6154, "cabecera" :  "ARTÍCULO 155. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN III", "descripcion" : "CONFESIÓN", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6155, "cabecera" :  "ARTÍCULO 156. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6156, "cabecera" :  "ARTÍCULO 157. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6157, "cabecera" :  "ARTÍCULO 158. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6158, "cabecera" :  "ARTÍCULO 159. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6159, "cabecera" :  "ARTÍCULO 160. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6160, "cabecera" :  "ARTÍCULO 161. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6161, "cabecera" :  "ARTÍCULO 162. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6162, "cabecera" :  "ARTÍCULO 163. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6163, "cabecera" :  "ARTÍCULO 164. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6164, "cabecera" :  "ARTÍCULO 165. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6165, "cabecera" :  "ARTÍCULO 166. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6166, "cabecera" :  "ARTÍCULO 167. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN IV", "descripcion" : "DECLARACIÓN DE TESTIGOS", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6167, "cabecera" :  "ARTÍCULO 168. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6168, "cabecera" :  "ARTÍCULO 169. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6169, "cabecera" :  "ARTÍCULO 170. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6170, "cabecera" :  "ARTÍCULO 171. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6171, "cabecera" :  "ARTÍCULO 172. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6172, "cabecera" :  "ARTÍCULO 173. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6173, "cabecera" :  "ARTÍCULO 174. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6174, "cabecera" :  "ARTÍCULO 175. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6175, "cabecera" :  "ARTÍCULO 176. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6176, "cabecera" :  "ARTÍCULO 177. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6177, "cabecera" :  "ARTÍCULO 178. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6178, "cabecera" :  "ARTÍCULO 179. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6179, "cabecera" :  "ARTÍCULO 180. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6180, "cabecera" :  "ARTÍCULO 181. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6181, "cabecera" :  "ARTÍCULO 182. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6182, "cabecera" :  "ARTÍCULO 183. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6183, "cabecera" :  "ARTÍCULO 184. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6184, "cabecera" :  "ARTÍCULO 185. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6185, "cabecera" :  "ARTÍCULO 186. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN V", "descripcion" : "INSPECCIÓN Y RECONSTRUCCIÓN DE HECHOS", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6186, "cabecera" :  "ARTÍCULO 187. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6187, "cabecera" :  "ARTÍCULO 188. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6188, "cabecera" :  "ARTÍCULO 189. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6189, "cabecera" :  "ARTÍCULO 190. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6190, "cabecera" :  "ARTÍCULO 191. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6191, "cabecera" :  "ARTÍCULO 192. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN VI", "descripcion" : "PRUEBA PERICIAL", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6192, "cabecera" :  "ARTÍCULO 193. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6193, "cabecera" :  "ARTÍCULO 194. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6194, "cabecera" :  "ARTÍCULO 195. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6195, "cabecera" :  "ARTÍCULO 196. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6196, "cabecera" :  "ARTÍCULO 197. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6197, "cabecera" :  "ARTÍCULO 198. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6198, "cabecera" :  "ARTÍCULO 199. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6199, "cabecera" :  "ARTÍCULO 200. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6200, "cabecera" :  "ARTÍCULO 201. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6201, "cabecera" :  "ARTÍCULO 202. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6202, "cabecera" :  "ARTÍCULO 203. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN VII", "descripcion" : "PRUEBA POR INFORME", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6203, "cabecera" :  "ARTÍCULO 204. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6204, "cabecera" :  "ARTÍCULO 205. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN VIII", "descripcion" : "PRESUNCIONES", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6205, "cabecera" :  "ARTÍCULO 206. ", "descripcion" : "", "idlibro" : 4 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO SEXTO", "descripcion" : "PROCEDIMIENTOS POSTERIORES PARA LA PRODUCCIÓN DE PRUEBA", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6206, "cabecera" :  "ARTÍCULO 207. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6207, "cabecera" :  "ARTÍCULO 208. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO SÉPTIMO", "descripcion" : "RESOLUCIONES JUDICIALES", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "SECCIÓN I", "descripcion" : "PROVIDENCIAS Y AUTOS", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6208, "cabecera" :  "ARTÍCULO 209. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6209, "cabecera" :  "ARTÍCULO 210. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6210, "cabecera" :  "ARTÍCULO 211. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6211, "cabecera" :  "ARTÍCULO 212. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN II", "descripcion" : "SENTENCIA, AUTO DE VISTA Y AUTO SUPREMO", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6212, "cabecera" :  "ARTÍCULO 213. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6213, "cabecera" :  "ARTÍCULO 214. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6214, "cabecera" :  "ARTÍCULO 215. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6215, "cabecera" :  "ARTÍCULO 216. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6216, "cabecera" :  "ARTÍCULO 217. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6217, "cabecera" :  "ARTÍCULO 218. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6218, "cabecera" :  "ARTÍCULO 219. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6219, "cabecera" :  "ARTÍCULO 220. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN III", "descripcion" : "COSTAS Y COSTOS", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6220, "cabecera" :  "ARTÍCULO 221. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6221, "cabecera" :  "ARTÍCULO 222. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6222, "cabecera" :  "ARTÍCULO 223. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6223, "cabecera" :  "ARTÍCULO 224. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6224, "cabecera" :  "ARTÍCULO 225. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN IV", "descripcion" : "ACLARACIÓN, ENMIENDA Y COMPLEMENTACIÓN", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6225, "cabecera" :  "ARTÍCULO 226. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN V", "descripcion" : "EFICACIA DE LAS RESOLUCIONES", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6226, "cabecera" :  "ARTÍCULO 227. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6227, "cabecera" :  "ARTÍCULO 228. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6228, "cabecera" :  "ARTÍCULO 229. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6229, "cabecera" :  "ARTÍCULO 230. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6230, "cabecera" :  "ARTÍCULO 231. ", "descripcion" : "", "idlibro" : 4 }]}
+    ]}
+    ]},
+    { "id" : 0, "cabecera" :  "TÍTULO V", "descripcion" : "MEDIOS EXTRAORDINARIOS DE CONCLUSIÓN DEL PROCESO", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "CAPÍTULO PRIMERO", "descripcion" : "TRANSACCIÓN", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6231, "cabecera" :  "ARTÍCULO 232. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6232, "cabecera" :  "ARTÍCULO 233. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO SEGUNDO", "descripcion" : "CONCILIACIÓN", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6233, "cabecera" :  "ARTÍCULO 234. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6234, "cabecera" :  "ARTÍCULO 235. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6235, "cabecera" :  "ARTÍCULO 236. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6236, "cabecera" :  "ARTÍCULO 237. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6237, "cabecera" :  "ARTÍCULO 238. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO TERCERO", "descripcion" : "DESISTIMIENTO", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6238, "cabecera" :  "ARTÍCULO 239. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6239, "cabecera" :  "ARTÍCULO 240. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6240, "cabecera" :  "ARTÍCULO 241. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6241, "cabecera" :  "ARTÍCULO 242. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6242, "cabecera" :  "ARTÍCULO 243. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6243, "cabecera" :  "ARTÍCULO 244. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6244, "cabecera" :  "ARTÍCULO 245. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6245, "cabecera" :  "ARTÍCULO 246. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO CUARTO", "descripcion" : "EXTINCIÓN POR INACTIVIDAD", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6246, "cabecera" :  "ARTÍCULO 247. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6247, "cabecera" :  "ARTÍCULO 248. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6248, "cabecera" :  "ARTÍCULO 249. ", "descripcion" : "", "idlibro" : 4 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "TÍTULO SEXTO", "descripcion" : "MEDIOS DE IMPUGNACIÓN DE LAS RESOLUCIONES JUDICIALES", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "CAPÍTULO PRIMERO", "descripcion" : "DISPOSICIONES GENERALES", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6249, "cabecera" :  "ARTÍCULO 250. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6250, "cabecera" :  "ARTÍCULO 251. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6251, "cabecera" :  "ARTÍCULO 252. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO SEGUNDO", "descripcion" : "RECURSO DE REPOSICIÓN", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6252, "cabecera" :  "ARTÍCULO 253. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6253, "cabecera" :  "ARTÍCULO 254. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6254, "cabecera" :  "ARTÍCULO 255. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO TERCERO", "descripcion" : "RECURSO DE APELACIÓN", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6255, "cabecera" :  "ARTÍCULO 256. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6256, "cabecera" :  "ARTÍCULO 257. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6257, "cabecera" :  "ARTÍCULO 258. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6258, "cabecera" :  "ARTÍCULO 259. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6259, "cabecera" :  "ARTÍCULO 260. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6260, "cabecera" :  "ARTÍCULO 261. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6261, "cabecera" :  "ARTÍCULO 262. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6262, "cabecera" :  "ARTÍCULO 263. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6263, "cabecera" :  "ARTÍCULO 264. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6264, "cabecera" :  "ARTÍCULO 265. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6265, "cabecera" :  "ARTÍCULO 266. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6266, "cabecera" :  "ARTÍCULO 267. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6267, "cabecera" :  "ARTÍCULO 268. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6268, "cabecera" :  "ARTÍCULO 269. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO CUARTO", "descripcion" : "RECURSO DE CASACIÓN", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6269, "cabecera" :  "ARTÍCULO 270. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6270, "cabecera" :  "ARTÍCULO 271. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6271, "cabecera" :  "ARTÍCULO 272. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6272, "cabecera" :  "ARTÍCULO 273. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6273, "cabecera" :  "ARTÍCULO 274. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6274, "cabecera" :  "ARTÍCULO 275. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6275, "cabecera" :  "ARTÍCULO 276. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6276, "cabecera" :  "ARTÍCULO 277. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6277, "cabecera" :  "ARTÍCULO 278. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO QUINTO", "descripcion" : "COMPULSA", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6278, "cabecera" :  "ARTÍCULO 279. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6279, "cabecera" :  "ARTÍCULO 280. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6280, "cabecera" :  "ARTÍCULO 281. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6281, "cabecera" :  "ARTÍCULO 282. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6282, "cabecera" :  "ARTÍCULO 283. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO SEXTO", "descripcion" : "RECURSO EXTRAORDINARIO DE REVISIÓN DE SENTENCIA", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6283, "cabecera" :  "ARTÍCULO 284. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6284, "cabecera" :  "ARTÍCULO 285. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6285, "cabecera" :  "ARTÍCULO 286. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6286, "cabecera" :  "ARTÍCULO 287. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6287, "cabecera" :  "ARTÍCULO 288. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6288, "cabecera" :  "ARTÍCULO 289. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6289, "cabecera" :  "ARTÍCULO 290. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6290, "cabecera" :  "ARTÍCULO 291. ", "descripcion" : "", "idlibro" : 4 }]}
+    ]}
+    ]},
+    { "id" : 0, "cabecera" :  "LIBRO SEGUNDO", "descripcion" : "DESARROLLO DE LOS PROCESOS", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "TÍTULO I", "descripcion" : "PROCESOS PRELIMINARES", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "CAPÍTULO PRIMERO", "descripcion" : "CONCILIACIÓN PREVIA", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6291, "cabecera" :  "ARTÍCULO 292. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6292, "cabecera" :  "ARTÍCULO 293. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6293, "cabecera" :  "ARTÍCULO 294. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6294, "cabecera" :  "ARTÍCULO 295. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6295, "cabecera" :  "ARTÍCULO 296. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6296, "cabecera" :  "ARTÍCULO 297. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO SEGUNDO", "descripcion" : "EXENCIÓN DE COSTOS Y COSTAS", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6297, "cabecera" :  "ARTÍCULO 298. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6298, "cabecera" :  "ARTÍCULO 299. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6299, "cabecera" :  "ARTÍCULO 300. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6300, "cabecera" :  "ARTÍCULO 301. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6301, "cabecera" :  "ARTÍCULO 302. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6302, "cabecera" :  "ARTÍCULO 303. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6303, "cabecera" :  "ARTÍCULO 304. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO TERCERO", "descripcion" : "DILIGENCIAS PREPARATORIAS", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6304, "cabecera" :  "ARTÍCULO 305. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6305, "cabecera" :  "ARTÍCULO 306. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6306, "cabecera" :  "ARTÍCULO 307. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6307, "cabecera" :  "ARTÍCULO 308. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6308, "cabecera" :  "ARTÍCULO 309. ", "descripcion" : "", "idlibro" : 4 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "TÍTULO II", "descripcion" : "PROCESO CAUTELAR", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "CAPÍTULO PRIMERO", "descripcion" : "DISPOSICIONES GENERALES", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6309, "cabecera" :  "ARTÍCULO 310. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6310, "cabecera" :  "ARTÍCULO 311. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6311, "cabecera" :  "ARTÍCULO 312. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6312, "cabecera" :  "ARTÍCULO 313. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6313, "cabecera" :  "ARTÍCULO 314. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6314, "cabecera" :  "ARTÍCULO 315. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6315, "cabecera" :  "ARTÍCULO 316. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6316, "cabecera" :  "ARTÍCULO 317. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6317, "cabecera" :  "ARTÍCULO 318. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6318, "cabecera" :  "ARTÍCULO 319. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6319, "cabecera" :  "ARTÍCULO 320. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6320, "cabecera" :  "ARTÍCULO 321. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6321, "cabecera" :  "ARTÍCULO 322. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6322, "cabecera" :  "ARTÍCULO 323. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO SEGUNDO", "descripcion" : "MEDIDAS CAUTELARES GENÉRICAS", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6323, "cabecera" :  "ARTÍCULO 324. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO TERCERO", "descripcion" : "MEDIDAS CUATELARES ESPECÍFICAS", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "SECCIÓN I", "descripcion" : "ANOTACIÓN PREVENTIVA", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6324, "cabecera" :  "ARTÍCULO 325. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN II", "descripcion" : "EMBARGO PREVENTIVO Y SECUESTRO", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6325, "cabecera" :  "ARTÍCULO 326. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6326, "cabecera" :  "ARTÍCULO 327. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6327, "cabecera" :  "ARTÍCULO 328. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN III", "descripcion" : "INTERVENCIÓN JUDICIAL", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6328, "cabecera" :  "ARTÍCULO 329. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6329, "cabecera" :  "ARTÍCULO 330. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6330, "cabecera" :  "ARTÍCULO 331. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6331, "cabecera" :  "ARTÍCULO 332. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6332, "cabecera" :  "ARTÍCULO 333. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6333, "cabecera" :  "ARTÍCULO 334. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN IV", "descripcion" : "INHIBICIÓN DE BIENES", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6334, "cabecera" :  "ARTÍCULO 335. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN V", "descripcion" : "PROHIBICIÓN DE INNOVAR Y CONTRATAR", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6335, "cabecera" :  "ARTÍCULO 336. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6336, "cabecera" :  "ARTÍCULO 337. ", "descripcion" : "", "idlibro" : 4 }]}
+    ]}
+    ]},
+    { "id" : 0, "cabecera" :  "TÍTULO III", "descripcion" : "PROCESOS INCIDENTALES", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "CAPÍTULO PRIMERO", "descripcion" : "DISPOSICIONES GENERALES", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6337, "cabecera" :  "ARTÍCULO 338. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6338, "cabecera" :  "ARTÍCULO 339. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6339, "cabecera" :  "ARTÍCULO 340. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6340, "cabecera" :  "ARTÍCULO 341. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6341, "cabecera" :  "ARTÍCULO 342. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6342, "cabecera" :  "ARTÍCULO 343. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6343, "cabecera" :  "ARTÍCULO 344. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO SEGUNDO", "descripcion" : "INCIDENTES ESPECIALIZADOS", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "SECCIÓN I", "descripcion" : "ACUMULACIÓN", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6344, "cabecera" :  "ARTÍCULO 345. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6345, "cabecera" :  "ARTÍCULO 346. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN II", "descripcion" : "RECUSACIÓN Y EXCUSAS", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6346, "cabecera" :  "ARTÍCULO 347. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6347, "cabecera" :  "ARTÍCULO 348. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6348, "cabecera" :  "ARTÍCULO 349. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6349, "cabecera" :  "ARTÍCULO 350. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6350, "cabecera" :  "ARTÍCULO 351. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6351, "cabecera" :  "ARTÍCULO 352. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN III", "descripcion" : "PROCEDIMIENTO INCIDENTAL DE LA RECUSACIÓN", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6352, "cabecera" :  "ARTÍCULO 353. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6353, "cabecera" :  "ARTÍCULO 354. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6354, "cabecera" :  "ARTÍCULO 355. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN IV", "descripcion" : "CASOS ESPECIALES DE RECUSACIÓN", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6355, "cabecera" :  "ARTÍCULO 356. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN V", "descripcion" : "RENDICIÓN DE CUENTAS", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6356, "cabecera" :  "ARTÍCULO 357. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6357, "cabecera" :  "ARTÍCULO 358. ", "descripcion" : "", "idlibro" : 4 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO TERCERO", "descripcion" : "TERCERÍAS E INTERVENCIÓN DE TERCEROS", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6358, "cabecera" :  "ARTÍCULO 359. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6359, "cabecera" :  "ARTÍCULO 360. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6360, "cabecera" :  "ARTÍCULO 361. ", "descripcion" : "", "idlibro" : 4 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "TÍTULO IV", "descripcion" : "PROCESO DE CONOCIMIENTO", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "CAPÍTULO PRIMERO", "descripcion" : "PROCESO ORDINARIO", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6361, "cabecera" :  "ARTÍCULO 362. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6362, "cabecera" :  "ARTÍCULO 363. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6363, "cabecera" :  "ARTÍCULO 364. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6364, "cabecera" :  "ARTÍCULO 365. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6365, "cabecera" :  "ARTÍCULO 366. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6366, "cabecera" :  "ARTÍCULO 367. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6367, "cabecera" :  "ARTÍCULO 368. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO SEGUNDO", "descripcion" : "PROCESO EXTRAORDINARIO", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6368, "cabecera" :  "ARTÍCULO 369. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6369, "cabecera" :  "ARTÍCULO 370. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6370, "cabecera" :  "ARTÍCULO 371. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6371, "cabecera" :  "ARTÍCULO 372. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6372, "cabecera" :  "ARTÍCULO 373. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6373, "cabecera" :  "ARTÍCULO 374. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO TERCERO", "descripcion" : "PROCESO DE ESTRUCTURA MONITORIA", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "SECCIÓN I", "descripcion" : "DISPOSICIONES GENERALES", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6374, "cabecera" :  "ARTÍCULO 375. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6375, "cabecera" :  "ARTÍCULO 376. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6376, "cabecera" :  "ARTÍCULO 377. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN II", "descripcion" : "PROCESO EJECUTIVO", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6377, "cabecera" :  "ARTÍCULO 378. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6378, "cabecera" :  "ARTÍCULO 379. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6379, "cabecera" :  "ARTÍCULO 380. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6380, "cabecera" :  "ARTÍCULO 381. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6381, "cabecera" :  "ARTÍCULO 382. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6382, "cabecera" :  "ARTÍCULO 383. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6383, "cabecera" :  "ARTÍCULO 384. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6384, "cabecera" :  "ARTÍCULO 385. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6385, "cabecera" :  "ARTÍCULO 386. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN III", "descripcion" : "OTROS PROCESOS MONITORIOS", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6386, "cabecera" :  "ARTÍCULO 387. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6387, "cabecera" :  "ARTÍCULO 388. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6388, "cabecera" :  "ARTÍCULO 389. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6389, "cabecera" :  "ARTÍCULO 390. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6390, "cabecera" :  "ARTÍCULO 391. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6391, "cabecera" :  "ARTÍCULO 392. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6392, "cabecera" :  "ARTÍCULO 393. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6393, "cabecera" :  "ARTÍCULO 394. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6394, "cabecera" :  "ARTÍCULO 395. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6395, "cabecera" :  "ARTÍCULO 396. ", "descripcion" : "", "idlibro" : 4 }]}
+    ]}
+    ]},
+    { "id" : 0, "cabecera" :  "TÍTULO V", "descripcion" : "PROCESOS DE EJECUCIÓN", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "CAPÍTULO PRIMERO", "descripcion" : "EJECUCIÓN DE SENTENCIAS", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6396, "cabecera" :  "ARTÍCULO 397. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6397, "cabecera" :  "ARTÍCULO 398. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6398, "cabecera" :  "ARTÍCULO 399. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6399, "cabecera" :  "ARTÍCULO 400. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6400, "cabecera" :  "ARTÍCULO 401. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6401, "cabecera" :  "ARTÍCULO 402. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6402, "cabecera" :  "ARTÍCULO 403. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO SEGUNDO", "descripcion" : "EJECUCIÓN COACTIVA DE SUMAS DE DINERO", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6403, "cabecera" :  "ARTÍCULO 404. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6404, "cabecera" :  "ARTÍCULO 405. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6405, "cabecera" :  "ARTÍCULO 406. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6406, "cabecera" :  "ARTÍCULO 407. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6407, "cabecera" :  "ARTÍCULO 408. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6408, "cabecera" :  "ARTÍCULO 409. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6409, "cabecera" :  "ARTÍCULO 410. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6410, "cabecera" :  "ARTÍCULO 411. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6411, "cabecera" :  "ARTÍCULO 412. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6412, "cabecera" :  "ARTÍCULO 413. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6413, "cabecera" :  "ARTÍCULO 414. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6414, "cabecera" :  "ARTÍCULO 415. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6415, "cabecera" :  "ARTÍCULO 416. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6416, "cabecera" :  "ARTÍCULO 417. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6417, "cabecera" :  "ARTÍCULO 418. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6418, "cabecera" :  "ARTÍCULO 419. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6419, "cabecera" :  "ARTÍCULO 420. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6420, "cabecera" :  "ARTÍCULO 421. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6421, "cabecera" :  "ARTÍCULO 422. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6422, "cabecera" :  "ARTÍCULO 423. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6423, "cabecera" :  "ARTÍCULO 424. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6424, "cabecera" :  "ARTÍCULO 425. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6425, "cabecera" :  "ARTÍCULO 426. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6426, "cabecera" :  "ARTÍCULO 427. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6427, "cabecera" :  "ARTÍCULO 428. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO TERCERO", "descripcion" : "EJECUCIÓN DE OTRAS OBLIGACIONES", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6428, "cabecera" :  "ARTÍCULO 429. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6429, "cabecera" :  "ARTÍCULO 430. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6430, "cabecera" :  "ARTÍCULO 431. ", "descripcion" : "", "idlibro" : 4 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "TÍTULO VI", "descripcion" : "PROCESOS CONCURSALES", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "CAPÍTULO PRIMERO", "descripcion" : "DISPOSICIONES GENERALES", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6431, "cabecera" :  "ARTÍCULO 432. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6432, "cabecera" :  "ARTÍCULO 433. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO SEGUNDO", "descripcion" : "PROCEDIMIENTO DE LOS CONCURSOS", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6433, "cabecera" :  "ARTÍCULO 434. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6434, "cabecera" :  "ARTÍCULO 435. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6435, "cabecera" :  "ARTÍCULO 436. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6436, "cabecera" :  "ARTÍCULO 438. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6437, "cabecera" :  "ARTÍCULO 437. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6438, "cabecera" :  "ARTÍCULO 439. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6439, "cabecera" :  "ARTÍCULO 440. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6440, "cabecera" :  "ARTÍCULO 441. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6441, "cabecera" :  "ARTÍCULO 442. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6442, "cabecera" :  "ARTÍCULO 443. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6443, "cabecera" :  "ARTÍCULO 444. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6444, "cabecera" :  "ARTÍCULO 445. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6445, "cabecera" :  "ARTÍCULO 446. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6446, "cabecera" :  "ARTÍCULO 447. ", "descripcion" : "", "idlibro" : 4 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "TÍTULO VII", "descripcion" : "PROCESOS VOLUNTARIOS", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "CAPÍTULO PRIMERO", "descripcion" : "DISPOSICIONES GENERALES", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6447, "cabecera" :  "ARTÍCULO 448. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6448, "cabecera" :  "ARTÍCULO 449. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6449, "cabecera" :  "ARTÍCULO 450. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6450, "cabecera" :  "ARTÍCULO 451. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6451, "cabecera" :  "ARTÍCULO 452. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6452, "cabecera" :  "ARTÍCULO 453. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6453, "cabecera" :  "ARTÍCULO 454. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO SEGUNDO", "descripcion" : "PROCESO SUCESORIO", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "SECCIÓN I", "descripcion" : "SUCESIÓN LEGAL", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6454, "cabecera" :  "ARTÍCULO 455. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6455, "cabecera" :  "ARTÍCULO 456. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6456, "cabecera" :  "ARTÍCULO 457. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6457, "cabecera" :  "ARTÍCULO 458. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN II", "descripcion" : "SUCESIÓN TESTAMENTARIA", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6458, "cabecera" :  "ARTÍCULO 459. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6459, "cabecera" :  "ARTÍCULO 460. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6460, "cabecera" :  "ARTÍCULO 461. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6461, "cabecera" :  "ARTÍCULO 462. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6462, "cabecera" :  "ARTÍCULO 463. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6463, "cabecera" :  "ARTÍCULO 464. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6464, "cabecera" :  "ARTÍCULO 465. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6465, "cabecera" :  "ARTÍCULO 466. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6466, "cabecera" :  "ARTÍCULO 467. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6467, "cabecera" :  "ARTÍCULO 468. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6468, "cabecera" :  "ARTÍCULO 469. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN III", "descripcion" : "ACEPTACIÓN DE LA HERENCIA CON BENEFICIO DE INVENTARIO", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6469, "cabecera" :  "ARTÍCULO 470. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6470, "cabecera" :  "ARTÍCULO 471. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6471, "cabecera" :  "ARTÍCULO 472. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6472, "cabecera" :  "ARTÍCULO 473. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6473, "cabecera" :  "ARTÍCULO 474. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6474, "cabecera" :  "ARTÍCULO 475. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN IV", "descripcion" : "RENUNCIA DE HERENCIA", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6475, "cabecera" :  "ARTÍCULO 476. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6476, "cabecera" :  "ARTÍCULO 477. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN V", "descripcion" : "INCIDENCIAS DEL PROCESO SUCESORIO", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6477, "cabecera" :  "ARTÍCULO 478. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6478, "cabecera" :  "ARTÍCULO 479. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6479, "cabecera" :  "ARTÍCULO 480. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "SECCIÓN VI", "descripcion" : "SUCESIÓN DEL ESTADO", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6480, "cabecera" :  "ARTÍCULO 481. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6481, "cabecera" :  "ARTÍCULO 482. ", "descripcion" : "", "idlibro" : 4 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO TERCERO", "descripcion" : "DESAPARICIÓN Y PRESUNCIÓN DE MUERTE", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6482, "cabecera" :  "ARTÍCULO 483. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6483, "cabecera" :  "ARTÍCULO 484. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO CUARTO", "descripcion" : "OTROS PROCESOS VOLUNTARIOS", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "SECCIÓN ÚNICA", "descripcion" : "PROCEDIMIENTOS EN MENSURA, DESLINDE Y REGISTROS PÚBLICOS", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6484, "cabecera" :  "ARTÍCULO 485. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6485, "cabecera" :  "ARTÍCULO 486. ", "descripcion" : "", "idlibro" : 4 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO QUINTO", "descripcion" : "OFERTA DE PAGO Y CONSIGNACIÓN", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6486, "cabecera" :  "ARTÍCULO 487. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6487, "cabecera" :  "ARTÍCULO 488. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6488, "cabecera" :  "ARTÍCULO 489. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6489, "cabecera" :  "ARTÍCULO 490. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6490, "cabecera" :  "ARTÍCULO 491. ", "descripcion" : "", "idlibro" : 4 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "TÍTULO VIII", "descripcion" : "COOPERACIÓN JUDICIAL INTERNACIONAL", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "CAPÍTULO PRIMERO", "descripcion" : "DISPOSICIONES GENERALES", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6491, "cabecera" :  "ARTÍCULO 492. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6492, "cabecera" :  "ARTÍCULO 493. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO SEGUNDO", "descripcion" : "EXHORTOS SUPLICATORIOS Y OTRAS COMISIONES", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6493, "cabecera" :  "ARTÍCULO 494. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6494, "cabecera" :  "ARTÍCULO 495. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6495, "cabecera" :  "ARTÍCULO 496. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO TERCERO", "descripcion" : "COOPERACIÓN JUDICIAL INTERNACIONAL EN MATERIA CAUTELAR", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6496, "cabecera" :  "ARTÍCULO 497. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6497, "cabecera" :  "ARTÍCULO 498. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6498, "cabecera" :  "ARTÍCULO 499. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6499, "cabecera" :  "ARTÍCULO 500. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6500, "cabecera" :  "ARTÍCULO 501. ", "descripcion" : "", "idlibro" : 4 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO CUARTO", "descripcion" : "EJECUCIÓN DE SENTENCIAS DICTADAS EN EL EXTRANJERO", "idlibro" : 4, "TreeList" : [ 
+    { "id" : 6501, "cabecera" :  "ARTÍCULO 502. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6502, "cabecera" :  "ARTÍCULO 503. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6503, "cabecera" :  "ARTÍCULO 504. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6504, "cabecera" :  "ARTÍCULO 505. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6505, "cabecera" :  "ARTÍCULO 506. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6506, "cabecera" :  "ARTÍCULO 507. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6507, "cabecera" :  "ARTÍCULO 508. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6508, "cabecera" :  "ARTÍCULO 509. ", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6509, "cabecera" :  "DISPOSICIONES TRANSITORIAS", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6510, "cabecera" :  "DISPOSICIONES ADICIONALES", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6511, "cabecera" :  "DISPOSICIONES FINALES", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 6512, "cabecera" :  "DISPOSICIONES DEROGATORIAS Y ABROGATORIAS", "descripcion" : "", "idlibro" : 4 }]}
+    ]}
+    ]}
+    ,
+    { "id" : 0, "cabecera" :  "", "descripcion" : "", "idlibro" : 4 }, 
+    { "id" : 0, "cabecera" :  "", "descripcion" : "", "idlibro" : 4 }
+    ]
+    

@@ -1,0 +1,53 @@
+[{ "id" : 0, "cabecera" :  "CAPÍTULO I", "descripcion" : "DISPOSICIONES GENERALES", "idlibro" : 11, "TreeList" : [ 
+    { "id" : 20000, "cabecera" :  "ARTÍCULO 1. ", "descripcion" : "", "idlibro" : 11 }, 
+    { "id" : 20001, "cabecera" :  "ARTÍCULO 2. ", "descripcion" : "", "idlibro" : 11 }, 
+    { "id" : 20002, "cabecera" :  "ARTÍCULO 3. ", "descripcion" : "", "idlibro" : 11 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO II", "descripcion" : "EXPENDIO Y CONSUMO DE BEBIDAS ALCOHÓLICAS", "idlibro" : 11, "TreeList" : [ 
+    { "id" : 20003, "cabecera" :  "ARTÍCULO 4. ", "descripcion" : "", "idlibro" : 11 }, 
+    { "id" : 20004, "cabecera" :  "ARTÍCULO 5. ", "descripcion" : "", "idlibro" : 11 }, 
+    { "id" : 20005, "cabecera" :  "ARTÍCULO 6. ", "descripcion" : "", "idlibro" : 11 }, 
+    { "id" : 20006, "cabecera" :  "ARTÍCULO 7. ", "descripcion" : "", "idlibro" : 11 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO III", "descripcion" : "CONTROL DE LA PUBLICIDAD DE BEBIDAS ALCOHÓLICAS", "idlibro" : 11, "TreeList" : [ 
+    { "id" : 20007, "cabecera" :  "ARTÍCULO 8. ", "descripcion" : "", "idlibro" : 11 }, 
+    { "id" : 20008, "cabecera" :  "ARTÍCULO 9. ", "descripcion" : "", "idlibro" : 11 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO IV", "descripcion" : "PROMOCIÓN DE LA SALUD, PREVENCIÓN AL CONSUMO Y REHABILITACIÓN", "idlibro" : 11, "TreeList" : [ 
+    { "id" : 20009, "cabecera" :  "ARTÍCULO 10. ", "descripcion" : "", "idlibro" : 11 }, 
+    { "id" : 20010, "cabecera" :  "ARTÍCULO 11. ", "descripcion" : "", "idlibro" : 11 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO V", "descripcion" : "MEDIDAS DE CONTROL", "idlibro" : 11, "TreeList" : [ 
+    { "id" : 20011, "cabecera" :  "ARTÍCULO 12. ", "descripcion" : "", "idlibro" : 11 }, 
+    { "id" : 20012, "cabecera" :  "ARTÍCULO 13. ", "descripcion" : "", "idlibro" : 11 }, 
+    { "id" : 20013, "cabecera" :  "ARTÍCULO 14. ", "descripcion" : "", "idlibro" : 11 }, 
+    { "id" : 20014, "cabecera" :  "ARTÍCULO 15. ", "descripcion" : "", "idlibro" : 11 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO VI", "descripcion" : "MEDIDAS DE PROHIBICIÓN", "idlibro" : 11, "TreeList" : [ 
+    { "id" : 20015, "cabecera" :  "ARTÍCULO 16. ", "descripcion" : "", "idlibro" : 11 }, 
+    { "id" : 20016, "cabecera" :  "ARTÍCULO 17. ", "descripcion" : "", "idlibro" : 11 }, 
+    { "id" : 20017, "cabecera" :  "ARTÍCULO 18. ", "descripcion" : "", "idlibro" : 11 }, 
+    { "id" : 20018, "cabecera" :  "ARTÍCULO 19. ", "descripcion" : "", "idlibro" : 11 }, 
+    { "id" : 20019, "cabecera" :  "ARTÍCULO 20. ", "descripcion" : "", "idlibro" : 11 }, 
+    { "id" : 20020, "cabecera" :  "ARTÍCULO 21. ", "descripcion" : "", "idlibro" : 11 }, 
+    { "id" : 20021, "cabecera" :  "ARTÍCULO 22. ", "descripcion" : "", "idlibro" : 11 }, 
+    { "id" : 20022, "cabecera" :  "ARTÍCULO 23. ", "descripcion" : "", "idlibro" : 11 }, 
+    { "id" : 20023, "cabecera" :  "ARTÍCULO 24. ", "descripcion" : "", "idlibro" : 11 }]},
+    { "id" : 0, "cabecera" :  "CAPÍTULO VII", "descripcion" : "MEDIDAS SANCIONATORIAS", "idlibro" : 11, "TreeList" : [ 
+    { "id" : 20024, "cabecera" :  "ARTÍCULO 25. ", "descripcion" : "", "idlibro" : 11 }, 
+    { "id" : 20025, "cabecera" :  "ARTÍCULO 26. ", "descripcion" : "", "idlibro" : 11 }, 
+    { "id" : 20026, "cabecera" :  "ARTÍCULO 27. ", "descripcion" : "", "idlibro" : 11 }, 
+    { "id" : 20027, "cabecera" :  "ARTÍCULO 28. ", "descripcion" : "", "idlibro" : 11 }, 
+    { "id" : 20028, "cabecera" :  "ARTÍCULO 29. ", "descripcion" : "", "idlibro" : 11 }, 
+    { "id" : 20029, "cabecera" :  "ARTÍCULO 30. ", "descripcion" : "", "idlibro" : 11 }, 
+    { "id" : 20030, "cabecera" :  "ARTÍCULO 31. ", "descripcion" : "", "idlibro" : 11 }, 
+    { "id" : 20031, "cabecera" :  "ARTÍCULO 32. ", "descripcion" : "", "idlibro" : 11 }, 
+    { "id" : 20032, "cabecera" :  "ARTÍCULO 33. ", "descripcion" : "", "idlibro" : 11 }, 
+    { "id" : 20033, "cabecera" :  "ARTÍCULO 34. ", "descripcion" : "", "idlibro" : 11 }, 
+    { "id" : 20034, "cabecera" :  "ARTÍCULO 35. ", "descripcion" : "", "idlibro" : 11 }, 
+    { "id" : 20035, "cabecera" :  "ARTÍCULO 36. ", "descripcion" : "", "idlibro" : 11 }, 
+    { "id" : 20036, "cabecera" :  "ARTÍCULO 37. ", "descripcion" : "", "idlibro" : 11 }, 
+    { "id" : 20037, "cabecera" :  "ARTÍCULO 38. ", "descripcion" : "", "idlibro" : 11 }, 
+    { "id" : 20038, "cabecera" :  "DISPOSICIONES TRANSITORIAS", "descripcion" : "", "idlibro" : 11 }, 
+    { "id" : 20039, "cabecera" :  "DISPOSICIONES ABROGATORIAS Y DEROGATORIAS", "descripcion" : "", "idlibro" : 11 }, 
+    { "id" : 20040, "cabecera" :  "DISPOSICIONES FINALES", "descripcion" : "", "idlibro" : 11 }]}
+    ,
+    { "id" : 0, "cabecera" :  "", "descripcion" : "", "idlibro" : 11 }, 
+    { "id" : 0, "cabecera" :  "", "descripcion" : "", "idlibro" : 11 }
+    ]
+    

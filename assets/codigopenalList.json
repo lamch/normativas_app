@@ -1,0 +1,1044 @@
+[{ "id" : 0, "cabecera" :  "TÍTULO I", "descripcion" : "LA LEY PENAL", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 0, "cabecera" :  "CAPÍTULO ÚNICO REGLAS ", "descripcion" : "PARA SU APLICACIÓN", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 1, "cabecera" :  "Artículo 1. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 2, "cabecera" :  "Artículo 2. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 3, "cabecera" :  "Artículo 3. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 4, "cabecera" :  "Artículo 4. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 5, "cabecera" :  "Artículo 5. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 6, "cabecera" :  "Artículo 6. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 7, "cabecera" :  "Artículo 7. ", "descripcion" : "", "idlibro" : 16 }]}
+]},
+{ "id" : 0, "cabecera" :  "TÍTULO II", "descripcion" : "EL DELITO, FUNDAMENTOS DE LA PUNIBILIDAD Y EL DELINCUENTE", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 0, "cabecera" :  "CAPÍTULO I", "descripcion" : "FORMAS DE APARICIÓN DEL DELITO", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 8, "cabecera" :  "Artículo 8. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 9, "cabecera" :  "Artículo 9. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 10, "cabecera" :  "Artículo 10. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "CAPÍTULO II BASES DE LA ", "descripcion" : "PUNIBILIDAD", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 11, "cabecera" :  "Artículo 11. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 12, "cabecera" :  "Artículo 12. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 13, "cabecera" :  "Artículo 13. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 14, "cabecera" :  "Artículo 13 ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 15, "cabecera" :  "Artículo 14. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 16, "cabecera" :  "Artículo 15. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 17, "cabecera" :  "Artículo 16. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 18, "cabecera" :  "Artículo 17. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 19, "cabecera" :  "Artículo 18. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 20, "cabecera" :  "Artículo 19. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "CAPÍTULO III", "descripcion" : "PARTICIPACIÓN CRIMINAL", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 21, "cabecera" :  "Artículo 20. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 22, "cabecera" :  "Artículo 21. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 23, "cabecera" :  "Artículo 22. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 24, "cabecera" :  "Artículo 23. ", "descripcion" : "", "idlibro" : 16 }]}
+]},
+{ "id" : 0, "cabecera" :  "TÍTULO III", "descripcion" : "LAS PENAS", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 0, "cabecera" :  "CAPÍTULO I", "descripcion" : "CLASES", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 25, "cabecera" :  "Artículo 25. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 26, "cabecera" :  "Artículo 26. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 27, "cabecera" :  "Artículo 27. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 28, "cabecera" :  "Artículo 28. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 29, "cabecera" :  "Artículo 29. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 30, "cabecera" :  "Artículo 30. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 31, "cabecera" :  "Artículo 31. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 32, "cabecera" :  "Artículo 32. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 33, "cabecera" :  "Artículo 33. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 34, "cabecera" :  "Artículo 34. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 35, "cabecera" :  "Artículo 35. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 36, "cabecera" :  "Artículo 36. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "CAPÍTULO II", "descripcion" : "APLICACIÓN DE LAS PENAS", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 37, "cabecera" :  "Artículo 37. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 38, "cabecera" :  "Artículo 38. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 39, "cabecera" :  "Artículo 39. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 40, "cabecera" :  "Artículo 40. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 41, "cabecera" :  "Artículo 40 ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 42, "cabecera" :  "Artículo 41. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 43, "cabecera" :  "Artículo 42. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 44, "cabecera" :  "Artículo 43. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 45, "cabecera" :  "Artículo 44. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 46, "cabecera" :  "Artículo 45. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 47, "cabecera" :  "Artículo 46. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "CAPÍTULO III", "descripcion" : "CUMPLIMIENTO Y EJECUCIÓN DE LAS PENAS", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 48, "cabecera" :  "Artículo 47. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 49, "cabecera" :  "Artículo 48. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 50, "cabecera" :  "Artículo 49. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 51, "cabecera" :  "Artículo 50. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 52, "cabecera" :  "Artículo 51. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 53, "cabecera" :  "Artículo 52. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 54, "cabecera" :  "Artículo 53. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 55, "cabecera" :  "Artículo 54. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 56, "cabecera" :  "Artículo 55. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 57, "cabecera" :  "Artículo 56. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 58, "cabecera" :  "Artículo 57. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 59, "cabecera" :  "Artículo 58. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "CAPÍTULO IV", "descripcion" : "SUSPENSIÓN CONDICIONAL DE LA PENA Y PERDÓN JUDICIAL", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 60, "cabecera" :  "Artículo 59. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 61, "cabecera" :  "Artículo 60. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 62, "cabecera" :  "Artículo 61. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 63, "cabecera" :  "Artículo 62. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 64, "cabecera" :  "Artículo 63. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 65, "cabecera" :  "Artículo 64. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 66, "cabecera" :  "Artículo 65. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "CAPÍTULO V", "descripcion" : "LIBERTAD CONDICIONAL", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 67, "cabecera" :  "Artículo 66. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 68, "cabecera" :  "Artículo 67. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 69, "cabecera" :  "Artículo 68. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 70, "cabecera" :  "Artículo 69. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "CAPÍTULO VI", "descripcion" : "DISPOSICIONES COMUNES", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 71, "cabecera" :  "Artículo 70. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 72, "cabecera" :  "Artículo 71. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 73, "cabecera" :  "Artículo 71 ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 74, "cabecera" :  "Artículo 72. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 75, "cabecera" :  "Artículo 73. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 76, "cabecera" :  "Artículo 74. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 77, "cabecera" :  "Artículo 75. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 78, "cabecera" :  "Artículo 76. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 79, "cabecera" :  "Artículo 77. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 80, "cabecera" :  "Artículo 78. ", "descripcion" : "", "idlibro" : 16 }]}
+]},
+{ "id" : 0, "cabecera" :  "TÍTULO IV", "descripcion" : "LAS MEDIDAS DE SEGURIDAD", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 0, "cabecera" :  "CAPÍTULO ÚNICO", "descripcion" : "Artículo 79. (MEDIDAS DE SEGURIDAD). \nSon medidas de seguridad:\n1) El internamiento, que puede ser en manicomios o casas de salud, en un establecimiento \neducativo adecuado, en una casa de trabajo o de reforma, o en una colonia agrícola.\n2) La suspensión o prohibición de ejercer determinada industria, comercio, tráfico, profesión, cargo, \nempleo, oficio o autoridad.\n3) La vigilancia por la autoridad.\n4) La caución de buena conducta.", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 81, "cabecera" :  "Artículo 80. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 82, "cabecera" :  "Artículo 81. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 83, "cabecera" :  "Artículo 82. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 84, "cabecera" :  "Artículo 83. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 85, "cabecera" :  "Artículo 84. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 86, "cabecera" :  "Artículo 85. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 87, "cabecera" :  "Artículo 86. ", "descripcion" : "", "idlibro" : 16 }]}
+]},
+{ "id" : 0, "cabecera" :  "TÍTULO V", "descripcion" : "RESPONSABILIDAD CIVIL Y CAJA DE REPARACIONES", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 0, "cabecera" :  "CAPÍTULO I", "descripcion" : "RESPONSABILIDAD CIVIL", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 88, "cabecera" :  "Artículo 87. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 89, "cabecera" :  "Artículo 88. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 90, "cabecera" :  "Artículo 89. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 91, "cabecera" :  "Artículo 90. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 92, "cabecera" :  "Artículo 91. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 93, "cabecera" :  "Artículo 92. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 94, "cabecera" :  "Artículo 93. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "CAPÍTULO II", "descripcion" : "CAJA DE REPARACIONES", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 95, "cabecera" :  "Artículo 94. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 96, "cabecera" :  "Artículo 95. ", "descripcion" : "", "idlibro" : 16 }]}
+]},
+{ "id" : 0, "cabecera" :  "TÍTULO VI", "descripcion" : "REHABILITACIÓN", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 0, "cabecera" :  "CAPÍTULO ÚNICO", "descripcion" : "Artículo 96. (REHABILITACIÓN). \nCumplida la pena de inhabilitación especial, se operará la \nrehabilitación, sin necesidad de trámite alguno y, tendrá por efecto la desaparición de toda \nincapacidad, prohibición o restricción por motivos penales.\n(Modificado por la Disposición Final Quinta del Código de Procedimiento Penal aprobado por Ley Nº \n1970 de 25 de marzo de 1999)", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 97, "cabecera" :  "Artículo 97. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 98, "cabecera" :  "Artículo 98. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 99, "cabecera" :  "Artículo 99. ", "descripcion" : "", "idlibro" : 16 }]}
+]},
+{ "id" : 0, "cabecera" :  "TÍTULO VII", "descripcion" : "EXTINCIÓN DE LA ACCIÓN PENAL Y DE LA PENA", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 0, "cabecera" :  "CAPÍTULO ÚNICO", "descripcion" : "Artículo 100. (EXTINCIÓN DE LA ACCIÓN PENAL). \n(Derogado por la Disposición Final Sexta del \nCódigo de Procedimiento Penal aprobado por Ley Nº 1970 de 25 de marzo de 1999).", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 100, "cabecera" :  "Artículo 101. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 101, "cabecera" :  "Artículo 102. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 102, "cabecera" :  "Artículo 103. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 103, "cabecera" :  "Artículo 104. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 104, "cabecera" :  "Artículo 105. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 105, "cabecera" :  "Artículo 106. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 106, "cabecera" :  "Artículo 107. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 107, "cabecera" :  "Artículo 108. ", "descripcion" : "", "idlibro" : 16 }]}
+]},
+{ "id" : 0, "cabecera" :  "TÍTULO I", "descripcion" : "DELITOS CONTRA LA SEGURIDAD DEL ESTADO", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 0, "cabecera" :  "CAPÍTULO I", "descripcion" : "DELITOS CONTRA LA SEGURIDAD EXTERIOR DEL ESTADO", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 108, "cabecera" :  "Artículo 109. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 109, "cabecera" :  "Artículo 110. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 110, "cabecera" :  "Artículo 111. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 111, "cabecera" :  "Artículo 112. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 112, "cabecera" :  "Artículo 113. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 113, "cabecera" :  "Artículo 114. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 114, "cabecera" :  "Artículo 115. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 115, "cabecera" :  "Artículo 116. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 116, "cabecera" :  "Artículo 117. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 117, "cabecera" :  "Artículo 118. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 118, "cabecera" :  "Artículo 119. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 119, "cabecera" :  "Artículo 120. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "CAPÍTULO II", "descripcion" : "DELITOS CONTRA LA SEGURIDAD INTERIOR DEL ESTADO", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 120, "cabecera" :  "Artículo 121. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 121, "cabecera" :  "Artículo 122. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 122, "cabecera" :  "Artículo 123. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 123, "cabecera" :  "Artículo 124. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 124, "cabecera" :  "Artículo 125. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 125, "cabecera" :  "Artículo 126. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 126, "cabecera" :  "Artículo 127. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 127, "cabecera" :  "Artículo 128. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 128, "cabecera" :  "Artículo 129. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "CAPÍTULO III", "descripcion" : "DELITOS CONTRA LA TRANQUILIDAD PÚBLICA", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 129, "cabecera" :  "Artículo 130. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 130, "cabecera" :  "Artículo 131. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 131, "cabecera" :  "Artículo 132. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 132, "cabecera" :  "Artículo 132 ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 133, "cabecera" :  "Artículo 133. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 134, "cabecera" :  "Artículo 134. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "CAPÍTULO IV", "descripcion" : "DELITOS CONTRA EL DERECHO INTERNACIONAL", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 135, "cabecera" :  "Artículo 135. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 136, "cabecera" :  "Artículo 136. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 137, "cabecera" :  "Artículo 137. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 138, "cabecera" :  "Artículo 138. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 139, "cabecera" :  "Artículo 139. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 140, "cabecera" :  "Artículo 140. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 141, "cabecera" :  "Artículo 141. ", "descripcion" : "", "idlibro" : 16 }]}
+]},
+{ "id" : 0, "cabecera" :  "TÍTULO II", "descripcion" : "DELITOS CONTRA LA FUNCIÓN PÚBLICA", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 0, "cabecera" :  "CAPÍTULO I", "descripcion" : "DELÍTOS COMETIDOS POR FUNCIONARIOS PÚBLICOS", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 142, "cabecera" :  "Artículo 142. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 143, "cabecera" :  "Artículo 143. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 144, "cabecera" :  "Artículo 144. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 145, "cabecera" :  "Artículo 145. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 146, "cabecera" :  "Artículo 146. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 147, "cabecera" :  "Artículo 147. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 148, "cabecera" :  "Artículo 148. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 149, "cabecera" :  "Artículo 149. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 150, "cabecera" :  "Artículo 150. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 151, "cabecera" :  "Artículo 150 ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 152, "cabecera" :  "Artículo 151. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 153, "cabecera" :  "Artículo 152. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 154, "cabecera" :  "Artículo 153. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 155, "cabecera" :  "Artículo 154. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 156, "cabecera" :  "Artículo 155. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 157, "cabecera" :  "Artículo 156. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 158, "cabecera" :  "Artículo 157. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "CAPÍTULO II", "descripcion" : "DELITOS COMETIDOS POR PARTICULARES", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 159, "cabecera" :  "Artículo 158. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 160, "cabecera" :  "Artículo 159. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 161, "cabecera" :  "Artículo 160. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 162, "cabecera" :  "Artículo 161. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 163, "cabecera" :  "Artículo 162. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 164, "cabecera" :  "Artículo 163. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 165, "cabecera" :  "Artículo 164. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 166, "cabecera" :  "Artículo 165. ", "descripcion" : "", "idlibro" : 16 }]}
+]},
+{ "id" : 0, "cabecera" :  "TÍTULO III", "descripcion" : "DELITOS CONTRA LA FUNCIÓN JUDICIAL", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 0, "cabecera" :  "CAPÍTULO I", "descripcion" : "DELITOS CONTRA LA ACTIVIDAD JUDICIAL", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 167, "cabecera" :  "Artículo 166. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 168, "cabecera" :  "Artículo 167. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 169, "cabecera" :  "Artículo 168. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 170, "cabecera" :  "Artículo 169. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 171, "cabecera" :  "Artículo 170. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 172, "cabecera" :  "Artículo 171. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 173, "cabecera" :  "Artículo 172. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 174, "cabecera" :  "Artículo 172 ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 175, "cabecera" :  "Artículo 173. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 176, "cabecera" :  "Artículo 173 ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 177, "cabecera" :  "Artículo 174. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 178, "cabecera" :  "Artículo 175. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 179, "cabecera" :  "Artículo 176. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 180, "cabecera" :  "Artículo 177. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 181, "cabecera" :  "Artículo 177 ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 182, "cabecera" :  "Artículo 178. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 183, "cabecera" :  "Artículo 179. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 184, "cabecera" :  "Artículo 179 ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "CAPÍTULO II", "descripcion" : "DELITOS CONTRA LA AUTORIDAD DE LAS DECISIONES JUDICIALES", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 185, "cabecera" :  "Artículo 180. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 186, "cabecera" :  "Artículo 181. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 187, "cabecera" :  "Artículo 182. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 188, "cabecera" :  "Artículo 183. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 189, "cabecera" :  "Artículo 184. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 190, "cabecera" :  "Artículo 185. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "CAPÍTULO III", "descripcion" : "RÉGIMEN PENAL Y ADMINISTRATIVO DE LA LEGITIMACIÓN DE\nGANANCIAS ILÍCITAS", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 191, "cabecera" :  "Artículo 185 ", "descripcion" : "", "idlibro" : 16 }]}
+]},
+{ "id" : 0, "cabecera" :  "TÍTULO IV", "descripcion" : "DELITOS CONTRA LA FE PÚBLICA", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 0, "cabecera" :  "CAPÍTULO I", "descripcion" : "FALSIFICACIÓN DE MONEDA, BILLETES DE BANCO,\nTÍTULOS AL PORTADOR Y DOCUMENTOS DE CRÉDITO", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 192, "cabecera" :  "Artículo 186. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 193, "cabecera" :  "Artículo 187. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 194, "cabecera" :  "Artículo 188. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 195, "cabecera" :  "Artículo 189. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "CAPÍTULO II", "descripcion" : "FALSIFICACIÓN DE SELLOS, PAPEL SELLADO, TIMBRES, MARCAS Y CONTRASEÑAS", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 196, "cabecera" :  "Artículo 190. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 197, "cabecera" :  "Artículo 191. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 198, "cabecera" :  "Artículo 192. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 199, "cabecera" :  "Artículo 193. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 200, "cabecera" :  "Artículo 194. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 201, "cabecera" :  "Artículo 195. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 202, "cabecera" :  "Artículo 196. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 203, "cabecera" :  "Artículo 197. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "CAPÍTULO III", "descripcion" : "FALSIFICACIÓN DE DOCUMENTOS EN GENERAL", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 204, "cabecera" :  "Artículo 198. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 205, "cabecera" :  "Artículo 199. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 206, "cabecera" :  "Artículo 200. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 207, "cabecera" :  "Artículo 201. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 208, "cabecera" :  "Artículo 202. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 209, "cabecera" :  "Artículo 203. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "CAPÍTULO IV", "descripcion" : "CHEQUES SIN PROVISIÓN DE FONDOS", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 210, "cabecera" :  "Artículo 204. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 211, "cabecera" :  "Artículo 205. ", "descripcion" : "", "idlibro" : 16 }]}
+]},
+{ "id" : 0, "cabecera" :  "TÍTULO V", "descripcion" : "DELITOS CONTRA LA SEGURIDAD COMÚN", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 0, "cabecera" :  "CAPÍTULO I", "descripcion" : "INCENDIOS Y OTROS ESTRAGOS", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 212, "cabecera" :  "Artículo 206. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 213, "cabecera" :  "Artículo 207. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 214, "cabecera" :  "Artículo 208. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 215, "cabecera" :  "Artículo 209. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 216, "cabecera" :  "Artículo 210. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 217, "cabecera" :  "Artículo 211. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "CAPÍTULO II", "descripcion" : "DELITOS CONTRA LA SEGURIDAD DE LOS MEDIOS DE TRANSPORTE Y COMUNICACIÓN", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 218, "cabecera" :  "Artículo 212. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 219, "cabecera" :  "Artículo 213. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 220, "cabecera" :  "Artículo 214. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 221, "cabecera" :  "Artículo 215. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "CAPÍTULO III", "descripcion" : "DELITOS CONTRA LA SALUD PÚBLICA", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 222, "cabecera" :  "Artículo 216. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 223, "cabecera" :  "Artículo 217. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 224, "cabecera" :  "Artículo 218. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 225, "cabecera" :  "Artículo 219. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 226, "cabecera" :  "Artículo 220. ", "descripcion" : "", "idlibro" : 16 }]}
+]},
+{ "id" : 0, "cabecera" :  "TÍTULO VI", "descripcion" : "DELITOS CONTRA LA ECONOMÍA NACIONAL,\nLA INDUSTRIA Y EL COMERCIO", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 0, "cabecera" :  "CAPÍTULO I", "descripcion" : "DELITOS CONTRA LA ECONOMÍA NACIONAL", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 227, "cabecera" :  "Artículo 221. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 228, "cabecera" :  "Artículo 222. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 229, "cabecera" :  "Artículo 223. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 230, "cabecera" :  "Artículo 224. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 231, "cabecera" :  "ARTICULO 225. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 232, "cabecera" :  "Artículo 226. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 233, "cabecera" :  "Artículo 227. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 234, "cabecera" :  "Artículo 228. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 235, "cabecera" :  "ARTICULO 228 ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 236, "cabecera" :  "Artículo 229. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 237, "cabecera" :  "Artículo 230. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 238, "cabecera" :  "Artículo 231. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "CAPÍTULO II", "descripcion" : "DELITOS CONTRA LA INDUSTRIA Y EL COMERCIO", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 239, "cabecera" :  "Artículo 232. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 240, "cabecera" :  "Artículo 233. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 241, "cabecera" :  "Artículo 234. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 242, "cabecera" :  "Artículo 235. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 243, "cabecera" :  "Artículo 236. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 244, "cabecera" :  "Artículo 237. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 245, "cabecera" :  "Artículo 238. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 246, "cabecera" :  "Artículo 239. ", "descripcion" : "", "idlibro" : 16 }]}
+]},
+{ "id" : 0, "cabecera" :  "TÍTULO VII", "descripcion" : "DELITOS CONTRA LA FAMILIA", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 0, "cabecera" :  "CAPÍTULO I", "descripcion" : "DELITOS CONTRA EL MATRIMONIO Y EL ESTADO CIVIL", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 247, "cabecera" :  "Artículo 240. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 248, "cabecera" :  "Artículo 241. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 249, "cabecera" :  "Artículo 242. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 250, "cabecera" :  "Artículo 243. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 251, "cabecera" :  "Artículo 244. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 252, "cabecera" :  "Artículo 245.- ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 253, "cabecera" :  "Artículo 246. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 254, "cabecera" :  "Artículo 247. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "CAPÍTULO II", "descripcion" : "DELITOS CONTRA LOS DEBERES DE ASISTENCIA FAMILIAR", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 255, "cabecera" :  "Artículo 248. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 256, "cabecera" :  "Artículo 249. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 257, "cabecera" :  "Artículo 250. ", "descripcion" : "", "idlibro" : 16 }]}
+]},
+{ "id" : 0, "cabecera" :  "TÍTULO VIII", "descripcion" : "DELITOS CONTRA LA VIDA LA INTEGRIDAD Y LA DIGNIDAD DEL SER HUMANO\n( Modificado por el Artículo 22 de la Ley Nº 045 de 08 de octubre de 2010, Contra el Racismo y toda \nforma de Discriminación)", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 0, "cabecera" :  "CAPÍTULO I", "descripcion" : "HOMICIDIO", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 258, "cabecera" :  "Artículo 251. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 259, "cabecera" :  "Artículo 252. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 260, "cabecera" :  "Artículo 253. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 261, "cabecera" :  "Artículo 254. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 262, "cabecera" :  "Artículo 255. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 263, "cabecera" :  "Artículo 256. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 264, "cabecera" :  "Artículo 257. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 265, "cabecera" :  "Artículo 258. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 266, "cabecera" :  "Artículo 259. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 267, "cabecera" :  "Artículo 260. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 268, "cabecera" :  "Artículo 261. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 269, "cabecera" :  "Artículo 262. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "CAPÍTULO II", "descripcion" : "ABORTO", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 270, "cabecera" :  "Artículo 263. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 271, "cabecera" :  "Artículo 264. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 272, "cabecera" :  "Artículo 265. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 273, "cabecera" :  "Artículo 266. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 274, "cabecera" :  "Artículo 267. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 275, "cabecera" :  "Artículo 268. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 276, "cabecera" :  "Artículo 269. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "CAPÍTULO III", "descripcion" : "DELITOS CONTRA LA INTEGRIDAD CORPORAL Y LA SALUD", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 277, "cabecera" :  "Artículo 270. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 278, "cabecera" :  "Artículo 271. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 279, "cabecera" :  "Artículo 272. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 280, "cabecera" :  "Artículo 273. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 281, "cabecera" :  "Artículo 274. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 282, "cabecera" :  "Artículo 275. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 283, "cabecera" :  "Artículo 276. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 284, "cabecera" :  "Artículo 277. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 285, "cabecera" :  "Artículo 277 ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "CAPÍTULO IV", "descripcion" : "ABANDONO DE NIÑOS O DE OTRAS PERSONAS INCAPACES", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 286, "cabecera" :  "Artículo 278. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 287, "cabecera" :  "Artículo 279. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 288, "cabecera" :  "Artículo 280. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 289, "cabecera" :  "Artículo 281. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "CAPÍTULO V", "descripcion" : "TRATA Y TRÁFICO DE PERSONAS\n(Capítulo V Incluido por el artículo 1 de la Ley Nº 3325 de 18 de enero de 2006, Trata “Trata y Trafico \nde Personas y Otros Delitos)", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 290, "cabecera" :  "Artículo 281 ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "CAPÍTULO VI", "descripcion" : "DELITOS CONTRA LA DIGNIDAD DEL SER HUMANO\n(Capítulo VI Incorporado por el Artículo 23 de la Ley Nº 045 de 08 de octubre de 2010, Contra el \nRacismo y toda forma de Discriminación y ordenado por el parágrafo II del Artículo Único del Decreto \nSupremo Nº 0667 de 08 de Octubre de 2010)", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 290, "cabecera" :  "Artículo 281 ", "descripcion" : "", "idlibro" : 16 }]}
+]},
+{ "id" : 0, "cabecera" :  "TÍTULO IX", "descripcion" : "DELITOS CONTRA EL HONOR", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 0, "cabecera" :  "CAPÍTULO ÚNICO", "descripcion" : "DIFAMACIÓN, CALUMNIA E INJURIA", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 291, "cabecera" :  "Artículo 282. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 292, "cabecera" :  "Artículo 283. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 293, "cabecera" :  "Artículo 284. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 294, "cabecera" :  "Artículo 285. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 295, "cabecera" :  "Artículo 286. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 296, "cabecera" :  "Artículo 287. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 297, "cabecera" :  "Artículo 288. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 298, "cabecera" :  "Artículo 289. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 299, "cabecera" :  "Artículo 290. ", "descripcion" : "", "idlibro" : 16 }]}
+]},
+{ "id" : 0, "cabecera" :  "TÍTULO X", "descripcion" : "DELITOS CONTRA LA LIBERTAD", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 0, "cabecera" :  "CAPÍTULO I", "descripcion" : "DELITOS CONTRA LA LIBERTAD INDIVIDUAL", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 300, "cabecera" :  "Artículo 291. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 301, "cabecera" :  "Artículo 292. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 302, "cabecera" :  "Artículo 292 ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 303, "cabecera" :  "Artículo 293. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 304, "cabecera" :  "Artículo 294. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 305, "cabecera" :  "Artículo 295. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 306, "cabecera" :  "Artículo 296. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 307, "cabecera" :  "Artículo 297. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "CAPÍTULO II", "descripcion" : "DELITOS CONTRA LA INVIOLABILIDAD DEL DOMICILIO", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 308, "cabecera" :  "Artículo 298. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 309, "cabecera" :  "Artículo 299. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "CAPÍTULO III", "descripcion" : "DELITOS CONTRA LA INVIOLABILIDAD DEL SECRETO", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 310, "cabecera" :  "Artículo 300. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 311, "cabecera" :  "Artículo 301. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 312, "cabecera" :  "Artículo 302. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "CAPÍTULO IV", "descripcion" : "DELITOS CONTRA LA LIBERTAD DE TRABAJO", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 313, "cabecera" :  "Artículo 303. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 314, "cabecera" :  "Artículo 304. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 315, "cabecera" :  "Artículo 305. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 316, "cabecera" :  "Artículo 306. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 317, "cabecera" :  "Artículo 307. ", "descripcion" : "", "idlibro" : 16 }]}
+]},
+{ "id" : 0, "cabecera" :  "TÍTULO XI", "descripcion" : "DELITOS CONTRA LA LIBERTAD SEXUAL", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 0, "cabecera" :  "CAPÍTULO I", "descripcion" : "VIOLACIÓN, ESTUPRO Y ABUSO DESHONESTO", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 318, "cabecera" :  "Artículo 308. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 319, "cabecera" :  "Artículo 308 ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 320, "cabecera" :  "Artículo 309. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 321, "cabecera" :  "Artículo 310. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 322, "cabecera" :  "Artículo 311. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 323, "cabecera" :  "Artículo 312. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "CAPÍTULO II", "descripcion" : "RAPTO", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 324, "cabecera" :  "Artículo 313. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 325, "cabecera" :  "Artículo 314. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 326, "cabecera" :  "Artículo 315. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 327, "cabecera" :  "Artículo 316. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "CAPÍTULO III", "descripcion" : "DELITOS CONTRA LA MORAL SEXUAL", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 328, "cabecera" :  "Artículo 318. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 329, "cabecera" :  "Artículo 319. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 330, "cabecera" :  "Artículo 321. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 331, "cabecera" :  "Artículo 322. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "CAPÍTULO IV", "descripcion" : "ULTRAJES AL PUDOR PÚBLICO", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 332, "cabecera" :  "Artículo 323. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 333, "cabecera" :  "Artículo 323 ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 334, "cabecera" :  "Artículo 324. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 335, "cabecera" :  "Artículo 325. ", "descripcion" : "", "idlibro" : 16 }]}
+]},
+{ "id" : 0, "cabecera" :  "TÍTULO XII", "descripcion" : "DELITOS CONTRA LA PROPIEDAD", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 0, "cabecera" :  "CAPÍTULO I", "descripcion" : "HURTO", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 336, "cabecera" :  "Artículo 326. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 337, "cabecera" :  "Artículo 327. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 338, "cabecera" :  "Artículo 328. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 339, "cabecera" :  "Artículo 329. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 340, "cabecera" :  "Artículo 330. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "CAPÍTULO II", "descripcion" : "ROBO", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 341, "cabecera" :  "Artículo 331. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 342, "cabecera" :  "Artículo 332. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "CAPÍTULO III", "descripcion" : "EXTORSIONES", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 343, "cabecera" :  "Artículo 333. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 344, "cabecera" :  "Artículo 334. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "CAPÍTULO IV", "descripcion" : "ESTAFAS Y OTRAS DEFRAUDACIONES", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 345, "cabecera" :  "Artículo 335. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 346, "cabecera" :  "Artículo 336. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 347, "cabecera" :  "Artículo 337. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 348, "cabecera" :  "Artículo 338. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 349, "cabecera" :  "Artículo 339. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 350, "cabecera" :  "Artículo 340. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 351, "cabecera" :  "Artículo 341. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 352, "cabecera" :  "Artículo 342. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 353, "cabecera" :  "Artículo 343. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 354, "cabecera" :  "Artículo 344. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "CAPÍTULO V", "descripcion" : "APROPIACIÓN INDEBIDA", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 355, "cabecera" :  "Artículo 345. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 356, "cabecera" :  "Artículo 345 ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 357, "cabecera" :  "Artículo 346. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 358, "cabecera" :  "Artículo 346 ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 359, "cabecera" :  "Artículo 347. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 360, "cabecera" :  "Artículo 348. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 361, "cabecera" :  "Artículo 349. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "CAPÍTULO VI", "descripcion" : "ABIGEATO", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 362, "cabecera" :  "Artículo 350. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "CAPÍTULO VII", "descripcion" : "USURPACIÓN", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 363, "cabecera" :  "Artículo 351. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 364, "cabecera" :  "Artículo 352. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 365, "cabecera" :  "Artículo 353. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 366, "cabecera" :  "Artículo 354. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 367, "cabecera" :  "Artículo 355. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 368, "cabecera" :  "Artículo 356. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "CAPÍTULO VIII", "descripcion" : "DAÑOS", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 369, "cabecera" :  "Artículo 357. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 370, "cabecera" :  "Artículo 358. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 371, "cabecera" :  "Artículo 359. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "CAPÍTULO IX", "descripcion" : "USURA", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 372, "cabecera" :  "Artículo 360. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 373, "cabecera" :  "Artículo 361. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "CAPÍTULO X", "descripcion" : "DELITOS CONTRA EL DERECHO DE AUTOR", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 374, "cabecera" :  "Artículo 362. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 375, "cabecera" :  "Artículo 363. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "CAPÍTULO XI", "descripcion" : "DELITOS INFORMÁTICOS", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 376, "cabecera" :  "Artículo 363 ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 377, "cabecera" :  "DISPOSICIONES TRANSITORIAS", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 378, "cabecera" :  "Artículo 364. ", "descripcion" : "", "idlibro" : 16 }]}
+]},
+{ "id" : 0, "cabecera" :  "LIBRO PRIMERO", "descripcion" : "PRINCIPIOS Y DISPOSICIONES FUNDAMENTALES", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 0, "cabecera" :  "TÍTULO I", "descripcion" : "GARANTÍAS CONSTITUCIONALES", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 379, "cabecera" :  "Artículo 1. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 380, "cabecera" :  "Artículo 2. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 381, "cabecera" :  "Artículo 3. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 382, "cabecera" :  "Artículo 4. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 383, "cabecera" :  "Artículo 5. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 384, "cabecera" :  "Artículo 6. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 385, "cabecera" :  "Artículo 7. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 386, "cabecera" :  "Artículo 8. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 387, "cabecera" :  "Artículo 9. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 388, "cabecera" :  "Artículo 10. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 389, "cabecera" :  "Artículo 11. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 390, "cabecera" :  "Artículo 12. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 391, "cabecera" :  "Artículo 13. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "TÍTULO II", "descripcion" : "ACCIONES QUE NACEN DE LOS DELITOS", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 392, "cabecera" :  "Artículo 14. ", "descripcion" : "", "idlibro" : 16 },
+{ "id" : 0, "cabecera" :  "CAPÍTULO I", "descripcion" : "ACCIÓN PENAL", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 393, "cabecera" :  "Artículo 15.- ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 394, "cabecera" :  "Artículo 16. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 395, "cabecera" :  "Artículo 17. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 396, "cabecera" :  "Artículo 18. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 397, "cabecera" :  "Artículo 19. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 398, "cabecera" :  "Artículo 20. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 399, "cabecera" :  "Artículo 21. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 400, "cabecera" :  "Artículo 22. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 401, "cabecera" :  "Artículo 23. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 402, "cabecera" :  "Artículo 24. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 403, "cabecera" :  "Artículo 25. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 404, "cabecera" :  "Artículo 26. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 405, "cabecera" :  "Artículo 27. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 406, "cabecera" :  "Artículo 28. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 407, "cabecera" :  "Artículo 29. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 408, "cabecera" :  "Artículo 29 ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 409, "cabecera" :  "Artículo 30. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 410, "cabecera" :  "Artículo 31. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 411, "cabecera" :  "Artículo 32. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 412, "cabecera" :  "Artículo 33. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 413, "cabecera" :  "Artículo 34. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 414, "cabecera" :  "Artículo 35. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "CAPÍTULO II", "descripcion" : "ACCIÓN CIVIL", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 415, "cabecera" :  "Artículo 36. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 416, "cabecera" :  "Artículo 37. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 417, "cabecera" :  "Artículo 38. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 418, "cabecera" :  "Artículo 39. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 419, "cabecera" :  "Artículo 40. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 420, "cabecera" :  "Artículo 41. ", "descripcion" : "", "idlibro" : 16 }]}
+]}
+]},
+{ "id" : 0, "cabecera" :  "LIBRO SEGUNDO", "descripcion" : "LA JUSTICIA PENAL Y LOS SUJETOS PROCESALES", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 0, "cabecera" :  "TÍTULO I", "descripcion" : "JURISDICCIÓN Y COMPETENCIA", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 421, "cabecera" :  "Artículo 42. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 422, "cabecera" :  "Artículo 43. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 423, "cabecera" :  "Artículo 44. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 424, "cabecera" :  "Artículo 45. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 425, "cabecera" :  "Artículo 46. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 426, "cabecera" :  "Artículo 47. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 427, "cabecera" :  "Artículo 48. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 428, "cabecera" :  "Artículo 49. ", "descripcion" : "", "idlibro" : 16 },
+{ "id" : 0, "cabecera" :  "CAPÍTULO I", "descripcion" : "TRIBUNALES COMPETENTES", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 429, "cabecera" :  "Artículo 50. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 430, "cabecera" :  "Artículo 51. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 431, "cabecera" :  "Artículo 52. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 432, "cabecera" :  "Artículo 53. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 433, "cabecera" :  "Artículo 54. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 434, "cabecera" :  "Artículo 55. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 435, "cabecera" :  "Artículo 56. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "CAPÍTULO II", "descripcion" : "INTEGRACIÓN DE LOS TRIBUNALES DE SENTENCIA CON JUECES CIUDADANOS", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 436, "cabecera" :  "Artículo 57. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 437, "cabecera" :  "Artículo 58. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 438, "cabecera" :  "Artículo 59. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 439, "cabecera" :  "Artículo 60. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 440, "cabecera" :  "Artículo 61. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 441, "cabecera" :  "Artículo 62. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 442, "cabecera" :  "Artículo 63. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 443, "cabecera" :  "Artículo 64. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 444, "cabecera" :  "Artículo 65. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 445, "cabecera" :  "Artículo 66. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "CAPÍTULO III", "descripcion" : "CONEXITUD", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 446, "cabecera" :  "Artículo 67. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 447, "cabecera" :  "Artículo 68. ", "descripcion" : "", "idlibro" : 16 }]}
+]},
+{ "id" : 0, "cabecera" :  "TÍTULO II", "descripcion" : "ÓRGANOS DE INVESTIGACIÓN", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 448, "cabecera" :  "Artículo 69. ", "descripcion" : "", "idlibro" : 16 },
+{ "id" : 0, "cabecera" :  "CAPÍTULO I", "descripcion" : "MINISTERIO PÚBLICO", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 449, "cabecera" :  "Artículo 70. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 450, "cabecera" :  "Artículo 71. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 451, "cabecera" :  "Artículo 72. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 452, "cabecera" :  "Artículo 73. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "CAPÍTULO II", "descripcion" : "POLICÍA NACIONAL E INSTITUTO DE INVESTIGACIONES FORENSES", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 453, "cabecera" :  "Artículo 74. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 454, "cabecera" :  "Artículo 75. ", "descripcion" : "", "idlibro" : 16 }]}
+]},
+{ "id" : 0, "cabecera" :  "TÍTULO III VÍCTIMA Y ", "descripcion" : "QUERELLANTE", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 455, "cabecera" :  "Artículo 76. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 456, "cabecera" :  "Artículo 77. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 457, "cabecera" :  "Artículo 78. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 458, "cabecera" :  "Artículo 79. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 459, "cabecera" :  "Artículo 80. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 460, "cabecera" :  "Artículo 81. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 461, "cabecera" :  "Artículo 82. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "TÍTULO IV", "descripcion" : "IMPUTADO", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 0, "cabecera" :  "CAPÍTULO I", "descripcion" : "NORMAS GENERALES", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 462, "cabecera" :  "Artículo 83. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 463, "cabecera" :  "Artículo 84. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 464, "cabecera" :  "Artículo 85. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 465, "cabecera" :  "Artículo 86. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 466, "cabecera" :  "Artículo 87. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 467, "cabecera" :  "Artículo 88. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 468, "cabecera" :  "Artículo 89. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 469, "cabecera" :  "Artículo 90. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 470, "cabecera" :  "Artículo 91. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 471, "cabecera" :  "Artículo 91 ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "CAPÍTULO II", "descripcion" : "DECLARACIÓN DEL IMPUTADO", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 472, "cabecera" :  "Artículo 92. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 473, "cabecera" :  "Artículo 93. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 474, "cabecera" :  "Artículo 94. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 475, "cabecera" :  "Artículo 95. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 476, "cabecera" :  "Artículo 96. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 477, "cabecera" :  "Artículo 97. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 478, "cabecera" :  "Artículo 98. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 479, "cabecera" :  "Artículo 99. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 480, "cabecera" :  "Artículo 100. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "CAPÍTULO III", "descripcion" : "DEFENSOR DEL IMPUTADO", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 481, "cabecera" :  "Artículo 101. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 482, "cabecera" :  "Artículo 102. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 483, "cabecera" :  "Artículo 103. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 484, "cabecera" :  "Artículo 104. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 485, "cabecera" :  "Artículo 105. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 486, "cabecera" :  "Artículo 106. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "CAPÍTULO IV", "descripcion" : "DEFENSA ESTATAL DEL IMPUTADO", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 487, "cabecera" :  "Artículo 107. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 488, "cabecera" :  "Artículo 108. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 489, "cabecera" :  "Artículo 109. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 490, "cabecera" :  "Artículo 110. ", "descripcion" : "", "idlibro" : 16 }]}
+]}
+]},
+{ "id" : 0, "cabecera" :  "LIBRO TERCERO", "descripcion" : "ACTIVIDAD PROCESAL", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 0, "cabecera" :  "TÍTULO I", "descripcion" : "NORMAS GENERALES", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 491, "cabecera" :  "Artículo 111. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 492, "cabecera" :  "Artículo 112. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 493, "cabecera" :  "Artículo 113. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 494, "cabecera" :  "Artículo 114. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 495, "cabecera" :  "Artículo 115. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 496, "cabecera" :  "Artículo 116. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 497, "cabecera" :  "Artículo 117. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 498, "cabecera" :  "Artículo 118. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 499, "cabecera" :  "Artículo 119. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 500, "cabecera" :  "Artículo 120. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 501, "cabecera" :  "Artículo 121. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "TÍTULO II", "descripcion" : "ACTOS Y RESOLUCIONES", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 502, "cabecera" :  "Artículo 122. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 503, "cabecera" :  "Artículo 123. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 504, "cabecera" :  "Artículo 124. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 505, "cabecera" :  "Artículo 125. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 506, "cabecera" :  "Artículo 126. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 507, "cabecera" :  "Artículo 127. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 508, "cabecera" :  "Artículo 128. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 509, "cabecera" :  "Artículo 129. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "TÍTULO III", "descripcion" : "PLAZOS", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 510, "cabecera" :  "Artículo 130. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 511, "cabecera" :  "Artículo 131. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 512, "cabecera" :  "Artículo 132. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "TÍTULO IV", "descripcion" : "CONTROL DE LA RETARDACIÓN DE JUSTICIA", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 513, "cabecera" :  "Artículo 133. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 514, "cabecera" :  "Artículo 134. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 515, "cabecera" :  "Artículo 135. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "TÍTULO V", "descripcion" : "COOPERACIÓN INTERNA", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 516, "cabecera" :  "Artículo 136. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 517, "cabecera" :  "Artículo 137. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "TÍTULO VI", "descripcion" : "COOPERACIÓN JUDICIAL Y ADMINISTRATIVA INTERNACIONAL", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 0, "cabecera" :  "CAPÍTULO I", "descripcion" : "NORMAS GENERALES DE COOPERACIÓN", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 518, "cabecera" :  "Artículo 138. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 519, "cabecera" :  "Artículo 140 ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 520, "cabecera" :  "Artículo 141. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 521, "cabecera" :  "Artículo 142. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 522, "cabecera" :  "Artículo 143. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 523, "cabecera" :  "Artículo 144. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 524, "cabecera" :  "Artículo 145. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 525, "cabecera" :  "Artículo 146. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 526, "cabecera" :  "Artículo 147. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 527, "cabecera" :  "Artículo 148. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 528, "cabecera" :  "Artículo 148 ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "CAPÍTULO II", "descripcion" : "EXTRADICIÓN", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 529, "cabecera" :  "Artículo 149. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 530, "cabecera" :  "Artículo 150. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 531, "cabecera" :  "Artículo 151. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 532, "cabecera" :  "Artículo 152. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 533, "cabecera" :  "Artículo 153. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 534, "cabecera" :  "Artículo 154. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 535, "cabecera" :  "Artículo 155. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 536, "cabecera" :  "Artículo 156. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 537, "cabecera" :  "Artículo 157. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 538, "cabecera" :  "Artículo 158. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 539, "cabecera" :  "Artículo 159. ", "descripcion" : "", "idlibro" : 16 }]}
+]},
+{ "id" : 0, "cabecera" :  "TÍTULO VII", "descripcion" : "NOTIFICACIONES", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 540, "cabecera" :  "Artículo 160. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 541, "cabecera" :  "Artículo 161. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 542, "cabecera" :  "Artículo 162. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 543, "cabecera" :  "Artículo 163. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 544, "cabecera" :  "Artículo 164. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 545, "cabecera" :  "Artículo 165. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "TÍTULO VIII", "descripcion" : "ACTIVIDAD PROCESAL DEFECTUOSA", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 546, "cabecera" :  "Artículo 167. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 547, "cabecera" :  "Artículo 168. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 548, "cabecera" :  "Artículo 169. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 549, "cabecera" :  "Artículo 170. ", "descripcion" : "", "idlibro" : 16 }]}
+]},
+{ "id" : 0, "cabecera" :  "LIBRO CUARTO", "descripcion" : "MEDIOS DE PRUEBA", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 0, "cabecera" :  "TÍTULO I", "descripcion" : "NORMAS GENERALES", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 550, "cabecera" :  "Artículo 171. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 551, "cabecera" :  "Artículo 172. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 552, "cabecera" :  "Artículo 173. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "TÍTULO II", "descripcion" : "COMPROBACIÓN INMEDIATA Y MEDIOS AUXILIARES", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 553, "cabecera" :  "Artículo 174. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 554, "cabecera" :  "Artículo 175. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 555, "cabecera" :  "Artículo 176. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 556, "cabecera" :  "Artículo 177. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 557, "cabecera" :  "Artículo 178. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 558, "cabecera" :  "Artículo 179. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 559, "cabecera" :  "Artículo 180. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 560, "cabecera" :  "Artículo 181. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 561, "cabecera" :  "Artículo 182. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 562, "cabecera" :  "Artículo 183. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 563, "cabecera" :  "Artículo 184. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 564, "cabecera" :  "Artículo 185. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 565, "cabecera" :  "Artículo 186. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 566, "cabecera" :  "Artículo 187. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 567, "cabecera" :  "Artículo 188. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 568, "cabecera" :  "Artículo 189. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 569, "cabecera" :  "Artículo 190. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 570, "cabecera" :  "Artículo 191. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 571, "cabecera" :  "Artículo 192. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "TÍTULO III", "descripcion" : "TESTIMONIO", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 572, "cabecera" :  "Artículo 193. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 573, "cabecera" :  "Artículo 194. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 574, "cabecera" :  "Artículo 195. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 575, "cabecera" :  "Artículo 196. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 576, "cabecera" :  "Artículo 197. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 577, "cabecera" :  "Artículo 198. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 578, "cabecera" :  "Artículo 199. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 579, "cabecera" :  "Artículo 200. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 580, "cabecera" :  "Artículo 201. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 581, "cabecera" :  "Artículo 202. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 582, "cabecera" :  "Artículo 203. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "TÍTULO IV", "descripcion" : "PERICIA", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 583, "cabecera" :  "Artículo 204. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 584, "cabecera" :  "Artículo 205. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 585, "cabecera" :  "Artículo 206. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 586, "cabecera" :  "Artículo 207. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 587, "cabecera" :  "Artículo 208. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 588, "cabecera" :  "Artículo 209. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 589, "cabecera" :  "Artículo 210. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 590, "cabecera" :  "Artículo 211. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 591, "cabecera" :  "Artículo 212. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 592, "cabecera" :  "Artículo 213. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 593, "cabecera" :  "Artículo 214. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 594, "cabecera" :  "Artículo 215. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "TÍTULO V", "descripcion" : "DOCUMENTOS Y OTROS MEDIOS DE PRUEBA", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 595, "cabecera" :  "Artículo 216. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 596, "cabecera" :  "Artículo 217. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 597, "cabecera" :  "Artículo 218. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 598, "cabecera" :  "Artículo 219. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 599, "cabecera" :  "Artículo 220. ", "descripcion" : "", "idlibro" : 16 }]}
+]},
+{ "id" : 0, "cabecera" :  "LIBRO QUINTO", "descripcion" : "MEDIDAS CAUTELARES", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 0, "cabecera" :  "TÍTULO I", "descripcion" : "NORMAS GENERALES", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 600, "cabecera" :  "Artículo 221. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 601, "cabecera" :  "Artículo 222. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "TÍTULO II", "descripcion" : "MEDIDAS CAUTELARES DE CARÁCTER PERSONAL", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 0, "cabecera" :  "CAPÍTULO I", "descripcion" : "CLASES", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 602, "cabecera" :  "Artículo 223. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 603, "cabecera" :  "Artículo 224. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 604, "cabecera" :  "Artículo 225. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 605, "cabecera" :  "Artículo 226. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 606, "cabecera" :  "Artículo 227. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 607, "cabecera" :  "Artículo 228. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 608, "cabecera" :  "Artículo 229. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 609, "cabecera" :  "Artículo 230. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 610, "cabecera" :  "Artículo 231. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 611, "cabecera" :  "Artículo 232. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 612, "cabecera" :  "Artículo 233. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 613, "cabecera" :  "Artículo 234. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 614, "cabecera" :  "Artículo 235. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 615, "cabecera" :  "Artículo 235 ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 616, "cabecera" :  "Artículo 236. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 617, "cabecera" :  "Artículo 237. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 618, "cabecera" :  "Artículo 238. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 619, "cabecera" :  "Artículo 239. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 620, "cabecera" :  "Artículo 240. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 621, "cabecera" :  "Artículo 241. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 622, "cabecera" :  "Artículo 242. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 623, "cabecera" :  "Artículo 243. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 624, "cabecera" :  "Artículo 244. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 625, "cabecera" :  "Artículo 245. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 626, "cabecera" :  "Artículo 246. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 627, "cabecera" :  "Artículo 247. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 628, "cabecera" :  "Artículo 248. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 629, "cabecera" :  "Artículo 249. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "CAPÍTULO II", "descripcion" : "EXAMEN DE LAS MEDIDAS CAUTELARES DE CARÁCTER PERSONAL", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 630, "cabecera" :  "Artículo 250. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 631, "cabecera" :  "Artículo 251. ", "descripcion" : "", "idlibro" : 16 }]}
+]},
+{ "id" : 0, "cabecera" :  "TÍTULO III", "descripcion" : "MEDIDAS CAUTELARES DE CARÁCTER REAL", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 0, "cabecera" :  "CAPÍTULO I", "descripcion" : "MEDIDAS CAUTELARES DE CARÁCTER REAL", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 632, "cabecera" :  "Artículo 252. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "CAPÍTULO II", "descripcion" : "MEDIDAS CAUTELARES SOBRE BIENES SUJETOS\nA CONFISCACIÓN O DECOMISO", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 0, "cabecera" :  "SECCIÓN I", "descripcion" : "PROCEDIMIENTO DE INCAUTACIÓN", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 633, "cabecera" :  "Artículo 253. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 634, "cabecera" :  "Artículo 253 ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 635, "cabecera" :  "Artículo 254. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 636, "cabecera" :  "Artículo 255. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 637, "cabecera" :  "Artículo 256. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "SECCIÓN II", "descripcion" : "RÉGIMEN DE ADMINISTRACIÓN", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 638, "cabecera" :  "Artículo 257. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 639, "cabecera" :  "Artículo 258. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 640, "cabecera" :  "Artículo 259. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 641, "cabecera" :  "Artículo 260. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 642, "cabecera" :  "Artículo 261. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "SECCIÓN III", "descripcion" : "EMPRESA ADMINISTRADORA", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 643, "cabecera" :  "Artículo 262. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 644, "cabecera" :  "Artículo 263. ", "descripcion" : "", "idlibro" : 16 }]}
+]}
+]}
+]},
+{ "id" : 0, "cabecera" :  "LIBRO SEXTO", "descripcion" : "EFECTOS ECONÓMICOS DEL PROCESO", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 0, "cabecera" :  "TÍTULO I", "descripcion" : "COSTAS E INDEMNIZACIONES", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 0, "cabecera" :  "CAPÍTULO I", "descripcion" : "COSTAS", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 645, "cabecera" :  "Artículo 264. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 646, "cabecera" :  "Artículo 265. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 647, "cabecera" :  "Artículo 266. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 648, "cabecera" :  "Artículo 267. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 649, "cabecera" :  "Artículo 268. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 650, "cabecera" :  "Artículo 269. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 651, "cabecera" :  "Artículo 270. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 652, "cabecera" :  "Artículo 271. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 653, "cabecera" :  "Artículo 272. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 654, "cabecera" :  "Artículo 273. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "CAPÍTULO II", "descripcion" : "INDEMNIZACIÓN AL IMPUTADO", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 655, "cabecera" :  "Artículo 274. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 656, "cabecera" :  "Artículo 275. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 657, "cabecera" :  "Artículo 276. ", "descripcion" : "", "idlibro" : 16 }]}
+]},
+{ "id" : 0, "cabecera" :  "SEGUNDA PARTE", "descripcion" : "PROCEDIMIENTOS", "idlibro" : 16, "TreeList" : [ 
+]}
+]},
+{ "id" : 0, "cabecera" :  "LIBRO PRIMERO", "descripcion" : "PROCEDIMIENTO COMÚN", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 0, "cabecera" :  "TÍTULO I", "descripcion" : "ETAPA PREPARATORIA DEL JUICIO", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 0, "cabecera" :  "CAPÍTULO I", "descripcion" : "NORMAS GENERALES", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 658, "cabecera" :  "Artículo 277. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 659, "cabecera" :  "Artículo 278. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 660, "cabecera" :  "Artículo 279. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 661, "cabecera" :  "Artículo 280. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 662, "cabecera" :  "Artículo 281. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 663, "cabecera" :  "Artículo 282. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 664, "cabecera" :  "Artículo 283. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "CAPÍTULO II", "descripcion" : "ACTOS INICIALES", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 0, "cabecera" :  "SECCIÓN I", "descripcion" : "DENUNCIA", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 665, "cabecera" :  "Artículo 284. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 666, "cabecera" :  "Artículo 285. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 667, "cabecera" :  "Artículo 286. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 668, "cabecera" :  "Artículo 287. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 669, "cabecera" :  "Artículo 288. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 670, "cabecera" :  "Artículo 289. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "SECCIÓN II", "descripcion" : "QUERELLA", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 671, "cabecera" :  "Artículo 290. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 672, "cabecera" :  "Artículo 291. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 673, "cabecera" :  "Artículo 292. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "SECCIÓN III", "descripcion" : "INTERVENCIÓN POLICIAL PREVENTIVA", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 674, "cabecera" :  "Artículo 293. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 675, "cabecera" :  "Artículo 294. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 676, "cabecera" :  "Artículo 295. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 677, "cabecera" :  "Artículo 296. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "SECCIÓN IV", "descripcion" : "DIRECCIÓN FUNCIONAL DE LA ACTUACIÓN POLICIAL", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 678, "cabecera" :  "Artículo 297. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 679, "cabecera" :  "Artículo 298. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 680, "cabecera" :  "Artículo 299. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 681, "cabecera" :  "Artículo 300. ", "descripcion" : "", "idlibro" : 16 }]}
+]},
+{ "id" : 682, "cabecera" :  "Artículo 301. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 683, "cabecera" :  "Artículo 302. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 684, "cabecera" :  "Artículo 303. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 685, "cabecera" :  "Artículo 304. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 686, "cabecera" :  "Artículo 305. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 687, "cabecera" :  "Artículo 306. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 688, "cabecera" :  "Artículo 307. ", "descripcion" : "", "idlibro" : 16 },
+{ "id" : 0, "cabecera" :  "CAPÍTULO IV", "descripcion" : "EXCEPCIONES E INCIDENTES", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 689, "cabecera" :  "Artículo 308. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 690, "cabecera" :  "Artículo 309. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 691, "cabecera" :  "Artículo 310. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 692, "cabecera" :  "Artículo 311. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 693, "cabecera" :  "Artículo 312. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 694, "cabecera" :  "Artículo 313. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 695, "cabecera" :  "Artículo 314. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 696, "cabecera" :  "Artículo 315. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "CAPÍTULO V", "descripcion" : "DE LA EXCUSA Y RECUSACIÓN", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 697, "cabecera" :  "Artículo 316. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 698, "cabecera" :  "Artículo 317. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 699, "cabecera" :  "Artículo 318. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 700, "cabecera" :  "Artículo 319. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 701, "cabecera" :  "Artículo 320. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 702, "cabecera" :  "Artículo 321. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 703, "cabecera" :  "Artículo 322. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "CAPÍTULO VI", "descripcion" : "CONCLUSIÓN DE LA ETAPA PREPARATORIA", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 704, "cabecera" :  "Artículo 323. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 705, "cabecera" :  "Artículo 324. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 706, "cabecera" :  "Artículo 325. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 707, "cabecera" :  "Artículo 326. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 708, "cabecera" :  "Artículo 327. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 709, "cabecera" :  "Artículo 328. ", "descripcion" : "", "idlibro" : 16 }]}
+]},
+{ "id" : 0, "cabecera" :  "TÍTULO II", "descripcion" : "JUICIO ORAL Y PÚBLICO", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 0, "cabecera" :  "CAPÍTULO I", "descripcion" : "NORMAS GENERALES", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 710, "cabecera" :  "Artículo 329. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 711, "cabecera" :  "Artículo 330. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 712, "cabecera" :  "Artículo 331. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 713, "cabecera" :  "Artículo 332. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 714, "cabecera" :  "Artículo 333. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 715, "cabecera" :  "Artículo 334. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 716, "cabecera" :  "Artículo 335. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 717, "cabecera" :  "Artículo 336. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 718, "cabecera" :  "Artículo 337. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 719, "cabecera" :  "Artículo 338. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 720, "cabecera" :  "Artículo 339. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "CAPÍTULO II", "descripcion" : "PREPARACIÓN DEL JUICIO", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 721, "cabecera" :  "Artículo 340. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 722, "cabecera" :  "Artículo 341. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 723, "cabecera" :  "Artículo 342. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 724, "cabecera" :  "Artículo 343. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "CAPÍTULO III", "descripcion" : "SUSTANCIACIÓN DEL JUICIO", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 725, "cabecera" :  "Artículo 344. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 726, "cabecera" :  "Artículo 344 ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 727, "cabecera" :  "Artículo 345. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 728, "cabecera" :  "Artículo 346. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 729, "cabecera" :  "Artículo 347. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 730, "cabecera" :  "Artículo 348. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 731, "cabecera" :  "Artículo 349. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 732, "cabecera" :  "Artículo 350. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 733, "cabecera" :  "Artículo 351. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 734, "cabecera" :  "Artículo 352. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 735, "cabecera" :  "Artículo 353. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 736, "cabecera" :  "Artículo 354. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 737, "cabecera" :  "Artículo 355. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 738, "cabecera" :  "Artículo 356. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "CAPÍTULO IV", "descripcion" : "DELIBERACIÓN Y SENTENCIA", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 739, "cabecera" :  "Artículo 357. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 740, "cabecera" :  "Artículo 358. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 741, "cabecera" :  "Artículo 359. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 742, "cabecera" :  "Artículo 360. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 743, "cabecera" :  "Artículo 361. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 744, "cabecera" :  "Artículo 362. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 745, "cabecera" :  "Artículo 363. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 746, "cabecera" :  "Artículo 364. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 747, "cabecera" :  "Artículo 365. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 748, "cabecera" :  "Artículo 366. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 749, "cabecera" :  "Artículo 367. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 750, "cabecera" :  "Artículo 368. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 751, "cabecera" :  "Artículo 369. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 752, "cabecera" :  "Artículo 370. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "CAPÍTULO V", "descripcion" : "REGISTRO DEL JUICIO", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 753, "cabecera" :  "Artículo 371. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 754, "cabecera" :  "Artículo 372. ", "descripcion" : "", "idlibro" : 16 }]}
+]}
+]},
+{ "id" : 0, "cabecera" :  "LIBRO SEGUNDO", "descripcion" : "PROCEDIMIENTOS ESPECIALES Y MODIFICACIONES AL PROCEDIMIENTO\nCOMÚN", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 0, "cabecera" :  "TÍTULO I", "descripcion" : "PROCEDIMIENTO ABREVIADO", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 755, "cabecera" :  "Artículo 373. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 756, "cabecera" :  "Artículo 374. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "TÍTULO II", "descripcion" : "PROCEDIMIENTO POR DELITOS DE ACCIÓN PENAL PRIVADA", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 757, "cabecera" :  "Artículo 375. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 758, "cabecera" :  "Artículo 376. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 759, "cabecera" :  "Artículo 377. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 760, "cabecera" :  "Artículo 378. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 761, "cabecera" :  "Artículo 379. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 762, "cabecera" :  "Artículo 380. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 763, "cabecera" :  "Artículo 381. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "TÍTULO III", "descripcion" : "PROCEDIMIENTO PARA LA REPARACIÓN DEL DAÑO", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 764, "cabecera" :  "Artículo 382. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 765, "cabecera" :  "Artículo 383. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 766, "cabecera" :  "Artículo 384. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 767, "cabecera" :  "Artículo 385. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 768, "cabecera" :  "Artículo 386. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 769, "cabecera" :  "Artículo 387. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 770, "cabecera" :  "Artículo 388. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "TÍTULO IV", "descripcion" : "MODIFICACIONES AL PROCEDIMIENTO COMÚN", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 771, "cabecera" :  "Artículo 389. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 772, "cabecera" :  "Artículo 390. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 773, "cabecera" :  "Artículo 391. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 774, "cabecera" :  "Artículo 392. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 775, "cabecera" :  "Artículo 393. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "TITULO V", "descripcion" : "PROCEDIMIENTO INMEDIATO PARA DELITOS FLAGRANTES\n(Título V incorporado por el artículo 2 de la Ley Nº 007 de 18 de mayo de 2010, de Modificaciones al \nSistema Normativo Penal.)", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 776, "cabecera" :  "Artículo 393 ", "descripcion" : "", "idlibro" : 16 }]}
+]},
+{ "id" : 0, "cabecera" :  "LIBRO TERCERO ", "descripcion" : "RECURSOS", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 0, "cabecera" :  "TÍTULO I", "descripcion" : "NORMAS GENERALES", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 777, "cabecera" :  "Artículo 394. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 778, "cabecera" :  "Artículo 395. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 779, "cabecera" :  "Artículo 396. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 780, "cabecera" :  "Artículo 397. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 781, "cabecera" :  "Artículo 398. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 782, "cabecera" :  "Artículo 399. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 783, "cabecera" :  "Artículo 400. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "TÍTULO II", "descripcion" : "RECURSO DE REPOSICIÓN", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 784, "cabecera" :  "Artículo 401. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 785, "cabecera" :  "Artículo 402. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "TÍTULO III", "descripcion" : "RECURSO DE APELACIÓN INCIDENTAL", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 786, "cabecera" :  "Artículo 403. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 787, "cabecera" :  "Artículo 404. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 788, "cabecera" :  "Artículo 405. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 789, "cabecera" :  "Artículo 406. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "TÍTULO IV", "descripcion" : "RECURSO DE APELACIÓN RESTRINGIDA", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 790, "cabecera" :  "Artículo 407. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 791, "cabecera" :  "Artículo 408. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 792, "cabecera" :  "Artículo 409. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 793, "cabecera" :  "Artículo 410. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 794, "cabecera" :  "Artículo 411. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 795, "cabecera" :  "Artículo 412. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 796, "cabecera" :  "Artículo 413. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 797, "cabecera" :  "Artículo 414. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 798, "cabecera" :  "Artículo 415. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "TÍTULO V", "descripcion" : "RECURSO DE CASACIÓN", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 799, "cabecera" :  "Artículo 416. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 800, "cabecera" :  "Artículo 417. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 801, "cabecera" :  "Artículo 418. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 802, "cabecera" :  "Artículo 419. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 803, "cabecera" :  "Artículo 420. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "TÍTULO VI", "descripcion" : "RECURSO DE REVISIÓN", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 804, "cabecera" :  "Artículo 421. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 805, "cabecera" :  "Artículo 422. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 806, "cabecera" :  "Artículo 423. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 807, "cabecera" :  "Artículo 424. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 808, "cabecera" :  "Artículo 425. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 809, "cabecera" :  "Artículo 426. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 810, "cabecera" :  "Artículo 427. ", "descripcion" : "", "idlibro" : 16 }]}
+]},
+{ "id" : 0, "cabecera" :  "LIBRO CUARTO", "descripcion" : "EJECUCIÓN PENAL", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 0, "cabecera" :  "TÍTULO I", "descripcion" : "NORMAS GENERALES", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 811, "cabecera" :  "Artículo 428. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 812, "cabecera" :  "Artículo 429. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "TÍTULO II", "descripcion" : "PENAS", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 813, "cabecera" :  "Artículo 430. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 814, "cabecera" :  "Artículo 431. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 815, "cabecera" :  "Artículo 432. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 816, "cabecera" :  "Artículo 433. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 817, "cabecera" :  "Artículo 434. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 818, "cabecera" :  "Artículo 435. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 819, "cabecera" :  "Artículo 436. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 820, "cabecera" :  "Artículo 437. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 821, "cabecera" :  "Artículo 438. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 822, "cabecera" :  "Artículo 439. ", "descripcion" : "", "idlibro" : 16 }]},
+{ "id" : 0, "cabecera" :  "TÍTULO III", "descripcion" : "REGISTROS", "idlibro" : 16, "TreeList" : [ 
+{ "id" : 823, "cabecera" :  "Artículo 440. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 824, "cabecera" :  "Artículo 441. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 825, "cabecera" :  "Artículo 442. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 826, "cabecera" :  "DISPOSICIONES TRANSITORIAS", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 827, "cabecera" :  "DISPOSICIONES FINALES", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 828, "cabecera" :  "Art. 47. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 829, "cabecera" :  "Art. 77. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 830, "cabecera" :  "Art. 80. ", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 831, "cabecera" :  "Art. 106. ", "descripcion" : "", "idlibro" : 16 }]}
+]}
+,
+{ "id" : 0, "cabecera" :  "", "descripcion" : "", "idlibro" : 16 }, 
+{ "id" : 0, "cabecera" :  "", "descripcion" : "", "idlibro" : 16 }
+]

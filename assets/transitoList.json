@@ -1,0 +1,243 @@
+[{ "id" : 0, "cabecera" :  "TÍTULO I", "descripcion" : "DISPOSICIONES PRELIMINARES", "idlibro" : 5, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "CAPITULO I", "descripcion" : "APLICACION Y OBJETIVO", "idlibro" : 5, "TreeList" : [ 
+    { "id" : 8000, "cabecera" :  "ARTICULO 1.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8001, "cabecera" :  "ARTICULO 2.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8002, "cabecera" :  "ARTICULO 3.- ", "descripcion" : "", "idlibro" : 5 }]},
+    { "id" : 0, "cabecera" :  "CAPITULO II", "descripcion" : "DE LA VIAS PUBLICAS", "idlibro" : 5, "TreeList" : [ 
+    { "id" : 8003, "cabecera" :  "ARTICULO 4.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8004, "cabecera" :  "ARTICULO 5.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8005, "cabecera" :  "ARTICULO 6.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8006, "cabecera" :  "ARTICULO 7.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8007, "cabecera" :  "ARTICULO 8.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8008, "cabecera" :  "ARTICULO 9.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8009, "cabecera" :  "ARTICULO 10.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8010, "cabecera" :  "ARTICULO 11.- ", "descripcion" : "", "idlibro" : 5 }]},
+    { "id" : 0, "cabecera" :  "CAPITULO III", "descripcion" : "DE LOS VEHICULOS", "idlibro" : 5, "TreeList" : [ 
+    { "id" : 8011, "cabecera" :  "ARTICULO 12.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8012, "cabecera" :  "ARTICULO 13.- ", "descripcion" : "", "idlibro" : 5 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "TÍTULO II", "descripcion" : "DE LA CIRCULACION", "idlibro" : 5, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "CAPITULO I", "descripcion" : "DE LAS NORMAS GENERALES", "idlibro" : 5, "TreeList" : [ 
+    { "id" : 8013, "cabecera" :  "ARTICULO 14.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8014, "cabecera" :  "ARTICULO 15.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8015, "cabecera" :  "ARTICULO 16.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8016, "cabecera" :  "ARTICULO 17.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8017, "cabecera" :  "ARTICULO 18.- ", "descripcion" : "", "idlibro" : 5 }]},
+    { "id" : 0, "cabecera" :  "CAPITULO II", "descripcion" : "DE LA CIRCULACION DE LOS VEHICULOS", "idlibro" : 5, "TreeList" : [ 
+    { "id" : 8018, "cabecera" :  "ARTICULO 19.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8019, "cabecera" :  "ARTICULO 20.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8020, "cabecera" :  "ARTICULO 21.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8021, "cabecera" :  "ARTICULO 22.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8022, "cabecera" :  "ARTICULO 23.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8023, "cabecera" :  "ARTICULO 24.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8024, "cabecera" :  "ARTICULO 25.- ", "descripcion" : "", "idlibro" : 5 }]},
+    { "id" : 0, "cabecera" :  "CAPITULO III", "descripcion" : "DE LA CIRCULACION DE MOTOCICLETAS, MOTONETAS Y BICICLETAS", "idlibro" : 5, "TreeList" : [ 
+    { "id" : 8025, "cabecera" :  "ARTICULO 26.- ", "descripcion" : "", "idlibro" : 5 }]},
+    { "id" : 0, "cabecera" :  "CAPITULO IV", "descripcion" : "DE LAS INSPECCIONES", "idlibro" : 5, "TreeList" : [ 
+    { "id" : 8026, "cabecera" :  "ARTICULO 27.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8027, "cabecera" :  "ARTICULO 28.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8028, "cabecera" :  "ARTICULO 29.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8029, "cabecera" :  "ARTICULO 30.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8030, "cabecera" :  "ARTICULO 31.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8031, "cabecera" :  "ARTICULO 32.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8032, "cabecera" :  "ARTICULO 33.- ", "descripcion" : "", "idlibro" : 5 }]},
+    { "id" : 0, "cabecera" :  "CAPITULO V", "descripcion" : "DE LA VELOCIDAD", "idlibro" : 5, "TreeList" : [ 
+    { "id" : 8033, "cabecera" :  "ARTICULO 34.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8034, "cabecera" :  "ARTICULO 35.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8035, "cabecera" :  "ARTICULO 36.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8036, "cabecera" :  "ARTICULO 37.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8037, "cabecera" :  "ARTICULO 38.- ", "descripcion" : "", "idlibro" : 5 }]},
+    { "id" : 0, "cabecera" :  "CAPITULO VI", "descripcion" : "DEL ESTACIONAMIENTO Y PARADAS", "idlibro" : 5, "TreeList" : [ 
+    { "id" : 8038, "cabecera" :  "ARTICULO 39.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8039, "cabecera" :  "ARTICULO 40.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8040, "cabecera" :  "ARTICULO 41.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8041, "cabecera" :  "ARTICULO 42.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8042, "cabecera" :  "ARTICULO 43.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8043, "cabecera" :  "ARTICULO 44.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8044, "cabecera" :  "ARTICULO 45.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8045, "cabecera" :  "ARTICULO 46.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8046, "cabecera" :  "ARTICULO 47.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8047, "cabecera" :  "ARTICULO 48.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8048, "cabecera" :  "ARTICULO 49.- ", "descripcion" : "", "idlibro" : 5 }]},
+    { "id" : 0, "cabecera" :  "CAPITULO VII", "descripcion" : "DE LAS SEÑALES", "idlibro" : 5, "TreeList" : [ 
+    { "id" : 8049, "cabecera" :  "ARTICULO 50.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8050, "cabecera" :  "ARTICULO 51.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8051, "cabecera" :  "ARTICULO 52.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8052, "cabecera" :  "ARTICULO 53.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8053, "cabecera" :  "ARTICULO 54.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8054, "cabecera" :  "ARTICULO 55.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8055, "cabecera" :  "ARTICULO 56.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8056, "cabecera" :  "ARTICULO 57.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8057, "cabecera" :  "ARTICULO 58.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8058, "cabecera" :  "ARTICULO 59.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8059, "cabecera" :  "ARTICULO 60.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8060, "cabecera" :  "ARTICULO 61.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8061, "cabecera" :  "ARTICULO 62.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8062, "cabecera" :  "ARTICULO 63.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8063, "cabecera" :  "ARTICULO 64.- ", "descripcion" : "", "idlibro" : 5 }]},
+    { "id" : 0, "cabecera" :  "CAPITULO VIII", "descripcion" : "DE LOS PASAJEROS", "idlibro" : 5, "TreeList" : [ 
+    { "id" : 8064, "cabecera" :  "ARTICULO 65.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8065, "cabecera" :  "ARTICULO 66.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8066, "cabecera" :  "ARTICULO 67.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8067, "cabecera" :  "ARTICULO 68.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8068, "cabecera" :  "ARTICULO 69.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8069, "cabecera" :  "ARTICULO 70.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8070, "cabecera" :  "ARTICULO 71.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8071, "cabecera" :  "ARTICULO 72.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8072, "cabecera" :  "ARTICULO 73.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8073, "cabecera" :  "ARTICULO 74.- ", "descripcion" : "", "idlibro" : 5 }]},
+    { "id" : 0, "cabecera" :  "CAPITULO IX", "descripcion" : "DE LOS PEATONES", "idlibro" : 5, "TreeList" : [ 
+    { "id" : 8074, "cabecera" :  "ARTICULO 75.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8075, "cabecera" :  "ARTICULO 76.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8076, "cabecera" :  "ARTICULO 77.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8077, "cabecera" :  "ARTICULO 78.- ", "descripcion" : "", "idlibro" : 5 }]},
+    { "id" : 0, "cabecera" :  "CAPITULO X", "descripcion" : "DE LA CARGA", "idlibro" : 5, "TreeList" : [ 
+    { "id" : 8078, "cabecera" :  "ARTICULO 79.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8079, "cabecera" :  "ARTICULO 80.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8080, "cabecera" :  "ARTICULO 81.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8081, "cabecera" :  "ARTICULO 82.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8082, "cabecera" :  "ARTICULO 83.- ", "descripcion" : "", "idlibro" : 5 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "TÍTULO III", "descripcion" : "DE LOS CONDUCTORES Y OTRAS PERSONAS", "idlibro" : 5, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "CAPITULO I", "descripcion" : "DISPOSICIONES GENERALES", "idlibro" : 5, "TreeList" : [ 
+    { "id" : 8083, "cabecera" :  "ARTICULO 84.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8084, "cabecera" :  "ARTICULO 85.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8085, "cabecera" :  "ARTICULO 86.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8086, "cabecera" :  "ARTICULO 87.- ", "descripcion" : "", "idlibro" : 5 }]},
+    { "id" : 0, "cabecera" :  "CAPITULO II", "descripcion" : "DE LA CLASIFICACION Y REQUISITOS PARA SER CONDUCTOR", "idlibro" : 5, "TreeList" : [ 
+    { "id" : 8087, "cabecera" :  "ARTICULO 88.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8088, "cabecera" :  "ARTICULO 89.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8089, "cabecera" :  "ARTICULO 90.- ", "descripcion" : "", "idlibro" : 5 }]},
+    { "id" : 0, "cabecera" :  "CAPITULO III", "descripcion" : "DE LOS DERECHOS Y DEBERES DEL CONDUCTOR", "idlibro" : 5, "TreeList" : [ 
+    { "id" : 8090, "cabecera" :  "ARTICULO 91. ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8091, "cabecera" :  "ARTICULO 92.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8092, "cabecera" :  "ARTICULO 93.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8093, "cabecera" :  "ARTICULO 94.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8094, "cabecera" :  "ARTICULO 95.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8095, "cabecera" :  "ARTICULO 96.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8096, "cabecera" :  "ARTICULO 97.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8097, "cabecera" :  "ARTICULO 98.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8098, "cabecera" :  "ARTICULO 99.- ", "descripcion" : "", "idlibro" : 5 }]},
+    { "id" : 0, "cabecera" :  "CAPITULO IV", "descripcion" : "DE LOS AUXILIARES DE CONDUCTOR", "idlibro" : 5, "TreeList" : [ 
+    { "id" : 8099, "cabecera" :  "ARTICULO 100.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8100, "cabecera" :  "ARTICULO 101.- ", "descripcion" : "", "idlibro" : 5 }]},
+    { "id" : 0, "cabecera" :  "CAPITULO V", "descripcion" : "DE LOS IMPORTAN, COPRAN Y VENDEN VEHICULOS", "idlibro" : 5, "TreeList" : [ 
+    { "id" : 8101, "cabecera" :  "ARTICULO 102.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8102, "cabecera" :  "ARTICULO 103.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8103, "cabecera" :  "ARTICULO 104.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8104, "cabecera" :  "ARTICULO 105.- ", "descripcion" : "", "idlibro" : 5 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "TÍTULO IV", "descripcion" : "DE LOS SERVICIOS PUBLICOS", "idlibro" : 5, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "CAPITULO UNICO", "descripcion" : "DE LOS REQUISITOS", "idlibro" : 5, "TreeList" : [ 
+    { "id" : 8105, "cabecera" :  "ARTICULO 106.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8106, "cabecera" :  "ARTICULO 107.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8107, "cabecera" :  "ARTICULO 108.- ", "descripcion" : "", "idlibro" : 5 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "TÍTULO V", "descripcion" : "DE LOS DOCUMENTOS Y REGISTROS", "idlibro" : 5, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "CAPITULO I", "descripcion" : "DE LA LICENCIA", "idlibro" : 5, "TreeList" : [ 
+    { "id" : 8108, "cabecera" :  "ARTICULO 109.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8109, "cabecera" :  "ARTICULO 110.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8110, "cabecera" :  "ARTICULO 111.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8111, "cabecera" :  "ARTICULO 112.- ", "descripcion" : "", "idlibro" : 5 }]},
+    { "id" : 0, "cabecera" :  "CAPITULO II", "descripcion" : "DE LAS AUTORIZACIONES PROVISIONALES Y PERMISOS OFICIALES", "idlibro" : 5, "TreeList" : [ 
+    { "id" : 8112, "cabecera" :  "ARTICULO 113.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8113, "cabecera" :  "ARTICULO 114.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8114, "cabecera" :  "ARTICULO 115.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8115, "cabecera" :  "ARTICULO 116.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8116, "cabecera" :  "ARTICULO 117.- ", "descripcion" : "", "idlibro" : 5 }]},
+    { "id" : 0, "cabecera" :  "CAPITULO III", "descripcion" : "DE LAS LICENCIAS INTERNACIONALES PARA CONDUCIR", "idlibro" : 5, "TreeList" : [ 
+    { "id" : 8117, "cabecera" :  "ARTICULO 118.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8118, "cabecera" :  "ARTICULO 119.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8119, "cabecera" :  "ARTICULO 120.- ", "descripcion" : "", "idlibro" : 5 }]},
+    { "id" : 0, "cabecera" :  "CAPITULO IV", "descripcion" : "DEL CARNET DE PROPIEDAD", "idlibro" : 5, "TreeList" : [ 
+    { "id" : 8120, "cabecera" :  "ARTICULO 121.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8121, "cabecera" :  "ARTICULO 122.- ", "descripcion" : "", "idlibro" : 5 }]},
+    { "id" : 0, "cabecera" :  "CAPITULO V", "descripcion" : "DE LAS PLACAS", "idlibro" : 5, "TreeList" : [ 
+    { "id" : 8122, "cabecera" :  "ARTICULO 123.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8123, "cabecera" :  "ARTICULO 124.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8124, "cabecera" :  "ARTICULO 125.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8125, "cabecera" :  "ARTICULO 126.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8126, "cabecera" :  "ARTICULO 127.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8127, "cabecera" :  "ARTICULO 128.- ", "descripcion" : "", "idlibro" : 5 }]},
+    { "id" : 0, "cabecera" :  "CAPITULO VI", "descripcion" : "DE LA PAPELETA DE INSPECCION Y CONTROL", "idlibro" : 5, "TreeList" : [ 
+    { "id" : 8128, "cabecera" :  "ARTICULO 129.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8129, "cabecera" :  "ARTICULO 130.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8130, "cabecera" :  "ARTICULO 131.- ", "descripcion" : "", "idlibro" : 5 }]},
+    { "id" : 0, "cabecera" :  "CAPITULO VII", "descripcion" : "DE LA HOJA DE RUTA", "idlibro" : 5, "TreeList" : [ 
+    { "id" : 8131, "cabecera" :  "ARTICULO 132.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8132, "cabecera" :  "ARTICULO 133.- ", "descripcion" : "", "idlibro" : 5 }]},
+    { "id" : 0, "cabecera" :  "CAPITULO VIII", "descripcion" : "DE LOS REGISTROS", "idlibro" : 5, "TreeList" : [ 
+    { "id" : 8133, "cabecera" :  "ARTICULO 134.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8134, "cabecera" :  "ARTICULO 135.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8135, "cabecera" :  "ARTICULO 136.- ", "descripcion" : "", "idlibro" : 5 }]},
+    { "id" : 0, "cabecera" :  "CAPITULO IX", "descripcion" : "DE LAS TRANSFERENCIAS DE VEHICULOS", "idlibro" : 5, "TreeList" : [ 
+    { "id" : 8136, "cabecera" :  "ARTICULO 137.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8137, "cabecera" :  "ARTICULO 138.- ", "descripcion" : "", "idlibro" : 5 }]}
+    ]},
+    { "id" : 0, "cabecera" :  "TÍTULO VI", "descripcion" : "DE LAS FALTAS Y SANCIONES", "idlibro" : 5, "TreeList" : [ 
+    { "id" : 0, "cabecera" :  "CAPITULO I", "descripcion" : "DE LAS INFRACCIONES", "idlibro" : 5, "TreeList" : [ 
+    { "id" : 8138, "cabecera" :  "ARTICULO 139.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8139, "cabecera" :  "ARTICULO 140.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8140, "cabecera" :  "ARTICULO 141.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8141, "cabecera" :  "ARTICULO 142.- ", "descripcion" : "", "idlibro" : 5 }]},
+    { "id" : 0, "cabecera" :  "CAPITULO II", "descripcion" : "DE LAS SANCIONES", "idlibro" : 5, "TreeList" : [ 
+    { "id" : 8142, "cabecera" :  "ARTICULO 143.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8143, "cabecera" :  "ARTICULO 144.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8144, "cabecera" :  "ARTICULO 145.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8145, "cabecera" :  "ARTICULO 146.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8146, "cabecera" :  "ARTICULO 147.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8147, "cabecera" :  "ARTICULO 148.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8148, "cabecera" :  "ARTICULO 149.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8149, "cabecera" :  "ARTICULO 150.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8150, "cabecera" :  "ARTICULO 151.- ", "descripcion" : "", "idlibro" : 5 }]},
+    { "id" : 0, "cabecera" :  "CAPITULO III", "descripcion" : "DE LOS ACCIDENTES DE TRANSITO", "idlibro" : 5, "TreeList" : [ 
+    { "id" : 8151, "cabecera" :  "ARTICULO 152.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8152, "cabecera" :  "ARTICULO 153.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8153, "cabecera" :  "ARTICULO 154.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8154, "cabecera" :  "ARTICULO 155.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8155, "cabecera" :  "ARTICULO 156.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8156, "cabecera" :  "ARTICULO 157.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8157, "cabecera" :  "ARTICULO 158.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8158, "cabecera" :  "ARTICULO 159.- ", "descripcion" : "", "idlibro" : 5 }]},
+    { "id" : 0, "cabecera" :  "CAPITULO IV", "descripcion" : "DE LAS RESPONSABILIDADES", "idlibro" : 5, "TreeList" : [ 
+    { "id" : 8159, "cabecera" :  "ARTICULO 160.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8160, "cabecera" :  "ARTICULO 161.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8161, "cabecera" :  "ARTICULO 162.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8162, "cabecera" :  "ARTICULO 163.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8163, "cabecera" :  "ARTICULO 164.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8164, "cabecera" :  "ARTICULO 165.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8165, "cabecera" :  "ARTICULO 166.- ", "descripcion" : "", "idlibro" : 5 }]},
+    { "id" : 0, "cabecera" :  "CAPITULO V", "descripcion" : "DEL EMBARGO Y DEL SECUESTRO", "idlibro" : 5, "TreeList" : [ 
+    { "id" : 8166, "cabecera" :  "ARTICULO 167.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8167, "cabecera" :  "ARTICULO 168.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8168, "cabecera" :  "ARTICULO 169.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8169, "cabecera" :  "ARTICULO 170.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8170, "cabecera" :  "ARTICULO 171.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8171, "cabecera" :  "ARTICULO 172.- ", "descripcion" : "", "idlibro" : 5 }]},
+    { "id" : 0, "cabecera" :  "CAPITULO VI", "descripcion" : "DE LA JURISDICCION", "idlibro" : 5, "TreeList" : [ 
+    { "id" : 8172, "cabecera" :  "ARTICULO 173.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8173, "cabecera" :  "ARTICULO 174.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8174, "cabecera" :  "ARTICULO 175.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8175, "cabecera" :  "ARTICULO 176.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8176, "cabecera" :  "ARTICULO 177.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8177, "cabecera" :  "ARTICULO 178.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8178, "cabecera" :  "ARTICULO 179.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8179, "cabecera" :  "ARTICULO 180.- ", "descripcion" : "", "idlibro" : 5 }]},
+    { "id" : 0, "cabecera" :  "CAPITULO VII", "descripcion" : "DE LOS JUZGADOS DE TRANSITO", "idlibro" : 5, "TreeList" : [ 
+    { "id" : 8180, "cabecera" :  "ARTICULO 181.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8181, "cabecera" :  "ARTICULO 182.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8182, "cabecera" :  "ARTICULO 183.- ", "descripcion" : "", "idlibro" : 5 }]},
+    { "id" : 0, "cabecera" :  "CAPITULO VIII", "descripcion" : "DE LA PRESCRIPCION", "idlibro" : 5, "TreeList" : [ 
+    { "id" : 8183, "cabecera" :  "ARTICULO 184.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8184, "cabecera" :  "ARTICULO 185.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8185, "cabecera" :  "ARTICULO 186- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8186, "cabecera" :  "ARTICULO 187.- ", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8187, "cabecera" :  "DISPOSICIONES FINALES", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8188, "cabecera" :  "DISPOSICIONES TRANSITORIAS", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 8189, "cabecera" :  "ARTICULO 200.- ", "descripcion" : "", "idlibro" : 5 }]}
+    ]}
+    ,
+    { "id" : 0, "cabecera" :  "", "descripcion" : "", "idlibro" : 5 }, 
+    { "id" : 0, "cabecera" :  "", "descripcion" : "", "idlibro" : 5 }
+    ]
+    

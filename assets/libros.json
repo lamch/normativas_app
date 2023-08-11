@@ -1,0 +1,18 @@
+[
+{ "id" : 1, "cabecera" : "CONSTITUCIÓN POLÍTICA DEL ESTADO", "descripcion" : "Fecha de emisión/promulgación: 7 de Febrero de 2009", "estado" : 1 },
+{ "id" : 2, "cabecera" : "Código Civil", "descripcion" : "Fecha de emisión/promulgación: 6 de Agosto 1975" , "estado" : 1},
+{ "id" : 3, "cabecera" : "Código de Comercio", "descripcion" : "Fecha de emisión/promulgación: 25 de Febrero 1977", "estado" : 1},
+{ "id" : 4, "cabecera" : "Código Procesal Civil", "descripcion" : "Fecha de emisión/promulgación: 19 de Noviembre 2013" , "estado" : 1},
+{ "id" : 5, "cabecera" : "Código Nacional de Transito", "descripcion" : "Fecha de emisión/promulgación: 16 de Febrero 1973" , "estado" : 1},
+{ "id" : 6, "cabecera" : "Ley de Servicios Financieros", "descripcion" : "Fecha de emisión/promulgación: 21 de Agosto 2013" , "estado" : 0},
+{ "id" : 7, "cabecera" : "Ley de Mineria y Metalurgia", "descripcion" : "Fecha de emisión/promulgación: 28 de Mayo 2014" , "estado" : 0},
+{ "id" : 8, "cabecera" : "Ley de Lucha contra la Corrupcion, Enriquecimiento Ilicito e Investigacion de Fortunas Marcelo Quiroga Santa Cruz (004)", "descripcion" : "Fecha de emisión/promulgación: 31 de Marzo 2010" , "estado" : 0},
+{ "id" : 9, "cabecera" : "Código Niña, Niño y Adolescente", "descripcion" : "Fecha de emisión/promulgación: 17 de Julio 2014" , "estado" : 0},
+{ "id" : 10, "cabecera" : "LEY DE LA EDUCACIÓN AVELINO SIÑANI - ELIZARDO PEREZ", "descripcion" : "Fecha de emisión/promulgación: 20 de Diciembre 2010" , "estado" : 0},
+{ "id" : 11, "cabecera" : "LEY AL CONTROL AL EXPENDIO Y CONSUMO DE BEBIDAS ALCOHÓLICAS", "descripcion" : "Fecha de emisión/promulgación: 11 de Julio 2012" , "estado" : 0},
+{ "id" : 12, "cabecera" : "Código de Seguridad Social aprobado por Ley s/n de 14/12/1956", "descripcion" : "14 de Diciembre 1956" , "estado" : 0},
+{ "id" : 13, "cabecera" : "LEY GENERAL DEL TRABAJO", "descripcion" : "Fecha de emisión/promulgación: 23 de Agosto 1943" , "estado" : 0},
+{ "id" : 14, "cabecera" : "LEY CONTRA EL RACISMO Y TODA FORMA DE DISCRIMINACIÓN", "descripcion" : "Fecha de emisión/promulgación: 8 de Octubre 2010" , "estado" : 0},
+{ "id" : 15, "cabecera" : "LEY MARCO DE AUTONOMÍAS Y DESCENTRALIZACIÓN", "descripcion" : "Fecha de emisión/promulgación: 19 de Julio 2010" , "estado" : 0},
+{ "id" : 16, "cabecera" : "CÓDIGO PENAL", "descripcion" : "Fecha de emisión/promulgación: 23 de Agosto 1972" , "estado" : 0}
+]
