@@ -308,7 +308,6 @@ class PrincipalState extends State<Principal> {
                       title: const Text('Lista de Favoritos',
                           style: const TextStyle(fontSize: 20.0)),
                       onTap: () {
-                        compraLibros > 0 ? _showInterstitialAd() : "";
                         navigateToFavorito();
                       },
                     ),
@@ -381,7 +380,7 @@ class PrincipalState extends State<Principal> {
                       title: const Text('Ayuda',
                           style: const TextStyle(fontSize: 20.0)),
                       onTap: () {
-                        compraLibros > 0 ? _showInterstitialAd() : "";
+                        //compraLibros > 0 ? _showInterstitialAd() : "";
                         navigateToAyuda();
                       },
                     ),
@@ -480,7 +479,7 @@ class PrincipalState extends State<Principal> {
 
     if (compraLibros > 0) {
       await Navigator.push(context, MaterialPageRoute(builder: (context) {
-        return DemoPage();
+        //return DemoPage();
       }));
 
       carga();

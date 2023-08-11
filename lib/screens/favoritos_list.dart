@@ -8,9 +8,9 @@ import 'package:sqflite/sqflite.dart';
 import 'lista_json.dart';
 
 class Favoritos extends StatefulWidget {
-final int mostrarComercial;
+  final int mostrarComercial;
 
-Favoritos(this.mostrarComercial);
+  Favoritos(this.mostrarComercial);
 
   @override
   State<StatefulWidget> createState() {
@@ -24,13 +24,11 @@ class FavoritosState extends State<Favoritos> {
   List<Articulo> noteList;
   List<Articulo> noteListFiltro;
   int count = 0;
-int mostrarComercial;
+  int mostrarComercial;
   Icon cusIcon = Icon(Icons.search);
   Widget cusSearchBar = Text("Favoritos");
 
-FavoritosState(this.mostrarComercial);
-
-
+  FavoritosState(this.mostrarComercial);
 
   @override
   Widget build(BuildContext context) {
@@ -48,62 +46,61 @@ FavoritosState(this.mostrarComercial);
             theme: notifier.darkTheme ? dark : light,
             debugShowCheckedModeBanner: false,
             home: Scaffold(
-            
-              appBar: AppBar(actions: <Widget>[
-                IconButton(
-                    onPressed: () {
-                      setState(() {
-                        if (this.cusIcon.icon == Icons.search) {
-                          this.cusIcon = Icon(Icons.cancel);
-                          this.cusSearchBar = TextField(
-                            autofocus: true,
-                            textInputAction: TextInputAction.go,
-                            decoration: InputDecoration(
-                              border: InputBorder.none,
-                              hintStyle: TextStyle(color: Colors.grey), 
-                              hintText: "Buscar Favorito",
-                            ),
-                            style: TextStyle(
-                              color: Colors.white,
-                              fontSize: 16.0,
-                            ),
-                            onChanged: (string) {
-                              _debouncer.run(() {
-                                setState(() {
-                                  noteListFiltro = this
-                                      .noteList
-                                      .where((u) => (u.cabecera
-                                              .toLowerCase()
-                                              .contains(string.toLowerCase()) ||
-                                          u.descripcion
-                                              .toLowerCase()
-                                              .contains(string.toLowerCase())))
-                                      .toList();
-                                });
-                              });
-                            },
-                          );
-                        } else {
-                          this.cusIcon = Icon(Icons.search);
-                          this.cusSearchBar = Text("Favoritos");
-                          noteListFiltro = noteList;
-                        }
-                      });
-                    },
-                    icon: cusIcon)
-              ], 
-                    leading: IconButton(
-                icon: Icon(Icons.arrow_back),
-                onPressed: () {               
-                  Navigator.pop(context);
-                }),
-        
-              
-              title: cusSearchBar),
-              body:  Container(
+              appBar: AppBar(
+                  actions: <Widget>[
+                    IconButton(
+                        onPressed: () {
+                          setState(() {
+                            if (this.cusIcon.icon == Icons.search) {
+                              this.cusIcon = Icon(Icons.cancel);
+                              this.cusSearchBar = TextField(
+                                autofocus: true,
+                                textInputAction: TextInputAction.go,
+                                decoration: InputDecoration(
+                                  border: InputBorder.none,
+                                  hintStyle: TextStyle(color: Colors.grey),
+                                  hintText: "Buscar Favorito",
+                                ),
+                                style: TextStyle(
+                                  color: Colors.white,
+                                  fontSize: 16.0,
+                                ),
+                                onChanged: (string) {
+                                  _debouncer.run(() {
+                                    setState(() {
+                                      noteListFiltro = this
+                                          .noteList
+                                          .where((u) => (u.cabecera
+                                                  .toLowerCase()
+                                                  .contains(
+                                                      string.toLowerCase()) ||
+                                              u.descripcion
+                                                  .toLowerCase()
+                                                  .contains(
+                                                      string.toLowerCase())))
+                                          .toList();
+                                    });
+                                  });
+                                },
+                              );
+                            } else {
+                              this.cusIcon = Icon(Icons.search);
+                              this.cusSearchBar = Text("Favoritos");
+                              noteListFiltro = noteList;
+                            }
+                          });
+                        },
+                        icon: cusIcon)
+                  ],
+                  leading: IconButton(
+                      icon: Icon(Icons.arrow_back),
+                      onPressed: () {
+                        Navigator.pop(context);
+                      }),
+                  title: cusSearchBar),
+              body: Container(
                   margin: const EdgeInsets.only(bottom: 50.0),
-                  child: getNoteListView()
-              ),
+                  child: getNoteListView()),
             ),
           );
         },
@@ -139,8 +136,7 @@ FavoritosState(this.mostrarComercial);
   }
 
   void navigateToDetail(int idlibro, String title, int id) async {
-    
-        await Navigator.push(context, MaterialPageRoute(builder: (context) {
+    await Navigator.push(context, MaterialPageRoute(builder: (context) {
       return ListaJson(idlibro, title, id, mostrarComercial);
     }));
 
